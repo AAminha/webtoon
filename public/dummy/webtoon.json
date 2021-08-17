@@ -1,5 +1,12 @@
 {
-    "webtoonList":[
+    "section_display_ad":{
+    "section_uid":1022
+},
+    "total_count":118,
+    "is_end":false,
+    "message":"성공",
+    "title":"요일 연재 TOP",
+    "list":[
     {
         "uid":94135,
         "series_id":56329995,
