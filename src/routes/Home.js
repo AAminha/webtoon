@@ -1,16 +1,40 @@
 import axios from "axios";
-import React, { useState } from "react";
+import Webtoon from "components/Webtoon";
+import React, { useEffect, useState } from "react";
 
-const Home = () => {
+const Home = ({ userObj }) => {
     const [webtoons, setWebtoons] = useState([]);
-    setWebtoons = null;
 
-    getWebtoons = async () => {
-        const apiUrl = "https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon.json";
+    const getWebtoons = async () => {
+        const {
+            data : {list}
+        } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon.json");
 
-        const webtoon = await axios.get(apiUrl);
-        console.log(webtoon);
-    };
+        setWebtoons (list);
+    }
+
+    useEffect(() => {
+        getWebtoons();
+    }, []);
+
+    return (
+        <div>
+            <div>현재 여기는 Home</div>
+            <div>
+                {webtoons.map((webtoon) =>(
+                    <Webtoon
+                        key = {webtoon.uid}
+                        title = {webtoon.title}
+                        author = {webtoon.author}
+                        category = {webtoon.sub_category}
+                        pubperiod = {webtoon.pubperiod}
+                        image = {webtoon.image}
+                    />
+                ))}
+            </div>
+        </div>
+    );
+    
 };
 
 export default Home;

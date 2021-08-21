@@ -1,11 +1,11 @@
 import AuthForm from "components/AuthForm";
-import { authService } from "fbase";
+import { authService, firebaseInstance } from "fbase";
 import React from "react";
 
 const Auth = () => {
-    const onGoogleClick = (event) => {
-        let provider = new authService.GoogleAuthProvider();
-        authService.signInWithPopup(provider);
+    const onGoogleClick = async (event) => {
+        let provider = new firebaseInstance.auth.GoogleAuthProvider();
+        await authService.signInWithPopup(provider);
     }
 
     return (

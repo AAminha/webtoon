@@ -1,0 +1,2732 @@
+[
+    {
+        "id": "nclk_v2(event,'thm*m.img','','1')",
+        "title": "참교육",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758037/thumbnail/thumbnail_IMAG10_a2297504-4912-4c7e-a5a8-524d6fc77103.jpg",
+        "url": "/webtoon/list?titleId=758037&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','2')",
+        "title": "신의 탑",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/183559/thumbnail/thumbnail_IMAG10_9a752bec-9ebd-4214-9449-28cf4defc650.jpg",
+        "url": "/webtoon/list?titleId=183559&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','3')",
+        "title": "뷰티풀 군바리",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/648419/thumbnail/thumbnail_IMAG10_1421195d-13be-4cde-bcf9-0c78d51c5ea3.jpg",
+        "url": "/webtoon/list?titleId=648419&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','4')",
+        "title": "윈드브레이커",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/602910/thumbnail/thumbnail_IMAG10_8914c548-d69d-45d6-8008-bbc129e637c2.jpg",
+        "url": "/webtoon/list?titleId=602910&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','5')",
+        "title": "팔이피플",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774863/thumbnail/thumbnail_IMAG10_bcaea87e-33e2-4a5f-90d7-bf6bc8998e34.jpg",
+        "url": "/webtoon/list?titleId=774863&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','6')",
+        "title": "장씨세가 호위무사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/728750/thumbnail/thumbnail_IMAG10_d991c7c7-8068-48ce-b03b-54d4df8c8197.jpg",
+        "url": "/webtoon/list?titleId=728750&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','7')",
+        "title": "백수세끼",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733074/thumbnail/thumbnail_IMAG10_0741d1f6-2bae-474b-87ae-6f1a69988808.jpg",
+        "url": "/webtoon/list?titleId=733074&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','8')",
+        "title": "소녀의 세계",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/654774/thumbnail/thumbnail_IMAG10_c966c4af-f642-4531-b39b-74c284034d9e.jpg",
+        "url": "/webtoon/list?titleId=654774&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','9')",
+        "title": "파이게임",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/749632/thumbnail/thumbnail_IMAG10_8e2f81f2-e0c1-4e7a-8d34-ddfb10635ac5.jpg",
+        "url": "/webtoon/list?titleId=749632&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','10')",
+        "title": "앵무살수",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/739115/thumbnail/thumbnail_IMAG10_a206c88b-0b8c-461d-b9e0-76ae8f6ee8ff.jpg",
+        "url": "/webtoon/list?titleId=739115&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','11')",
+        "title": "삼매경",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769317/thumbnail/thumbnail_IMAG10_09200bd8-ea5b-465f-aa55-f51256bfe812.jpg",
+        "url": "/webtoon/list?titleId=769317&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','12')",
+        "title": "만렙돌파",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759940/thumbnail/thumbnail_IMAG10_7abdbbb8-b81c-46ec-8a35-3a9730fc02fa.jpg",
+        "url": "/webtoon/list?titleId=759940&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','13')",
+        "title": "요리GO",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/703849/thumbnail/thumbnail_IMAG10_097cd002-38ad-47d0-99b8-05d4b2044a9d.jpg",
+        "url": "/webtoon/list?titleId=703849&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','14')",
+        "title": "잔불의 기사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768536/thumbnail/thumbnail_IMAG10_51cf501c-79a5-48c9-957d-455931cbb0c3.jpg",
+        "url": "/webtoon/list?titleId=768536&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','15')",
+        "title": "유일무이 로맨스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/709731/thumbnail/thumbnail_IMAG10_b26742fe-0090-40db-a52f-9d6c97f3ada5.jpg",
+        "url": "/webtoon/list?titleId=709731&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','16')",
+        "title": "칼가는 소녀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/730174/thumbnail/thumbnail_IMAG10_df034319-e76a-42d5-a3dd-5412c67f29d4.jpg",
+        "url": "/webtoon/list?titleId=730174&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','17')",
+        "title": "히어로메이커",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/21815/thumbnail/thumbnail_title_21815_83x90.gif",
+        "url": "/webtoon/list?titleId=21815&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','18')",
+        "title": "꼬리잡기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758666/thumbnail/thumbnail_IMAG10_4f99539c-4edc-494e-b6e2-3cc5369d7913.jpg",
+        "url": "/webtoon/list?titleId=758666&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','19')",
+        "title": "리턴 투 플레이어",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752414/thumbnail/thumbnail_IMAG10_edfdf4b2-914c-4864-8966-7b65d52994e9.jpg",
+        "url": "/webtoon/list?titleId=752414&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','20')",
+        "title": "물어보는 사이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772725/thumbnail/thumbnail_IMAG10_e78a5124-b03d-4a2b-8295-7549b38f99cf.jpg",
+        "url": "/webtoon/list?titleId=772725&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','21')",
+        "title": "결혼생활 그림일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/741891/thumbnail/thumbnail_IMAG10_0493a07d-a793-44e7-b6f8-7c2439cc61c9.jpg",
+        "url": "/webtoon/list?titleId=741891&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','22')",
+        "title": "오늘의 순정망화",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/716857/thumbnail/thumbnail_IMAG10_fb5f2776-982c-4891-b844-e617a907d5c9.jpg",
+        "url": "/webtoon/list?titleId=716857&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','23')",
+        "title": "아, 쫌 참으세요 영주님!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774703/thumbnail/thumbnail_IMAG10_40c1ebe5-fbc4-40ff-9d9e-2655398a239c.jpg",
+        "url": "/webtoon/list?titleId=774703&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','24')",
+        "title": "더블클릭",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769663/thumbnail/thumbnail_IMAG10_95cf0547-3483-45bd-9b7a-73c1fe9c68df.jpg",
+        "url": "/webtoon/list?titleId=769663&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','25')",
+        "title": "영앤리치가 아니야!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/734574/thumbnail/thumbnail_IMAG10_3826e6bf-18f7-4f56-9b15-3cc5e1b0e6ff.jpg",
+        "url": "/webtoon/list?titleId=734574&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','26')",
+        "title": "약초마을 연쇄살초사건",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776541/thumbnail/thumbnail_IMAG10_83f65b3c-c850-4656-a3b9-05cb7f555b5e.jpg",
+        "url": "/webtoon/list?titleId=776541&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','27')",
+        "title": "평범한 8반",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/597478/thumbnail/thumbnail_IMAG10_223dbebf-64c9-4de2-804d-0389d5c11d73.jpg",
+        "url": "/webtoon/list?titleId=597478&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','28')",
+        "title": "수영만화일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768534/thumbnail/thumbnail_IMAG10_aa734331-7228-4c02-9276-fbb7fcd27ef8.jpg",
+        "url": "/webtoon/list?titleId=768534&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','29')",
+        "title": "아는 여자애",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/738809/thumbnail/thumbnail_IMAG10_b405b08b-cb48-47ee-b6b7-10ecade65033.jpg",
+        "url": "/webtoon/list?titleId=738809&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','30')",
+        "title": "장난감",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770656/thumbnail/thumbnail_IMAG10_6c736096-e0a0-4fd0-bc3f-9b8a283ce273.jpg",
+        "url": "/webtoon/list?titleId=770656&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','31')",
+        "title": "황제와의 하룻밤",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758671/thumbnail/thumbnail_IMAG10_052d1275-3145-4c1a-b7ab-af39cf8a6599.jpg",
+        "url": "/webtoon/list?titleId=758671&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','32')",
+        "title": "하루의 하루",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774302/thumbnail/thumbnail_IMAG10_30301e27-fdd2-4a62-b928-ba1bc599f91a.jpg",
+        "url": "/webtoon/list?titleId=774302&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','33')",
+        "title": "꿈의 기업",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/687915/thumbnail/thumbnail_IMAG10_e03acc4a-a1ce-4ebc-a021-e3cc07af5f20.jpg",
+        "url": "/webtoon/list?titleId=687915&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','34')",
+        "title": "순정말고 순종",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761461/thumbnail/thumbnail_IMAG10_bc1bf7e1-0a45-4b65-8484-4e1683c57baa.jpg",
+        "url": "/webtoon/list?titleId=761461&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','35')",
+        "title": "최후의 금빛아이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772734/thumbnail/thumbnail_IMAG10_37fe38e8-2009-423a-8ccf-6971616c6e66.jpg",
+        "url": "/webtoon/list?titleId=772734&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','36')",
+        "title": "야생천사 보호구역",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/767919/thumbnail/thumbnail_IMAG10_261a0e42-cb4f-41e1-afcc-43eab555530d.jpg",
+        "url": "/webtoon/list?titleId=767919&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','37')",
+        "title": "와이키키 뱀파이어",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/744320/thumbnail/thumbnail_IMAG10_9c0e1d72-04c4-4f61-871f-c68290b5d375.jpg",
+        "url": "/webtoon/list?titleId=744320&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','38')",
+        "title": "모스크바의 여명",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772243/thumbnail/thumbnail_IMAG10_03d8fba5-3abb-4801-ac40-f065a983a484.jpg",
+        "url": "/webtoon/list?titleId=772243&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','39')",
+        "title": "착한건 돈이된다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/766575/thumbnail/thumbnail_IMAG10_710d1d78-083d-41c6-ad75-7359d7e691ac.jpg",
+        "url": "/webtoon/list?titleId=766575&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','40')",
+        "title": "사랑의 헌옷수거함",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758667/thumbnail/thumbnail_IMAG10_1c4acfac-0d64-4177-872c-477afc640a18.jpg",
+        "url": "/webtoon/list?titleId=758667&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','41')",
+        "title": "왕따협상",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752350/thumbnail/thumbnail_IMAG10_337ea019-5c3f-403e-a112-9244c8116c0e.jpg",
+        "url": "/webtoon/list?titleId=752350&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','42')",
+        "title": "선배, 그 립스틱 바르지 마요",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762237/thumbnail/thumbnail_IMAG10_55ccac22-dba5-4d20-8ad0-fb7610fe8ea8.jpg",
+        "url": "/webtoon/list?titleId=762237&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','43')",
+        "title": "이중첩자",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752413/thumbnail/thumbnail_IMAG10_86185923-7827-4354-9f72-a05133fbd92e.jpg",
+        "url": "/webtoon/list?titleId=752413&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','44')",
+        "title": "원하는 건 너 하나",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752530/thumbnail/thumbnail_IMAG10_5482b0b9-e708-4047-885a-9c015a6faa3d.jpg",
+        "url": "/webtoon/list?titleId=752530&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','45')",
+        "title": "또다시, 계약 부부",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774040/thumbnail/thumbnail_IMAG10_7cb6588b-7a7b-41cc-9275-3a2e65bd593d.jpg",
+        "url": "/webtoon/list?titleId=774040&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','46')",
+        "title": "백호랑",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/745654/thumbnail/thumbnail_IMAG10_791e7b17-10c6-46f1-ad8c-653d090fd168.jpg",
+        "url": "/webtoon/list?titleId=745654&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','47')",
+        "title": "마지막 지수",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765776/thumbnail/thumbnail_IMAG10_93784ff4-28e7-4848-b0e4-ae1adbd59a5a.jpg",
+        "url": "/webtoon/list?titleId=765776&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','48')",
+        "title": "ㅋㄷㅋㄷ만화",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/715206/thumbnail/thumbnail_IMAG10_274b37a0-eecb-4b2c-8ba1-509e80b608fa.jpg",
+        "url": "/webtoon/list?titleId=715206&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','49')",
+        "title": "라서드",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/756140/thumbnail/thumbnail_IMAG10_c80848c1-5a94-4f77-a069-e869e8995186.jpg",
+        "url": "/webtoon/list?titleId=756140&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','50')",
+        "title": "중독연구소",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/740132/thumbnail/thumbnail_IMAG10_75fe6ace-e0ba-4e97-95ac-ac1144395b11.jpg",
+        "url": "/webtoon/list?titleId=740132&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','51')",
+        "title": "드로잉 레시피",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/750493/thumbnail/thumbnail_IMAG10_171a5039-1ee8-476e-b321-0681525c51fd.jpg",
+        "url": "/webtoon/list?titleId=750493&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','52')",
+        "title": "살아간다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761553/thumbnail/thumbnail_IMAG10_c0b9bba9-d320-40d4-93ee-cd01b2f95685.jpg",
+        "url": "/webtoon/list?titleId=761553&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','53')",
+        "title": "이탄국의 자청비",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759420/thumbnail/thumbnail_IMAG10_fca0896c-4b50-40eb-b037-499f453dcb9e.jpg",
+        "url": "/webtoon/list?titleId=759420&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','54')",
+        "title": "바로 보지 않는",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764041/thumbnail/thumbnail_IMAG10_f4bfa353-9736-49e6-af74-8aae83bfc74e.jpg",
+        "url": "/webtoon/list?titleId=764041&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','55')",
+        "title": "모락모락 왕세자님",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/734918/thumbnail/thumbnail_IMAG10_c4eb0e76-aedd-45b3-9c5b-964db66bd69c.jpg",
+        "url": "/webtoon/list?titleId=734918&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','56')",
+        "title": "그림자 신부",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/767979/thumbnail/thumbnail_IMAG10_9825a874-1e45-4d0c-8637-e9c1345085dd.jpg",
+        "url": "/webtoon/list?titleId=767979&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','57')",
+        "title": "개밥 먹는 남자",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761463/thumbnail/thumbnail_IMAG10_d08e69dd-1047-4ddd-9392-dafac6789044.jpg",
+        "url": "/webtoon/list?titleId=761463&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','58')",
+        "title": "사막에 핀 달",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769801/thumbnail/thumbnail_IMAG10_4e4adc42-906b-4db4-aa6e-63e5cd66e17c.jpg",
+        "url": "/webtoon/list?titleId=769801&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','59')",
+        "title": "보살님이 캐리해!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/756790/thumbnail/thumbnail_IMAG10_45728c1e-50de-44f1-a3f1-d1af29dfc9d2.jpg",
+        "url": "/webtoon/list?titleId=756790&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','60')",
+        "title": "트리거",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764480/thumbnail/thumbnail_IMAG10_079ee088-f175-40ed-9553-8bf2eb10e025.jpg",
+        "url": "/webtoon/list?titleId=764480&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','61')",
+        "title": "오로지 오로라",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764623/thumbnail/thumbnail_IMAG10_f313d5ed-410b-4892-91f8-d77e385423c3.jpg",
+        "url": "/webtoon/list?titleId=764623&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','62')",
+        "title": "헬로맨스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/754872/thumbnail/thumbnail_IMAG10_6c4d0e20-77a0-43ef-881a-6798f874278b.jpg",
+        "url": "/webtoon/list?titleId=754872&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*m.img','','63')",
+        "title": "기사님을 지켜줘",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770590/thumbnail/thumbnail_IMAG10_ed42b29a-9760-40e8-9281-825c004f0b23.jpg",
+        "url": "/webtoon/list?titleId=770590&weekday=mon"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','1')",
+        "title": "여신강림",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/703846/thumbnail/thumbnail_IMAG10_35503130-16ce-4236-b913-0fe76226de36.jpg",
+        "url": "/webtoon/list?titleId=703846&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','2')",
+        "title": "용사가 돌아왔다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773459/thumbnail/thumbnail_IMAG10_050d4f7b-68b1-496a-95fa-b86564875846.jpg",
+        "url": "/webtoon/list?titleId=773459&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','3')",
+        "title": "엽총소년",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759925/thumbnail/thumbnail_IMAG10_ab461af8-c357-459e-bf71-cdbb924cffcf.jpg",
+        "url": "/webtoon/list?titleId=759925&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','4')",
+        "title": "한림체육관",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/743139/thumbnail/thumbnail_IMAG10_df1a8c2f-63c4-44e1-b1f5-907c41c13243.jpg",
+        "url": "/webtoon/list?titleId=743139&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','5')",
+        "title": "하루만 네가 되고 싶어",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/738487/thumbnail/thumbnail_IMAG10_6704ef3b-2596-4fba-b40d-9ec522dfd866.jpg",
+        "url": "/webtoon/list?titleId=738487&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','6')",
+        "title": "사신소년",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/730656/thumbnail/thumbnail_IMAG10_b324ec4f-f869-4b55-b2fb-63306bef3a41.jpg",
+        "url": "/webtoon/list?titleId=730656&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','7')",
+        "title": "중증외상센터 : 골든 아워",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/738174/thumbnail/thumbnail_IMAG10_da06bb94-8176-4b0f-a0e6-cd57f2690ad0.jpg",
+        "url": "/webtoon/list?titleId=738174&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','8')",
+        "title": "랜덤채팅의 그녀!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/702608/thumbnail/thumbnail_IMAG10_85425026-fd1c-4a8a-8d58-e257bbf892c0.jpg",
+        "url": "/webtoon/list?titleId=702608&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','9')",
+        "title": "신도림",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/683496/thumbnail/thumbnail_IMAG10_69a59ea4-ece8-4454-beea-a730adae236f.jpg",
+        "url": "/webtoon/list?titleId=683496&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','10')",
+        "title": "덴큐",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/778963/thumbnail/thumbnail_IMAG10_fd0ecb4a-1e1b-46a6-9b46-f55239740784.jpg",
+        "url": "/webtoon/list?titleId=778963&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','11')",
+        "title": "니나의 마법서랍",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772401/thumbnail/thumbnail_IMAG10_37107ea5-7086-458e-b4f8-2906192ce9b5.jpg",
+        "url": "/webtoon/list?titleId=772401&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','12')",
+        "title": "헬58",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/719508/thumbnail/thumbnail_IMAG10_7588cd34-ae5d-4b49-aeb7-21404d7503ef.jpg",
+        "url": "/webtoon/list?titleId=719508&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','13')",
+        "title": "블랙 위도우",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775721/thumbnail/thumbnail_IMAG10_02769750-0e08-426d-a75e-8a82000a348a.jpg",
+        "url": "/webtoon/list?titleId=775721&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','14')",
+        "title": "달콤살벌한 부부",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753856/thumbnail/thumbnail_IMAG10_61cd690d-7c5f-449f-8384-f7642c368a04.jpg",
+        "url": "/webtoon/list?titleId=753856&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','15')",
+        "title": "호랑이 들어와요",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/757904/thumbnail/thumbnail_IMAG10_7a4f9439-1f09-47fa-a834-b69197b21d30.jpg",
+        "url": "/webtoon/list?titleId=757904&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','16')",
+        "title": "천마는 평범하게 살 수 없다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774358/thumbnail/thumbnail_IMAG10_6a2f9990-0ff5-47da-aa59-6c1f68954e6f.jpg",
+        "url": "/webtoon/list?titleId=774358&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','17')",
+        "title": "집이 없어",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/721433/thumbnail/thumbnail_IMAG10_e9488dab-e61d-4219-93d2-75737f6be3de.jpg",
+        "url": "/webtoon/list?titleId=721433&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','18')",
+        "title": "오피스 누나 이야기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755694/thumbnail/thumbnail_IMAG10_2e14da99-d098-428e-85c7-0879e02a8287.jpg",
+        "url": "/webtoon/list?titleId=755694&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','19')",
+        "title": "원주민 공포만화",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/698918/thumbnail/thumbnail_IMAG10_1ffbcabb-b5fd-41d8-9500-faaee1d3cbb4.jpg",
+        "url": "/webtoon/list?titleId=698918&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','20')",
+        "title": "삼국지톡",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/711422/thumbnail/thumbnail_IMAG10_4873773c-d8f0-430e-85d2-995f395b571f.jpg",
+        "url": "/webtoon/list?titleId=711422&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','21')",
+        "title": "몬스터",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771044/thumbnail/thumbnail_IMAG10_bc5980e0-19e8-46da-85f6-99e6a78a139a.jpg",
+        "url": "/webtoon/list?titleId=771044&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','22')",
+        "title": "윌유메리미",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/616239/thumbnail/title_thumbnail_20161031214436_t83x90.jpg",
+        "url": "/webtoon/list?titleId=616239&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','23')",
+        "title": "아이레",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/754875/thumbnail/thumbnail_IMAG10_de87cbe7-e6f8-4207-9c9b-0b214e99d875.JPG",
+        "url": "/webtoon/list?titleId=754875&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','24')",
+        "title": "위아더좀비",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/766648/thumbnail/thumbnail_IMAG10_c081d7c7-0bbe-4815-9596-c486a2fbb013.jpg",
+        "url": "/webtoon/list?titleId=766648&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','25')",
+        "title": "하우스키퍼",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/723046/thumbnail/thumbnail_IMAG10_bcbb3000-5fca-4d1d-b93a-087b03a2a13b.jpg",
+        "url": "/webtoon/list?titleId=723046&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','26')",
+        "title": "이상형은 아닙니다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776093/thumbnail/thumbnail_IMAG10_be5d14cd-9ef2-4271-a496-e805c1e2ba09.jpg",
+        "url": "/webtoon/list?titleId=776093&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','27')",
+        "title": "빌런투킬",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765156/thumbnail/thumbnail_IMAG10_47b40549-fbad-4dd3-8f0a-f656256643e3.jpg",
+        "url": "/webtoon/list?titleId=765156&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','28')",
+        "title": "오늘의 순정망화",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/716857/thumbnail/thumbnail_IMAG10_fb5f2776-982c-4891-b844-e617a907d5c9.jpg",
+        "url": "/webtoon/list?titleId=716857&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','29')",
+        "title": "견우와 선녀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/740034/thumbnail/thumbnail_IMAG10_441329f7-c6b4-48ff-bbc6-025e0d303865.jpg",
+        "url": "/webtoon/list?titleId=740034&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','30')",
+        "title": "기계증식증",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774504/thumbnail/thumbnail_IMAG10_d149ad42-763d-49ce-8e68-2acea9e6f76a.jpg",
+        "url": "/webtoon/list?titleId=774504&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','31')",
+        "title": "플레이, 플리",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753853/thumbnail/thumbnail_IMAG10_f5d73c61-e9d0-44a4-836d-2608b3876667.jpg",
+        "url": "/webtoon/list?titleId=753853&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','32')",
+        "title": "용왕님의 셰프가 되었습니다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/741449/thumbnail/thumbnail_IMAG10_df502277-7a70-45ec-a553-b6d466a2e0f5.jpg",
+        "url": "/webtoon/list?titleId=741449&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','33')",
+        "title": "아이즈",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/767908/thumbnail/thumbnail_IMAG10_aa8a4061-121a-47c3-b33a-724c632165f7.jpg",
+        "url": "/webtoon/list?titleId=767908&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','34')",
+        "title": "3cm 헌터",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733458/thumbnail/thumbnail_IMAG10_28672aca-7303-4e2a-8ad3-b14f6c449455.jpg",
+        "url": "/webtoon/list?titleId=733458&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','35')",
+        "title": "제로게임",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/676695/thumbnail/thumbnail_IMAG10_e908df03-8da8-4ab3-a9de-c9eff525e5ab.jpg",
+        "url": "/webtoon/list?titleId=676695&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','36')",
+        "title": "성인초딩",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755601/thumbnail/thumbnail_IMAG10_edafaf1f-bcea-4569-b16a-0d557e11a5d9.jpg",
+        "url": "/webtoon/list?titleId=755601&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','37')",
+        "title": "빅맨",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753839/thumbnail/thumbnail_IMAG10_d03af743-513a-4abe-af8a-28a1e623facb.jpg",
+        "url": "/webtoon/list?titleId=753839&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','38')",
+        "title": "정년이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/726214/thumbnail/thumbnail_IMAG10_e673dd9c-d2e3-4926-96aa-fb5ed2de499b.jpg",
+        "url": "/webtoon/list?titleId=726214&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','39')",
+        "title": "은주의 방 2~3부",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/654138/thumbnail/thumbnail_IMAG10_6703cec5-78ee-4a87-9362-e46b6763b432.jpg",
+        "url": "/webtoon/list?titleId=654138&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','40')",
+        "title": "올가미",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/732988/thumbnail/thumbnail_IMAG10_c01143c2-ed1c-4385-835c-5c5994f75ff7.jpg",
+        "url": "/webtoon/list?titleId=732988&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','41')",
+        "title": "악인",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759924/thumbnail/thumbnail_IMAG10_998053f8-d627-4b53-a08f-9664f4dee0b8.jpg",
+        "url": "/webtoon/list?titleId=759924&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','42')",
+        "title": "다꾸남",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775328/thumbnail/thumbnail_IMAG10_365262f2-48e2-43ca-b083-6aa1f419fb35.jpg",
+        "url": "/webtoon/list?titleId=775328&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','43')",
+        "title": "교환학생",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/778228/thumbnail/thumbnail_IMAG10_2447a95e-3e6a-491f-b051-ccfe885316a0.jpg",
+        "url": "/webtoon/list?titleId=778228&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','44')",
+        "title": "나는 어디에나 있다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771063/thumbnail/thumbnail_IMAG10_c8ae7ff8-dc8c-4800-8e2b-5a46cd504b04.jpg",
+        "url": "/webtoon/list?titleId=771063&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','45')",
+        "title": "연우의 순정",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752532/thumbnail/thumbnail_IMAG10_b2862352-4ffb-495b-97f3-91f9d0f4e4ae.jpg",
+        "url": "/webtoon/list?titleId=752532&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','46')",
+        "title": "나타나주세요!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770068/thumbnail/thumbnail_IMAG10_542bf5f9-1d11-430b-ab3b-de6498a8eac6.jpg",
+        "url": "/webtoon/list?titleId=770068&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','47')",
+        "title": "열녀박씨 계약결혼뎐",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761601/thumbnail/thumbnail_IMAG10_5c82ba0c-4f5a-48ef-9847-f7b77e1808f8.jpg",
+        "url": "/webtoon/list?titleId=761601&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','48')",
+        "title": "숲속의 담",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/738145/thumbnail/thumbnail_IMAG10_7c33c185-5110-4c83-9f42-ad2a6951c359.jpg",
+        "url": "/webtoon/list?titleId=738145&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','49')",
+        "title": "태시트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/766966/thumbnail/thumbnail_IMAG10_110f4801-2cdf-4039-a103-a79adc514d95.jpg",
+        "url": "/webtoon/list?titleId=766966&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','50')",
+        "title": "오파츠",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/744381/thumbnail/thumbnail_IMAG10_cf7bf35e-2622-4dbe-b20a-17bf380fc2c1.jpg",
+        "url": "/webtoon/list?titleId=744381&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','51')",
+        "title": "나의 플랏메이트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762073/thumbnail/thumbnail_IMAG10_424bd290-657d-4c68-9555-6f3d33e54ed9.jpg",
+        "url": "/webtoon/list?titleId=762073&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','52')",
+        "title": "그녀석 정복기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770477/thumbnail/thumbnail_IMAG10_2dfa7431-9083-4a10-81a9-21e38950beb3.jpg",
+        "url": "/webtoon/list?titleId=770477&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','53')",
+        "title": "연애는 전쟁!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765822/thumbnail/thumbnail_IMAG10_b927d866-6eed-4274-9625-1e6dae5f4149.jpg",
+        "url": "/webtoon/list?titleId=765822&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','54')",
+        "title": "조선홍보대행사 조대박",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/737019/thumbnail/thumbnail_IMAG10_73fd973c-7a03-4eb9-b554-66c8af1ff683.jpg",
+        "url": "/webtoon/list?titleId=737019&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','55')",
+        "title": "안식의 밤",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/738483/thumbnail/thumbnail_IMAG10_b243227c-6502-4c39-b9aa-09fde861850c.jpg",
+        "url": "/webtoon/list?titleId=738483&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','56')",
+        "title": "대신 심부름을 해다오",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769551/thumbnail/thumbnail_IMAG10_8363faa4-b5f2-4c98-9d06-24b75faed605.jpg",
+        "url": "/webtoon/list?titleId=769551&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','57')",
+        "title": "자판귀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/703850/thumbnail/thumbnail_IMAG10_d093ab2d-a006-457b-92b5-1da097bc3af1.jpg",
+        "url": "/webtoon/list?titleId=703850&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','58')",
+        "title": "급식러너",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770030/thumbnail/thumbnail_IMAG10_96a01ef0-a2cd-4c4e-ada7-76ab6bb9fae7.jpg",
+        "url": "/webtoon/list?titleId=770030&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','59')",
+        "title": "지원이들",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775337/thumbnail/thumbnail_IMAG10_e8e5d678-27f0-438b-863d-0cd036ac3b39.jpg",
+        "url": "/webtoon/list?titleId=775337&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','60')",
+        "title": "언메이크",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/746535/thumbnail/thumbnail_IMAG10_f4602b05-cd1a-447d-9c6e-013ebe1ab4af.jpg",
+        "url": "/webtoon/list?titleId=746535&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','61')",
+        "title": "완벽한 가족",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752531/thumbnail/thumbnail_IMAG10_c96f3a6c-d4ae-4580-8577-6708284d44cb.jpg",
+        "url": "/webtoon/list?titleId=752531&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','62')",
+        "title": "고등매직",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773085/thumbnail/thumbnail_IMAG10_254861fa-aebc-4968-8f5a-dd0c0e6a8698.jpg",
+        "url": "/webtoon/list?titleId=773085&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','63')",
+        "title": "프린스 메이커",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771095/thumbnail/thumbnail_IMAG10_7ea09324-d1e4-4ffc-935d-c7d5922651fa.jpg",
+        "url": "/webtoon/list?titleId=771095&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','64')",
+        "title": "풋내기들",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764622/thumbnail/thumbnail_IMAG10_3bd9ada1-fdb7-473a-a589-d92b2fb67d94.jpg",
+        "url": "/webtoon/list?titleId=764622&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','65')",
+        "title": "NG불가",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774022/thumbnail/thumbnail_IMAG10_5aa0b458-6ded-4af1-9038-d5fd091c56c8.jpg",
+        "url": "/webtoon/list?titleId=774022&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','66')",
+        "title": "하나in세인",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769987/thumbnail/thumbnail_IMAG10_434658ce-7ea8-496c-a421-4c02cdb37ab6.jpg",
+        "url": "/webtoon/list?titleId=769987&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','67')",
+        "title": "피로만땅",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758672/thumbnail/thumbnail_IMAG10_060c8fcd-be1e-46bf-807a-f393e6f1bef2.jpg",
+        "url": "/webtoon/list?titleId=758672&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','68')",
+        "title": "인문학적 감수성",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759923/thumbnail/thumbnail_IMAG10_c7fec612-52af-425a-9ed6-c6d1c8fcb083.jpg",
+        "url": "/webtoon/list?titleId=759923&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*t.img','','69')",
+        "title": "찐:종합게임동아리",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771018/thumbnail/thumbnail_IMAG10_42511c3a-e91b-4946-a345-b4eb716e1e62.jpg",
+        "url": "/webtoon/list?titleId=771018&weekday=tue"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','1')",
+        "title": "헬퍼 2 : 킬베로스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/670143/thumbnail/thumbnail_IMAG10_d2f956f7-2541-4b97-b933-e4aaa2564d14.jpg",
+        "url": "/webtoon/list?titleId=670143&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','2')",
+        "title": "전지적 독자 시점",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/747269/thumbnail/thumbnail_IMAG10_55801c29-223f-46a0-a446-2e55d3024e71.jpg",
+        "url": "/webtoon/list?titleId=747269&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','3')",
+        "title": "조조코믹스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774862/thumbnail/thumbnail_IMAG10_a192356d-8ef5-4e95-94eb-4f71b4ad09e9.jpg",
+        "url": "/webtoon/list?titleId=774862&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','4')",
+        "title": "모죠의 일지",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/728015/thumbnail/thumbnail_IMAG10_f31cda1b-72fa-409e-b1ab-9c4a4e212696.jpg",
+        "url": "/webtoon/list?titleId=728015&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','5')",
+        "title": "튜토리얼 탑의 고인물",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/738694/thumbnail/thumbnail_IMAG10_728d40b3-1224-4e00-b7a8-d16d9adbe137.jpg",
+        "url": "/webtoon/list?titleId=738694&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','6')",
+        "title": "캐슬",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/736744/thumbnail/thumbnail_IMAG10_52c79b5c-7d5e-48ff-a377-ee247b3134bd.jpg",
+        "url": "/webtoon/list?titleId=736744&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','7')",
+        "title": "급식아빠",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758662/thumbnail/thumbnail_IMAG10_576bcc2c-ea9e-4f37-8fe2-dc1faed26f10.jpg",
+        "url": "/webtoon/list?titleId=758662&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','8')",
+        "title": "화산귀환",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769209/thumbnail/thumbnail_IMAG10_13ff2e28-686a-42de-890e-9289550978bc.jpg",
+        "url": "/webtoon/list?titleId=769209&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','9')",
+        "title": "남주의 첫날밤을 가져버렸다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/749639/thumbnail/thumbnail_IMAG10_51043632-6c82-4e51-ab7a-5945724f0df8.jpg",
+        "url": "/webtoon/list?titleId=749639&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','10')",
+        "title": "여주실격!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/738143/thumbnail/thumbnail_IMAG10_16c4ab06-9875-4e0a-b7d9-94f1e3976b5e.jpg",
+        "url": "/webtoon/list?titleId=738143&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','11')",
+        "title": "노곤하개",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/702672/thumbnail/thumbnail_IMAG10_fc61362a-daff-4129-a2bf-d821fcff42bf.jpg",
+        "url": "/webtoon/list?titleId=702672&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','12')",
+        "title": "세상은 돈과 권력",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/710747/thumbnail/thumbnail_IMAG10_62a436dc-7b3e-405a-b143-a7ecf2cd0485.jpg",
+        "url": "/webtoon/list?titleId=710747&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','13')",
+        "title": "블랙홀과 3만원",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775690/thumbnail/thumbnail_IMAG10_7160a8cc-675a-4177-8286-aa2e2e3405c2.jpg",
+        "url": "/webtoon/list?titleId=775690&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','14')",
+        "title": "66666년 만에 환생한 흑마법사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775141/thumbnail/thumbnail_IMAG10_c5ad3b9a-8ca8-41c1-8ce6-646c46d6fd17.jpg",
+        "url": "/webtoon/list?titleId=775141&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','15')",
+        "title": "일렉시드",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/717481/thumbnail/thumbnail_IMAG10_abd208ef-46dd-42ef-942e-df70b9e27386.jpg",
+        "url": "/webtoon/list?titleId=717481&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','16')",
+        "title": "연놈",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/667573/thumbnail/thumbnail_IMAG10_71dd6b56-3beb-4c03-82ce-d77cb470c46e.jpg",
+        "url": "/webtoon/list?titleId=667573&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','17')",
+        "title": "닥터앤닥터 육아일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/732955/thumbnail/thumbnail_IMAG10_404a37ed-7552-41bb-8138-3ea97cc7bb03.jpg",
+        "url": "/webtoon/list?titleId=732955&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','18')",
+        "title": "나쁜사람",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/750184/thumbnail/thumbnail_IMAG10_113cf716-dc7d-4f97-b6a9-a904b55c0ff4.jpg",
+        "url": "/webtoon/list?titleId=750184&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','19')",
+        "title": "고삼무쌍",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/728126/thumbnail/thumbnail_IMAG10_49208c45-8d35-4e1e-b7eb-efca7ff405b9.jpg",
+        "url": "/webtoon/list?titleId=728126&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','20')",
+        "title": "마른 가지에 바람처럼",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/748535/thumbnail/thumbnail_IMAG10_8c455d23-9049-476c-957c-8b3609d20441.jpg",
+        "url": "/webtoon/list?titleId=748535&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','21')",
+        "title": "엔딩 후 서브남을 주웠다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761498/thumbnail/thumbnail_IMAG10_1d781698-ac88-4a3a-92a2-61416aa5f8f4.jpg",
+        "url": "/webtoon/list?titleId=761498&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','22')",
+        "title": "빌드업",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/750826/thumbnail/thumbnail_IMAG10_ffc8691b-a61c-42e5-9bce-51aac85e447c.jpg",
+        "url": "/webtoon/list?titleId=750826&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','23')",
+        "title": "괴물공작의 딸",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765158/thumbnail/thumbnail_IMAG10_3376b6f5-3525-4bb0-ac80-8a3bf93c1b58.jpg",
+        "url": "/webtoon/list?titleId=765158&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','24')",
+        "title": "원수를 사랑하라",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733079/thumbnail/thumbnail_IMAG10_d07acf94-3c55-4930-8968-f364af58ad06.jpg",
+        "url": "/webtoon/list?titleId=733079&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','25')",
+        "title": "판타지 여동생!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/730425/thumbnail/thumbnail_IMAG10_1021f165-b14c-480b-bf82-3e9d622472ea.jpg",
+        "url": "/webtoon/list?titleId=730425&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','26')",
+        "title": "관종교장",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774088/thumbnail/thumbnail_IMAG10_c058d5ab-0795-4ab7-bda5-9e00df0e4793.jpg",
+        "url": "/webtoon/list?titleId=774088&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','27')",
+        "title": "하렘의 남자들",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/760001/thumbnail/thumbnail_IMAG10_3656c7b1-966c-4492-9957-a6278aa80294.jpg",
+        "url": "/webtoon/list?titleId=760001&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','28')",
+        "title": "이츠마인",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/710760/thumbnail/thumbnail_IMAG10_0f9651ee-18f9-4fbb-bdf7-cded844fcb6d.jpg",
+        "url": "/webtoon/list?titleId=710760&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','29')",
+        "title": "귀곡의 문",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/718020/thumbnail/thumbnail_IMAG10_7c551d69-62f1-4869-b365-88f38a70553f.jpg",
+        "url": "/webtoon/list?titleId=718020&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','30')",
+        "title": "언덕 위의 제임스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/671421/thumbnail/thumbnail_IMAG10_a98afd2e-d632-49f3-bdda-42827fff493f.jpg",
+        "url": "/webtoon/list?titleId=671421&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','31')",
+        "title": "사상최강",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/748536/thumbnail/thumbnail_IMAG10_c24eae99-c803-499b-9360-a7fccd63a3c4.jpg",
+        "url": "/webtoon/list?titleId=748536&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','32')",
+        "title": "방탈출",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733034/thumbnail/thumbnail_IMAG10_d1e2247e-2611-43cd-a18f-ad2f8d5127bc.jpg",
+        "url": "/webtoon/list?titleId=733034&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','33')",
+        "title": "오징어도 사랑이 되나요?",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770524/thumbnail/thumbnail_IMAG10_54264f50-b2b4-4550-ad20-46dabe46af22.jpg",
+        "url": "/webtoon/list?titleId=770524&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','34')",
+        "title": "아도나이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/725829/thumbnail/thumbnail_IMAG10_b7460a77-7be4-46c4-b3da-36655b868736.jpg",
+        "url": "/webtoon/list?titleId=725829&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','35')",
+        "title": "마녀와 용의 신혼일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755668/thumbnail/thumbnail_IMAG10_cb3fb035-146c-4754-af7d-7f9aba1d19b8.jpg",
+        "url": "/webtoon/list?titleId=755668&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','36')",
+        "title": "새벽 두 시의 신데렐라",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752533/thumbnail/thumbnail_IMAG10_9fd5790c-8a67-44d5-8f50-8e8eac2b8fbd.jpg",
+        "url": "/webtoon/list?titleId=752533&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','37')",
+        "title": "로어 올림푸스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/750558/thumbnail/thumbnail_IMAG10_b958aaec-eff0-4cd7-b11b-3ad6237408e7.jpg",
+        "url": "/webtoon/list?titleId=750558&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','38')",
+        "title": "얼굴천재",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/735979/thumbnail/thumbnail_IMAG10_e102a4c4-00ab-4d86-bbc2-089a1fc349cd.jpg",
+        "url": "/webtoon/list?titleId=735979&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','39')",
+        "title": "칼부림",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/602916/thumbnail/thumbnail_IMAG10_4eff217c-c0f3-4272-aeef-aa6783a0cb3a.jpg",
+        "url": "/webtoon/list?titleId=602916&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','40')",
+        "title": "반귀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/760002/thumbnail/thumbnail_IMAG10_4e41a674-f995-462a-bd19-bcaf0157299e.jpg",
+        "url": "/webtoon/list?titleId=760002&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','41')",
+        "title": "화가 살리에르",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777194/thumbnail/thumbnail_IMAG10_6448551b-ecdf-4b1e-8957-dabd80748cd8.jpg",
+        "url": "/webtoon/list?titleId=777194&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','42')",
+        "title": "범이올시다!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/745589/thumbnail/thumbnail_IMAG10_2ca10058-1492-42c0-83a2-b16732dd825b.jpg",
+        "url": "/webtoon/list?titleId=745589&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','43')",
+        "title": "럭키언럭키",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/736281/thumbnail/thumbnail_IMAG10_713c672a-2b8d-453f-b1aa-7d3ca9df5162.jpg",
+        "url": "/webtoon/list?titleId=736281&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','44')",
+        "title": "반짝반짝 작은 눈",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772729/thumbnail/thumbnail_IMAG10_6c1af2f2-91ae-4e34-a310-712c0af5c893.jpg",
+        "url": "/webtoon/list?titleId=772729&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','45')",
+        "title": "속보입니다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755758/thumbnail/thumbnail_IMAG10_eac6de0a-c9ba-446b-8527-e03f45aa42f7.jpg",
+        "url": "/webtoon/list?titleId=755758&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','46')",
+        "title": "수요웹툰의 나강림",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771718/thumbnail/thumbnail_IMAG10_93453b20-70be-4431-adf0-5caaa15b57bb.jpg",
+        "url": "/webtoon/list?titleId=771718&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','47')",
+        "title": "사랑과 평강의 온달!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773187/thumbnail/thumbnail_IMAG10_3719ae3a-2274-4974-a725-986f35ba1fda.jpg",
+        "url": "/webtoon/list?titleId=773187&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','48')",
+        "title": "무용과 남학생",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774853/thumbnail/thumbnail_IMAG10_09d82455-4f86-40cf-91fb-2b6fd284cba6.jpg",
+        "url": "/webtoon/list?titleId=774853&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','49')",
+        "title": "뱀은 꽃을 먹는가",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/763851/thumbnail/thumbnail_IMAG10_58c4f59b-61ac-4e75-adad-0def86eacdbf.jpg",
+        "url": "/webtoon/list?titleId=763851&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','50')",
+        "title": "웰컴 온보드",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758670/thumbnail/thumbnail_IMAG10_05b449a1-c177-4340-9eea-f8b17e53f8e1.jpg",
+        "url": "/webtoon/list?titleId=758670&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','51')",
+        "title": "스캔들",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/751642/thumbnail/thumbnail_IMAG10_64016aa3-d684-4d4d-926f-84b372bb92fd.jpg",
+        "url": "/webtoon/list?titleId=751642&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','52')",
+        "title": "기억흔적",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/739113/thumbnail/thumbnail_IMAG10_3ee7a2ba-0e2c-4518-8be8-55adff767e9f.jpg",
+        "url": "/webtoon/list?titleId=739113&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','53')",
+        "title": "저승사자 출입금지",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/736699/thumbnail/thumbnail_IMAG10_948c361c-8571-4c45-9562-e2181f1c5bef.jpg",
+        "url": "/webtoon/list?titleId=736699&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','54')",
+        "title": "해귀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762786/thumbnail/thumbnail_IMAG10_70ce1f46-883b-4f7a-9da5-d2d5de7a865b.jpg",
+        "url": "/webtoon/list?titleId=762786&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','55')",
+        "title": "구주",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770844/thumbnail/thumbnail_IMAG10_fc438ac0-aea6-451b-b39a-5fc6e11b3dae.jpg",
+        "url": "/webtoon/list?titleId=770844&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','56')",
+        "title": "천도",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/740481/thumbnail/thumbnail_IMAG10_c0e7a7c6-d2cf-448f-9a2b-db148647d61f.jpg",
+        "url": "/webtoon/list?titleId=740481&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','57')",
+        "title": "수상한 비밀상담부",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/751625/thumbnail/thumbnail_IMAG10_3466277a-22d5-4971-a87d-27c2ce442229.jpg",
+        "url": "/webtoon/list?titleId=751625&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','58')",
+        "title": "신선비",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/735254/thumbnail/thumbnail_IMAG10_9d59e2a7-e4d6-4ccd-af1a-ee059a863b29.jpg",
+        "url": "/webtoon/list?titleId=735254&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','59')",
+        "title": "나의 계절",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774039/thumbnail/thumbnail_IMAG10_79864938-fa03-4980-b37b-1455b06cf860.jpg",
+        "url": "/webtoon/list?titleId=774039&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','60')",
+        "title": "내 룸메이트는 마네킹",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768466/thumbnail/thumbnail_IMAG10_a7da2ff4-f7f1-4f1f-9c04-66e613ce143e.jpg",
+        "url": "/webtoon/list?titleId=768466&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*w.img','','61')",
+        "title": "시효완성",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/756606/thumbnail/thumbnail_IMAG10_bff93f0d-becf-493f-aed3-02586a5b0572.jpg",
+        "url": "/webtoon/list?titleId=756606&weekday=wed"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','1')",
+        "title": "더 복서",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/736989/thumbnail/thumbnail_IMAG10_dc639e95-a787-49bd-9bb6-b835909a764d.jpg",
+        "url": "/webtoon/list?titleId=736989&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','2')",
+        "title": "연애혁명",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/570503/thumbnail/thumbnail_IMAG10_023d23be-91f9-46c5-a1ff-152d6238e892.jpg",
+        "url": "/webtoon/list?titleId=570503&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','3')",
+        "title": "기기괴괴",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/557672/thumbnail/thumbnail_IMAG10_d05c81ab-ea19-473b-818f-3aceb657ae1e.jpg",
+        "url": "/webtoon/list?titleId=557672&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','4')",
+        "title": "나노마신",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/747271/thumbnail/thumbnail_IMAG10_7c3982bf-08aa-435c-a2bd-f89388956d0c.jpg",
+        "url": "/webtoon/list?titleId=747271&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','5')",
+        "title": "이두나!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/731130/thumbnail/thumbnail_IMAG10_0f5fa6cc-3d7c-4e20-a42d-60b32de309e5.jpg",
+        "url": "/webtoon/list?titleId=731130&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','6')",
+        "title": "묵시의 인플루언서",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775218/thumbnail/thumbnail_IMAG10_0cb18991-4633-4d22-ba7b-6fd0d458a546.jpg",
+        "url": "/webtoon/list?titleId=775218&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','7')",
+        "title": "화이트 블러드",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/739503/thumbnail/thumbnail_IMAG10_f515191d-adb2-466c-b014-66b276d8b471.jpg",
+        "url": "/webtoon/list?titleId=739503&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','8')",
+        "title": "포식동물",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773417/thumbnail/thumbnail_IMAG10_4ce06217-a6a3-4a9e-8988-8a1347651f1e.jpg",
+        "url": "/webtoon/list?titleId=773417&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','9')",
+        "title": "노답소녀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/756137/thumbnail/thumbnail_IMAG10_64143a9b-dfdb-4f2e-878d-5f3453a82475.jpg",
+        "url": "/webtoon/list?titleId=756137&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','10')",
+        "title": "정글쥬스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762279/thumbnail/thumbnail_IMAG10_7eca3c20-7c36-49b7-a7af-af933e9c8c09.jpg",
+        "url": "/webtoon/list?titleId=762279&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','11')",
+        "title": "겟백",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/727798/thumbnail/thumbnail_IMAG10_18981b01-c819-4685-8db2-4353a2b9bd54.jpg",
+        "url": "/webtoon/list?titleId=727798&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','12')",
+        "title": "무사만리행",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/746857/thumbnail/thumbnail_IMAG10_0e5a96ba-ee85-4de9-9996-b59852281617.jpg",
+        "url": "/webtoon/list?titleId=746857&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','13')",
+        "title": "마왕까지 한 걸음",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776668/thumbnail/thumbnail_IMAG10_25ae10ba-278d-4502-8b6d-e764f683d8e2.jpg",
+        "url": "/webtoon/list?titleId=776668&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','14')",
+        "title": "하드캐리",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/710761/thumbnail/thumbnail_IMAG10_9f8253a1-2318-4c0d-8d9e-f044f2203d4c.jpg",
+        "url": "/webtoon/list?titleId=710761&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','15')",
+        "title": "오빠세끼",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758659/thumbnail/thumbnail_IMAG10_fe96051e-237c-4e03-8467-cb4a88803983.jpg",
+        "url": "/webtoon/list?titleId=758659&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','16')",
+        "title": "던전 씹어먹는 아티팩트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758439/thumbnail/thumbnail_IMAG10_08abada1-ebb5-41cc-a28e-e3a71a422202.jpg",
+        "url": "/webtoon/list?titleId=758439&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','17')",
+        "title": "트롤트랩",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/701700/thumbnail/thumbnail_IMAG10_91d1c77b-9ad9-43ce-8299-ed986700c65a.jpg",
+        "url": "/webtoon/list?titleId=701700&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','18')",
+        "title": "아빠같은 남자",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774451/thumbnail/thumbnail_IMAG10_f79aa9e1-783e-41c6-88ad-6f50e9ca37e4.jpg",
+        "url": "/webtoon/list?titleId=774451&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','19')",
+        "title": "흑막 여주가 날 새엄마로 만들려고 해",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770523/thumbnail/thumbnail_IMAG10_1487472a-7381-4bdb-ad7e-81b8e48d6d96.jpg",
+        "url": "/webtoon/list?titleId=770523&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','20')",
+        "title": "신비",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/740487/thumbnail/thumbnail_IMAG10_953f1353-c4c0-4821-a716-d8bc4c9febfe.jpg",
+        "url": "/webtoon/list?titleId=740487&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','21')",
+        "title": "쿠베라",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/131385/thumbnail/thumbnail_IMAG10_c5053bcc-3b95-473d-bfe1-e4256bf56b58.jpg",
+        "url": "/webtoon/list?titleId=131385&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','22')",
+        "title": "최강전설 강해효",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/570506/thumbnail/title_thumbnail_20130710192300_t83x90.jpg",
+        "url": "/webtoon/list?titleId=570506&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','23')",
+        "title": "별을 삼킨 너에게",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/748831/thumbnail/thumbnail_IMAG10_2bb9343e-111f-4cc7-a9dd-c6a5ad7d83d1.jpg",
+        "url": "/webtoon/list?titleId=748831&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','24')",
+        "title": "선의의 경쟁",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/748069/thumbnail/thumbnail_IMAG10_c22837d5-e27f-497d-a282-7baa796ee87c.jpg",
+        "url": "/webtoon/list?titleId=748069&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','25')",
+        "title": "뜨거운 양철지붕 위의 고양이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777224/thumbnail/thumbnail_IMAG10_6462c556-1e7b-445c-b3f2-d7e17ee91f84.jpg",
+        "url": "/webtoon/list?titleId=777224&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','26')",
+        "title": "마법사랑해",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776655/thumbnail/thumbnail_IMAG10_cb4a0b95-8414-4446-9e7c-f1970955594e.jpg",
+        "url": "/webtoon/list?titleId=776655&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','27')",
+        "title": "오늘의 순정망화",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/716857/thumbnail/thumbnail_IMAG10_fb5f2776-982c-4891-b844-e617a907d5c9.jpg",
+        "url": "/webtoon/list?titleId=716857&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','28')",
+        "title": "완벽한 결혼의 정석",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775631/thumbnail/thumbnail_IMAG10_b3ef9f8f-dc07-4169-84c1-f4dc855fb2f7.jpg",
+        "url": "/webtoon/list?titleId=775631&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','29')",
+        "title": "꽃만 키우는데 너무강함",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/741825/thumbnail/thumbnail_IMAG10_2cb48835-dbbb-429c-b391-91a57775717e.jpg",
+        "url": "/webtoon/list?titleId=741825&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','30')",
+        "title": "어느날 네가 떠올라!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774924/thumbnail/thumbnail_IMAG10_2abffbd4-a9e6-4a51-bbcc-b76124ab2a9a.jpg",
+        "url": "/webtoon/list?titleId=774924&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','31')",
+        "title": "만물의 영장",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/729964/thumbnail/thumbnail_IMAG10_8935ee89-7619-4466-abf6-b6c4d6e6f734.jpg",
+        "url": "/webtoon/list?titleId=729964&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','32')",
+        "title": "안개무덤",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/731930/thumbnail/thumbnail_IMAG10_0217e232-d198-4562-b80a-495e711c2aea.jpg",
+        "url": "/webtoon/list?titleId=731930&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','33')",
+        "title": "수영만화일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768534/thumbnail/thumbnail_IMAG10_aa734331-7228-4c02-9276-fbb7fcd27ef8.jpg",
+        "url": "/webtoon/list?titleId=768534&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','34')",
+        "title": "폭탄주먹 변대장",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776790/thumbnail/thumbnail_IMAG10_2a9a37f1-b033-4168-8673-5a15220e5aa2.jpg",
+        "url": "/webtoon/list?titleId=776790&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','35')",
+        "title": "불편한 관계",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768468/thumbnail/thumbnail_IMAG10_0868e7eb-c0b1-479d-8f20-a9086a42b8a3.jpg",
+        "url": "/webtoon/list?titleId=768468&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','36')",
+        "title": "시에라",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/778707/thumbnail/thumbnail_IMAG10_f5e51765-44af-4ecc-8d09-3659287a20f4.jpg",
+        "url": "/webtoon/list?titleId=778707&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','37')",
+        "title": "시월드 판타지",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753222/thumbnail/thumbnail_IMAG10_c81cfc5e-6a3c-4dc1-9975-42fc87cbff82.jpg",
+        "url": "/webtoon/list?titleId=753222&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','38')",
+        "title": "네가 죽기를 바랄 때가 있었다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776542/thumbnail/thumbnail_IMAG10_6df97693-b779-489b-8238-747689fa9e41.jpg",
+        "url": "/webtoon/list?titleId=776542&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','39')",
+        "title": "마계인섬",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/766503/thumbnail/thumbnail_IMAG10_d1bfddf4-05e2-479a-b4f3-51b10580248b.jpg",
+        "url": "/webtoon/list?titleId=766503&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','40')",
+        "title": "로그아웃",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733033/thumbnail/thumbnail_IMAG10_d7d0a0fb-b5e8-447c-82d5-bb4c0d73e843.jpg",
+        "url": "/webtoon/list?titleId=733033&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','41')",
+        "title": "롤랑롤랑",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/715935/thumbnail/thumbnail_IMAG10_9b592a70-da0a-4637-8824-0444f9083247.jpg",
+        "url": "/webtoon/list?titleId=715935&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','42')",
+        "title": "달의 요람",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762035/thumbnail/thumbnail_IMAG10_1ba3eada-ce8b-4913-a3d3-a34b40b108fc.jpg",
+        "url": "/webtoon/list?titleId=762035&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','43')",
+        "title": "그 개, 만두",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770015/thumbnail/thumbnail_IMAG10_ab138a88-00e1-4b28-b65d-4456f311aac4.jpg",
+        "url": "/webtoon/list?titleId=770015&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','44')",
+        "title": "그 황제가 시곗바늘을 되돌린 사연",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765322/thumbnail/thumbnail_IMAG10_37907656-fba7-481d-84cc-7d804d0e14b6.jpg",
+        "url": "/webtoon/list?titleId=765322&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','45')",
+        "title": "성스러운 아이돌",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762781/thumbnail/thumbnail_IMAG10_e80d1b5c-bd28-4afb-98c2-aa89578720da.jpg",
+        "url": "/webtoon/list?titleId=762781&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','46')",
+        "title": "루커피쳐",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758678/thumbnail/thumbnail_IMAG10_03ebb3b9-d4f1-4b5a-a96b-ac9973197272.jpg",
+        "url": "/webtoon/list?titleId=758678&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','47')",
+        "title": "길티액스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777830/thumbnail/thumbnail_IMAG10_e00766c5-fa84-4794-92a2-3b60172f3b46.jpg",
+        "url": "/webtoon/list?titleId=777830&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','48')",
+        "title": "겟라이프",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733076/thumbnail/thumbnail_IMAG10_ef245f1b-680c-4aba-b6bb-e31902e4c2b9.jpg",
+        "url": "/webtoon/list?titleId=733076&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','49')",
+        "title": "어차피 남편은!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758673/thumbnail/thumbnail_IMAG10_2d7f467a-5ba9-4cba-99ec-30186230110c.jpg",
+        "url": "/webtoon/list?titleId=758673&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','50')",
+        "title": "집사레인저",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/743270/thumbnail/thumbnail_IMAG10_dc66ec8f-7971-4db2-9bdd-6162a67dd7f5.jpg",
+        "url": "/webtoon/list?titleId=743270&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','51')",
+        "title": "야만의 시대",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770873/thumbnail/thumbnail_IMAG10_91a40117-9233-42ca-9532-3c730716d479.jpg",
+        "url": "/webtoon/list?titleId=770873&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','52')",
+        "title": "소년의 기록",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771720/thumbnail/thumbnail_IMAG10_7911f306-6306-4ede-b84e-3580e6fef13b.jpg",
+        "url": "/webtoon/list?titleId=771720&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','53')",
+        "title": "유리와 유리와 유리",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758661/thumbnail/thumbnail_IMAG10_3faf68b4-8419-4cc5-9f39-badea2abc1c5.jpg",
+        "url": "/webtoon/list?titleId=758661&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','54')",
+        "title": "돌아온 여기사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772691/thumbnail/thumbnail_IMAG10_f775f11b-944c-487c-ad43-583edfb1ba6e.jpg",
+        "url": "/webtoon/list?titleId=772691&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','55')",
+        "title": "온새미로",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/745472/thumbnail/thumbnail_IMAG10_ff63bf75-5a38-4f60-970a-9541435c7e9e.jpg",
+        "url": "/webtoon/list?titleId=745472&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','56')",
+        "title": "온실 속 화초",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769662/thumbnail/thumbnail_IMAG10_6cfb32f1-5e0a-45d5-989c-6dce97268b9c.jpg",
+        "url": "/webtoon/list?titleId=769662&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','57')",
+        "title": "평범한 낙원",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772192/thumbnail/thumbnail_IMAG10_b767cf6c-c2de-4752-ba9c-93a6a54fefa6.jpg",
+        "url": "/webtoon/list?titleId=772192&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','58')",
+        "title": "혼모노트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768471/thumbnail/thumbnail_IMAG10_10173825-a9fb-4628-a269-a5c2234d733f.jpg",
+        "url": "/webtoon/list?titleId=768471&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','59')",
+        "title": "카루나",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/754876/thumbnail/thumbnail_IMAG10_92cf9f87-01e2-45ef-9363-d8105cbfe251.jpg",
+        "url": "/webtoon/list?titleId=754876&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','60')",
+        "title": "밤하늘에 구름운",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/736274/thumbnail/thumbnail_IMAG10_d1ab3c65-38aa-45a9-978b-fec6693e5c1c.jpg",
+        "url": "/webtoon/list?titleId=736274&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','61')",
+        "title": "멸망X초이스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771717/thumbnail/thumbnail_IMAG10_80ee4549-807a-45ff-8d5e-4ee1281cdf93.jpg",
+        "url": "/webtoon/list?titleId=771717&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','62')",
+        "title": "바른탕진 프로젝트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761102/thumbnail/thumbnail_IMAG10_a1ff5ded-1d8c-4131-afe0-7d5de71261f5.jpg",
+        "url": "/webtoon/list?titleId=761102&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','63')",
+        "title": "보물과 괴물의 도시",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/751993/thumbnail/thumbnail_IMAG10_b369a138-95fe-43de-879d-61061000c6d0.jpg",
+        "url": "/webtoon/list?titleId=751993&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','64')",
+        "title": "헬프미",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759475/thumbnail/thumbnail_IMAG10_2c074594-aa67-46b4-889b-5bf7509e95b6.jpg",
+        "url": "/webtoon/list?titleId=759475&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*T.img','','65')",
+        "title": "모어 라이프",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771985/thumbnail/thumbnail_IMAG10_8eee56c0-ad7f-42d9-b019-ebd36f939920.jpg",
+        "url": "/webtoon/list?titleId=771985&weekday=thu"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','1')",
+        "title": "외모지상주의",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/641253/thumbnail/thumbnail_IMAG10_d4d1a799-d193-4e5a-9b46-6dffcead862a.jpg",
+        "url": "/webtoon/list?titleId=641253&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','2')",
+        "title": "갓 오브 하이스쿨",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/318995/thumbnail/title_thumbnail_20110407182655_t83x90.jpg",
+        "url": "/webtoon/list?titleId=318995&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','3')",
+        "title": "나 혼자 만렙 뉴비",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773797/thumbnail/thumbnail_IMAG10_47682705-9b27-4d0e-a8dc-33f57dfe8667.jpg",
+        "url": "/webtoon/list?titleId=773797&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','4')",
+        "title": "데드퀸",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753478/thumbnail/thumbnail_IMAG10_cc45f936-25b1-4656-bdcb-6aa9d83719da.jpg",
+        "url": "/webtoon/list?titleId=753478&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','5')",
+        "title": "1초",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/725586/thumbnail/thumbnail_IMAG10_eecb5b16-4877-435d-9efc-7da97de11113.jpg",
+        "url": "/webtoon/list?titleId=725586&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','6')",
+        "title": "유미의 세포들 외전 : 프로 직장인",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/778153/thumbnail/thumbnail_IMAG10_79771f0c-2c67-45af-91d3-748eb57aa70d.jpg",
+        "url": "/webtoon/list?titleId=778153&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','7')",
+        "title": "죽지 않으려면",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772764/thumbnail/thumbnail_IMAG10_21a11da4-78cd-4f99-9881-4b7afc51c05e.jpg",
+        "url": "/webtoon/list?titleId=772764&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','8')",
+        "title": "개를 낳았다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/712362/thumbnail/thumbnail_IMAG10_9f6d72bc-7d94-4072-89de-26806164c7b3.jpg",
+        "url": "/webtoon/list?titleId=712362&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','9')",
+        "title": "광마회귀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776601/thumbnail/thumbnail_IMAG10_9a5f99ba-6641-4882-b1f3-8c6b606204be.jpg",
+        "url": "/webtoon/list?titleId=776601&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','10')",
+        "title": "블랙 위도우",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775721/thumbnail/thumbnail_IMAG10_02769750-0e08-426d-a75e-8a82000a348a.jpg",
+        "url": "/webtoon/list?titleId=775721&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','11')",
+        "title": "서울역 드루이드",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773476/thumbnail/thumbnail_IMAG10_fa2b1e10-a764-46ba-b4a0-b26ba828827a.jpg",
+        "url": "/webtoon/list?titleId=773476&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','12')",
+        "title": "말년용사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773916/thumbnail/thumbnail_IMAG10_f4ccb30a-8b40-4a2d-a1bf-4aefa0a11103.jpg",
+        "url": "/webtoon/list?titleId=773916&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','13')",
+        "title": "식인귀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777272/thumbnail/thumbnail_IMAG10_21fab1d1-dbca-48f3-8f14-49da0a810db3.jpg",
+        "url": "/webtoon/list?titleId=777272&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','14')",
+        "title": "세기말 풋사과 보습학원",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761722/thumbnail/thumbnail_IMAG10_03b1346b-5a0b-40fc-884d-4b1f74c14af4.jpg",
+        "url": "/webtoon/list?titleId=761722&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','15')",
+        "title": "삼국지톡",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/711422/thumbnail/thumbnail_IMAG10_4873773c-d8f0-430e-85d2-995f395b571f.jpg",
+        "url": "/webtoon/list?titleId=711422&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','16')",
+        "title": "여성전용헬스장 진달래짐",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759457/thumbnail/thumbnail_IMAG10_6fc047df-7e7b-4e68-9d3e-c918724388f2.jpg",
+        "url": "/webtoon/list?titleId=759457&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','17')",
+        "title": "더 게이머",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/552960/thumbnail/title_thumbnail_20130905153649_t83x90.jpg",
+        "url": "/webtoon/list?titleId=552960&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','18')",
+        "title": "구남친이 내게 반했다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/748534/thumbnail/thumbnail_IMAG10_e7a3cb27-a9e6-4482-ba6f-3500ce73c091.jpg",
+        "url": "/webtoon/list?titleId=748534&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','19')",
+        "title": "상남자",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/751168/thumbnail/thumbnail_IMAG10_05234185-ffa0-4e93-9619-acaa6b75da83.jpg",
+        "url": "/webtoon/list?titleId=751168&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','20')",
+        "title": "플레이어",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/745876/thumbnail/thumbnail_IMAG10_8fef7dc3-8a78-4cf9-9e44-4ef6c875875e.jpg",
+        "url": "/webtoon/list?titleId=745876&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','21')",
+        "title": "걸어서 30분",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/700844/thumbnail/thumbnail_IMAG10_670698b4-24a2-46e1-b5ec-9c7f41881a8e.jpg",
+        "url": "/webtoon/list?titleId=700844&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','22')",
+        "title": "낙향문사전",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/746534/thumbnail/thumbnail_IMAG10_34efd726-81da-4e99-82d5-6e47066aa1b2.jpg",
+        "url": "/webtoon/list?titleId=746534&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','23')",
+        "title": "그들이 사귀는 세상",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764130/thumbnail/thumbnail_IMAG10_627030e0-4279-4ff6-8498-5b227d4d869c.jpg",
+        "url": "/webtoon/list?titleId=764130&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','24')",
+        "title": "성경의 역사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752402/thumbnail/thumbnail_IMAG10_1970dd16-de63-45cc-a1d8-c79e7bb5d2f2.jpg",
+        "url": "/webtoon/list?titleId=752402&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','25')",
+        "title": "히어로 킬러",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/766563/thumbnail/thumbnail_IMAG10_82231e8b-6b4f-4237-91b9-b6001eafb349.jpg",
+        "url": "/webtoon/list?titleId=766563&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','26')",
+        "title": "환상의 용",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765471/thumbnail/thumbnail_IMAG10_0faef97c-ebe0-4d75-abe7-a56ede4079f5.jpg",
+        "url": "/webtoon/list?titleId=765471&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','27')",
+        "title": "A.I. 닥터",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765804/thumbnail/thumbnail_IMAG10_07088e32-0f35-49ff-b978-f63917d121fe.jpg",
+        "url": "/webtoon/list?titleId=765804&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','28')",
+        "title": "네버엔딩달링",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758660/thumbnail/thumbnail_IMAG10_5226b90b-6de4-4bdd-9bed-411bc3ecdf1f.jpg",
+        "url": "/webtoon/list?titleId=758660&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','29')",
+        "title": "가슴털 로망스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/729963/thumbnail/thumbnail_IMAG10_43c309d8-19f8-4ad6-8ad4-707208fbaeb0.jpg",
+        "url": "/webtoon/list?titleId=729963&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','30')",
+        "title": "빨간맛 로맨스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776669/thumbnail/thumbnail_IMAG10_1242ecfa-21ba-48b5-bded-a2e449457051.jpg",
+        "url": "/webtoon/list?titleId=776669&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','31')",
+        "title": "그 기사가 레이디로 사는 법",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758675/thumbnail/thumbnail_IMAG10_e9ab6117-bef6-48a0-bb67-4d986179eb19.jpg",
+        "url": "/webtoon/list?titleId=758675&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','32')",
+        "title": "버그: 스티그마",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/724431/thumbnail/thumbnail_IMAG10_63775b64-b159-44da-9ae4-c708bc23b395.jpg",
+        "url": "/webtoon/list?titleId=724431&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','33')",
+        "title": "엽사:요괴사냥꾼",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769210/thumbnail/thumbnail_IMAG10_4c62e25c-eab7-413b-8b6b-470075b846c2.jpg",
+        "url": "/webtoon/list?titleId=769210&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','34')",
+        "title": "감자마을",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759418/thumbnail/thumbnail_IMAG10_23004717-bb95-4c26-8986-052aa74646ac.jpg",
+        "url": "/webtoon/list?titleId=759418&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','35')",
+        "title": "여우놀이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768469/thumbnail/thumbnail_IMAG10_f2a8a377-e480-4ee6-b7fd-cbeaa75136dd.jpg",
+        "url": "/webtoon/list?titleId=768469&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','36')",
+        "title": "역대급 영지 설계사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777767/thumbnail/thumbnail_IMAG10_07b07571-49f8-4ac6-aaee-c092c74fd53e.jpg",
+        "url": "/webtoon/list?titleId=777767&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','37')",
+        "title": "피와 나비",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/749633/thumbnail/thumbnail_IMAG10_f634f59e-1714-45cd-a7f6-17853daf80b7.jpg",
+        "url": "/webtoon/list?titleId=749633&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','38')",
+        "title": "로판 빙의 만화",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772020/thumbnail/thumbnail_IMAG10_6db10ca2-1620-4bec-b2dd-f421a841d03c.jpg",
+        "url": "/webtoon/list?titleId=772020&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','39')",
+        "title": "인피니티",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775140/thumbnail/thumbnail_IMAG10_3f05ecc4-9b9a-45c5-ba62-0fe80d802a64.jpg",
+        "url": "/webtoon/list?titleId=775140&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','40')",
+        "title": "후덜덜덜 남극전자",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/732036/thumbnail/thumbnail_IMAG10_8b515b33-a333-4be4-9d82-fd23d4337378.jpg",
+        "url": "/webtoon/list?titleId=732036&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','41')",
+        "title": "닥터 프로스트 시즌 3~4",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/655749/thumbnail/thumbnail_IMAG10_706e422b-6fd5-4a77-a501-cbc1da21bf09.jpg",
+        "url": "/webtoon/list?titleId=655749&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','42')",
+        "title": "주님, 악마가 되게 해주세요!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769567/thumbnail/thumbnail_IMAG10_fe06aec8-eaa4-4a0f-897b-b11d70d2f5bd.jpg",
+        "url": "/webtoon/list?titleId=769567&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','43')",
+        "title": "사람의 조각",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765821/thumbnail/thumbnail_IMAG10_0d622466-4775-4c86-8f3a-f4ae9f0430ce.jpg",
+        "url": "/webtoon/list?titleId=765821&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','44')",
+        "title": "거래",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764022/thumbnail/thumbnail_IMAG10_0e26962e-2e11-4649-9a3a-faa1741a0ff4.jpg",
+        "url": "/webtoon/list?titleId=764022&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','45')",
+        "title": "너의 미소가 함정",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/741467/thumbnail/thumbnail_IMAG10_24734aa1-9ba3-4cbb-bafd-caeb5c3a0097.jpg",
+        "url": "/webtoon/list?titleId=741467&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','46')",
+        "title": "악몽일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/766626/thumbnail/thumbnail_IMAG10_b4d67898-72d3-4d57-b413-7d8bd0eb7b41.jpg",
+        "url": "/webtoon/list?titleId=766626&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','47')",
+        "title": "태권보이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771330/thumbnail/thumbnail_IMAG10_8f97a7dc-1a1a-4f3a-a66f-38feddf8515b.jpg",
+        "url": "/webtoon/list?titleId=771330&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','48')",
+        "title": "킬러방 : 퍼스트 킬",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769660/thumbnail/thumbnail_IMAG10_c6fc99ba-7a21-4ec4-ae1f-9d733dcb89b6.jpg",
+        "url": "/webtoon/list?titleId=769660&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','49')",
+        "title": "도무지 그애는",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761496/thumbnail/thumbnail_IMAG10_42768598-88c0-420e-8b33-fbe12130640c.jpg",
+        "url": "/webtoon/list?titleId=761496&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','50')",
+        "title": "몽홀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/644112/thumbnail/title_thumbnail_20150105174647_t83x90.jpg",
+        "url": "/webtoon/list?titleId=644112&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','51')",
+        "title": "방과후 선녀",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761587/thumbnail/thumbnail_IMAG10_6302d19c-adc2-456e-a257-2c3e3e1ab61b.jpg",
+        "url": "/webtoon/list?titleId=761587&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','52')",
+        "title": "다름이 아니라",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777853/thumbnail/thumbnail_IMAG10_6b7b51f3-3e7c-47e8-abe9-2db32c432fe8.jpg",
+        "url": "/webtoon/list?titleId=777853&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','53')",
+        "title": "아찔한 전남편",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769747/thumbnail/thumbnail_IMAG10_8d458eff-dd80-4b20-84d5-9e4e8ff5e0dd.jpg",
+        "url": "/webtoon/list?titleId=769747&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','54')",
+        "title": "썸내일",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768470/thumbnail/thumbnail_IMAG10_50772fc5-a319-4d36-ad62-b7cc07ecbcd5.jpg",
+        "url": "/webtoon/list?titleId=768470&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','55')",
+        "title": "빨리감기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764040/thumbnail/thumbnail_IMAG10_bfd0bfbf-667e-4f37-97db-64fd7ab2798a.jpg",
+        "url": "/webtoon/list?titleId=764040&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','56')",
+        "title": "트럼프",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/524520/thumbnail/thumbnail_IMAG10_2d94230a-1466-4eae-a829-3d177e8fb7e8.jpg",
+        "url": "/webtoon/list?titleId=524520&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','57')",
+        "title": "팬시X팬시",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773475/thumbnail/thumbnail_IMAG10_04fd9268-2ff1-4e9c-b992-0965a30b74e7.jpg",
+        "url": "/webtoon/list?titleId=773475&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','58')",
+        "title": "백년게임",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/751999/thumbnail/thumbnail_IMAG10_6493e45d-5024-4b2e-836b-9fd5117b2635.jpg",
+        "url": "/webtoon/list?titleId=751999&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','59')",
+        "title": "나쁜 쪽으로",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/739350/thumbnail/thumbnail_IMAG10_3ea28f5f-ee09-4fc0-8771-30572c72cb05.jpg",
+        "url": "/webtoon/list?titleId=739350&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','60')",
+        "title": "행운을 빌어요, 용사님!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775334/thumbnail/thumbnail_IMAG10_87cbc197-780a-44eb-8d3c-25aa7a0642eb.jpg",
+        "url": "/webtoon/list?titleId=775334&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','61')",
+        "title": "꽃 피우는 남자",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764165/thumbnail/thumbnail_IMAG10_ff750037-6c17-46b8-aefa-395f457ff8ae.jpg",
+        "url": "/webtoon/list?titleId=764165&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','62')",
+        "title": "구주의 시간",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/746835/thumbnail/thumbnail_IMAG10_2b12f26d-69c5-4fb8-9225-4bfc51c4cf12.jpg",
+        "url": "/webtoon/list?titleId=746835&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','63')",
+        "title": "찬란하지 않아도 괜찮아, 새벽",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771011/thumbnail/thumbnail_IMAG10_8f5df026-a0b5-4d48-b7b5-fb45ee4178e3.jpg",
+        "url": "/webtoon/list?titleId=771011&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','64')",
+        "title": "진짜 정말 맹세코 좋아해",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755788/thumbnail/thumbnail_IMAG10_b3c061e2-63d3-4f8a-a0d8-3df52a084030.jpg",
+        "url": "/webtoon/list?titleId=755788&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','65')",
+        "title": "합법해적 파르페",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/729036/thumbnail/thumbnail_IMAG10_8b9ad702-9338-47ed-aaa5-69b70efb281e.jpg",
+        "url": "/webtoon/list?titleId=729036&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','66')",
+        "title": "강림전기 개정기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762777/thumbnail/thumbnail_IMAG10_2786b230-7585-4c95-80e8-16e8e8fa9f2d.jpg",
+        "url": "/webtoon/list?titleId=762777&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','67')",
+        "title": "매지컬 메디컬",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753806/thumbnail/thumbnail_IMAG10_328c4831-4ed7-4873-ac73-626f9613f445.jpg",
+        "url": "/webtoon/list?titleId=753806&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','68')",
+        "title": "도깨비 고개",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774087/thumbnail/thumbnail_IMAG10_65221ec0-f6cf-4b5d-8f34-1dce17a4dd9d.jpg",
+        "url": "/webtoon/list?titleId=774087&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*f.img','','69')",
+        "title": "히트포인트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758677/thumbnail/thumbnail_IMAG10_d4b4e33a-0e3b-4769-85fb-3822f10e1db5.jpg",
+        "url": "/webtoon/list?titleId=758677&weekday=fri"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','1')",
+        "title": "조조코믹스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774862/thumbnail/thumbnail_IMAG10_a192356d-8ef5-4e95-94eb-4f71b4ad09e9.jpg",
+        "url": "/webtoon/list?titleId=774862&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','2')",
+        "title": "호랑이형님",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/650305/thumbnail/title_thumbnail_20161209212128_t83x90.jpg",
+        "url": "/webtoon/list?titleId=650305&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','3')",
+        "title": "프리드로우",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/597447/thumbnail/title_thumbnail_20131102162055_t83x90.jpg",
+        "url": "/webtoon/list?titleId=597447&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','4')",
+        "title": "스퍼맨 : 전하지 못한 이야기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775723/thumbnail/thumbnail_IMAG10_6ffe58e6-e810-4542-a1ed-cdd590fd2459.jpg",
+        "url": "/webtoon/list?titleId=775723&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','5')",
+        "title": "모죠의 일지",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/728015/thumbnail/thumbnail_IMAG10_f31cda1b-72fa-409e-b1ab-9c4a4e212696.jpg",
+        "url": "/webtoon/list?titleId=728015&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','6')",
+        "title": "취사병 전설이 되다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/727188/thumbnail/thumbnail_IMAG10_f01cc201-02c6-4a40-8c1a-e3db0c256876.jpg",
+        "url": "/webtoon/list?titleId=727188&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','7')",
+        "title": "광장",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753509/thumbnail/thumbnail_IMAG10_ff7c28fa-14c5-4652-b3d7-653169e9b9fb.jpg",
+        "url": "/webtoon/list?titleId=753509&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','8')",
+        "title": "니나의 마법서랍",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772401/thumbnail/thumbnail_IMAG10_37107ea5-7086-458e-b4f8-2906192ce9b5.jpg",
+        "url": "/webtoon/list?titleId=772401&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','9')",
+        "title": "망나니 소교주로 환생했다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773796/thumbnail/thumbnail_IMAG10_be3d1a5c-caea-4809-adff-953027b84999.jpg",
+        "url": "/webtoon/list?titleId=773796&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','10')",
+        "title": "노곤하개",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/702672/thumbnail/thumbnail_IMAG10_fc61362a-daff-4129-a2bf-d821fcff42bf.jpg",
+        "url": "/webtoon/list?titleId=702672&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','11')",
+        "title": "욕망일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762071/thumbnail/thumbnail_IMAG10_678df15d-10da-4118-a778-cd17f0ca4667.jpg",
+        "url": "/webtoon/list?titleId=762071&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','12')",
+        "title": "최면학교",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776656/thumbnail/thumbnail_IMAG10_75be3960-a4c0-4cfe-98fb-aef491cad4f8.jpg",
+        "url": "/webtoon/list?titleId=776656&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','13')",
+        "title": "힙한남자",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758619/thumbnail/thumbnail_IMAG10_e00943fb-a374-457d-822a-120f1de5afb3.jpg",
+        "url": "/webtoon/list?titleId=758619&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','14')",
+        "title": "나이트런",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/64997/thumbnail/title_thumbnail_20110515001535_t83x90.jpg",
+        "url": "/webtoon/list?titleId=64997&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','15')",
+        "title": "윌유메리미",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/616239/thumbnail/title_thumbnail_20161031214436_t83x90.jpg",
+        "url": "/webtoon/list?titleId=616239&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','16')",
+        "title": "청춘 블라썸",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/746834/thumbnail/thumbnail_IMAG10_ef161cee-2248-446e-99e7-f6bcd8ded7b5.jpg",
+        "url": "/webtoon/list?titleId=746834&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','17')",
+        "title": "나를 바꿔줘",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733280/thumbnail/thumbnail_IMAG10_6e31cdd0-a6be-4929-ac5b-b676997ad8a5.jpg",
+        "url": "/webtoon/list?titleId=733280&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','18')",
+        "title": "스터디그룹",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/721948/thumbnail/thumbnail_IMAG10_72bdf971-8699-4e5e-aea9-e22569ad9437.jpg",
+        "url": "/webtoon/list?titleId=721948&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','19')",
+        "title": "반드시 해피엔딩",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769568/thumbnail/thumbnail_IMAG10_7fc6c51f-7e8b-4c42-92e6-a2106b95a97d.jpg",
+        "url": "/webtoon/list?titleId=769568&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','20')",
+        "title": "어글리후드",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/703630/thumbnail/thumbnail_IMAG10_2d640bb7-e140-4d3f-99c9-207d4442cf5c.jpg",
+        "url": "/webtoon/list?titleId=703630&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','21')",
+        "title": "아홉수 우리들",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/724815/thumbnail/thumbnail_IMAG10_66484126-6730-4eae-acc4-5ca2d91a0851.jpg",
+        "url": "/webtoon/list?titleId=724815&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','22')",
+        "title": "좀비 파이트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765157/thumbnail/thumbnail_IMAG10_cd8edb81-895b-441b-a63f-b29ad5eb04a1.jpg",
+        "url": "/webtoon/list?titleId=765157&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','23')",
+        "title": "피라미드 게임",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/739127/thumbnail/thumbnail_IMAG10_184033c9-2452-4428-b2a6-741f3e54a98c.jpg",
+        "url": "/webtoon/list?titleId=739127&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','24')",
+        "title": "탑코너",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/732021/thumbnail/thumbnail_IMAG10_4a82584b-2ae5-41f9-bfe2-b4be4083f289.jpg",
+        "url": "/webtoon/list?titleId=732021&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','25')",
+        "title": "지옥급식",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762277/thumbnail/thumbnail_IMAG10_f0939c87-51b1-44c8-a8de-8070913799b7.jpg",
+        "url": "/webtoon/list?titleId=762277&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','26')",
+        "title": "감 비서가 고장났다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774706/thumbnail/thumbnail_IMAG10_ea151726-0f9a-4f68-9a58-bb2b91edc47a.jpg",
+        "url": "/webtoon/list?titleId=774706&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','27')",
+        "title": "메트로헌터",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774043/thumbnail/thumbnail_IMAG10_d567682a-74b7-48ca-895f-347521d9da4b.jpg",
+        "url": "/webtoon/list?titleId=774043&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','28')",
+        "title": "나태 공자, 노력 천재 되다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/772853/thumbnail/thumbnail_IMAG10_e6351411-f883-4ea9-89f4-1ab98be99351.jpg",
+        "url": "/webtoon/list?titleId=772853&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','29')",
+        "title": "은둔코인",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/778284/thumbnail/thumbnail_IMAG10_8a7b1ac5-d69a-42b0-98cd-730e0b2c3b3a.jpg",
+        "url": "/webtoon/list?titleId=778284&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','30')",
+        "title": "태백 : 튜토리얼 맨",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755559/thumbnail/thumbnail_IMAG10_50efe96f-a225-4670-bb33-4d3a5e3a4861.jpg",
+        "url": "/webtoon/list?titleId=755559&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','31')",
+        "title": "공유몽",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/729047/thumbnail/thumbnail_IMAG10_9a8db8ca-3aab-4176-b88f-442344f9d986.jpg",
+        "url": "/webtoon/list?titleId=729047&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','32')",
+        "title": "왕년엔 용사님",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755744/thumbnail/thumbnail_IMAG10_7e848d16-3de2-4a31-b2f5-db9ab703cabc.jpg",
+        "url": "/webtoon/list?titleId=755744&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','33')",
+        "title": "지구식 구원자 전형",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777829/thumbnail/thumbnail_IMAG10_18e0d733-8fa8-476a-a483-88b28ffed83d.jpg",
+        "url": "/webtoon/list?titleId=777829&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','34')",
+        "title": "남편을 만렙으로 키우려 합니다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774051/thumbnail/thumbnail_IMAG10_1d9266b8-bdfe-414b-b8f1-756c6c6906b4.jpg",
+        "url": "/webtoon/list?titleId=774051&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','35')",
+        "title": "나를 길들여 봐, 차비서",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776134/thumbnail/thumbnail_IMAG10_b1a1888d-8d03-4df9-a784-001e08a52c20.jpg",
+        "url": "/webtoon/list?titleId=776134&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','36')",
+        "title": "단편.zip",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755581/thumbnail/thumbnail_IMAG10_e7e3fd8d-1776-46a2-97de-08a9413452b0.jpg",
+        "url": "/webtoon/list?titleId=755581&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','37')",
+        "title": "먹이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/724274/thumbnail/thumbnail_IMAG10_5bc5667d-0774-4c1c-a262-b99880896681.jpg",
+        "url": "/webtoon/list?titleId=724274&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','38')",
+        "title": "웰캄투실버라이프",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/749456/thumbnail/thumbnail_IMAG10_daad9f61-f0d2-4043-aad0-0161a8003745.jpg",
+        "url": "/webtoon/list?titleId=749456&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','39')",
+        "title": "남자주인공의 여자사람친구입니다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752340/thumbnail/thumbnail_IMAG10_0783a139-0d3f-4e21-a321-b2a4cb224492.jpg",
+        "url": "/webtoon/list?titleId=752340&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','40')",
+        "title": "내게 필요한 NO맨스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753975/thumbnail/thumbnail_IMAG10_b55c1caa-1076-4aad-ab31-066c039ac9af.jpg",
+        "url": "/webtoon/list?titleId=753975&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','41')",
+        "title": "같은 학교 친구",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774832/thumbnail/thumbnail_IMAG10_bf9a4329-8ddf-4e9e-a5ca-b4da9313bfe2.jpg",
+        "url": "/webtoon/list?titleId=774832&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','42')",
+        "title": "군주",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/762236/thumbnail/thumbnail_IMAG10_00e0e8a1-af22-45f6-92cd-7b6f12d4861e.jpg",
+        "url": "/webtoon/list?titleId=762236&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','43')",
+        "title": "왕세자 입학도",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/739411/thumbnail/thumbnail_IMAG10_98c520c6-247a-4d01-9fee-f50fa4e3890c.jpg",
+        "url": "/webtoon/list?titleId=739411&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','44')",
+        "title": "중매쟁이 아가 황녀님",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771065/thumbnail/thumbnail_IMAG10_3ca259a2-cb79-407a-86e0-d6ef47855b36.jpg",
+        "url": "/webtoon/list?titleId=771065&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','45')",
+        "title": "저무는 해, 시린 눈",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/746833/thumbnail/thumbnail_IMAG10_91acd6ab-2d8c-4e49-8538-5c7e431bd4a7.jpg",
+        "url": "/webtoon/list?titleId=746833&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','46')",
+        "title": "동네몬스터",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/749054/thumbnail/thumbnail_IMAG10_e1114f99-0365-4470-9d99-43312da51b7c.jpg",
+        "url": "/webtoon/list?titleId=749054&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','47')",
+        "title": "율리",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/765470/thumbnail/thumbnail_IMAG10_ac3b1b22-3046-45ee-acf9-31408cbd0845.jpg",
+        "url": "/webtoon/list?titleId=765470&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','48')",
+        "title": "압락사스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/729563/thumbnail/thumbnail_IMAG10_d497111a-6728-45c2-924e-c2d032650c16.jpg",
+        "url": "/webtoon/list?titleId=729563&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','49')",
+        "title": "팔려 온 신부",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/757579/thumbnail/thumbnail_IMAG10_b1cf47c0-8683-42ee-bb58-dce10af654f4.jpg",
+        "url": "/webtoon/list?titleId=757579&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','50')",
+        "title": "주욱 같은 하루",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774300/thumbnail/thumbnail_IMAG10_58418aec-1388-41e8-b368-db1a68bb0a71.jpg",
+        "url": "/webtoon/list?titleId=774300&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','51')",
+        "title": "키스 식스 센스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770964/thumbnail/thumbnail_IMAG10_98bbda24-565f-49e2-9237-4f566d374a2d.jpg",
+        "url": "/webtoon/list?titleId=770964&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','52')",
+        "title": "오늘부터 천생연분",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761709/thumbnail/thumbnail_IMAG10_5420fbef-c608-47e3-8a95-373644d017f3.jpg",
+        "url": "/webtoon/list?titleId=761709&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','53')",
+        "title": "광해의 연인",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/750582/thumbnail/thumbnail_IMAG10_8ddaafa0-c129-47de-b064-54da7abef9f7.jpg",
+        "url": "/webtoon/list?titleId=750582&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','54')",
+        "title": "더 나우",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769802/thumbnail/thumbnail_IMAG10_f6fe3f2e-61d4-4f6b-8d17-ebc5b62b217d.jpg",
+        "url": "/webtoon/list?titleId=769802&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','55')",
+        "title": "좋은데 어떡해",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764951/thumbnail/thumbnail_IMAG10_02bf594d-6b70-4ace-8fc5-5e8c44ec9e4b.jpg",
+        "url": "/webtoon/list?titleId=764951&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','56')",
+        "title": "모두 너였다",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764128/thumbnail/thumbnail_IMAG10_3dcc3a7a-5a75-4187-9930-95490c35cb7a.jpg",
+        "url": "/webtoon/list?titleId=764128&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','57')",
+        "title": "2-3승강장",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/770019/thumbnail/thumbnail_IMAG10_2a362375-d7f1-41a8-a521-30cf52de3028.jpg",
+        "url": "/webtoon/list?titleId=770019&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','58')",
+        "title": "도사 가온",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733277/thumbnail/thumbnail_IMAG10_64e26284-ff6c-4998-9025-41a1118d09fd.jpg",
+        "url": "/webtoon/list?titleId=733277&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','59')",
+        "title": "안녕, 이바다씨",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/748532/thumbnail/thumbnail_IMAG10_c5cd3943-30b6-43a3-89b2-db27b230ccad.jpg",
+        "url": "/webtoon/list?titleId=748532&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','60')",
+        "title": "아가사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769193/thumbnail/thumbnail_IMAG10_3e440bde-7cfd-4217-95f8-579e513519da.jpg",
+        "url": "/webtoon/list?titleId=769193&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','61')",
+        "title": "후아유!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753973/thumbnail/thumbnail_IMAG10_cc7ab0bf-bc6e-4c2d-b502-3ea928194d32.jpg",
+        "url": "/webtoon/list?titleId=753973&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','62')",
+        "title": "손 잡아 볼래?",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/756789/thumbnail/thumbnail_IMAG10_d61c4c67-68c2-44bf-a9e0-df6d3c30fc9a.jpg",
+        "url": "/webtoon/list?titleId=756789&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','63')",
+        "title": "친구의 비밀계정",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761592/thumbnail/thumbnail_IMAG10_ebaf9c0f-11ab-4fca-8186-784657ceb7a3.jpg",
+        "url": "/webtoon/list?titleId=761592&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','64')",
+        "title": "먹지마세요",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/735078/thumbnail/thumbnail_IMAG10_866423a8-117a-407f-8b6f-9d3d14be3438.jpg",
+        "url": "/webtoon/list?titleId=735078&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','65')",
+        "title": "아침을 지나 밤으로",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753304/thumbnail/thumbnail_IMAG10_c44ead03-6930-4587-ba4e-d05b91271c1b.jpg",
+        "url": "/webtoon/list?titleId=753304&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','66')",
+        "title": "인간졸업",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/754780/thumbnail/thumbnail_IMAG10_1ad45649-6de2-45a9-a29b-e9764b061ffb.jpg",
+        "url": "/webtoon/list?titleId=754780&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*s.img','','67')",
+        "title": "함부로 대해줘",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/742782/thumbnail/thumbnail_IMAG10_ecd43041-f543-4da3-96e7-42bb02ed9210.jpg",
+        "url": "/webtoon/list?titleId=742782&weekday=sat"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','1')",
+        "title": "싸움독학",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/736277/thumbnail/thumbnail_IMAG10_3ff8475e-6085-4188-a359-920a8801b419.jpg",
+        "url": "/webtoon/list?titleId=736277&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','2')",
+        "title": "수희0(tngmlek0)",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774831/thumbnail/thumbnail_IMAG10_8e6c777a-e214-427f-b3f9-a75a9116897c.jpg",
+        "url": "/webtoon/list?titleId=774831&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','3')",
+        "title": "이번 생도 잘 부탁해",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/746858/thumbnail/thumbnail_IMAG10_4568450b-830e-42a2-b088-53a0666fa4fb.jpg",
+        "url": "/webtoon/list?titleId=746858&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','4')",
+        "title": "열렙전사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/670152/thumbnail/title_thumbnail_20160122210643_t83x90.jpg",
+        "url": "/webtoon/list?titleId=670152&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','5')",
+        "title": "약한영웅",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/710751/thumbnail/thumbnail_IMAG10_f0f51e5a-a2f2-4404-8ace-866ab7fd1af3.jpg",
+        "url": "/webtoon/list?titleId=710751&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','6')",
+        "title": "입학용병",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758150/thumbnail/thumbnail_IMAG10_c03df7c9-dbf3-4314-8699-04ce77fb4444.jpg",
+        "url": "/webtoon/list?titleId=758150&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','7')",
+        "title": "투신전생기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774044/thumbnail/thumbnail_IMAG10_7e564e71-f824-466a-ae37-9a62192c6fa0.jpg",
+        "url": "/webtoon/list?titleId=774044&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','8')",
+        "title": "어느날 갑자기 서울은",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776092/thumbnail/thumbnail_IMAG10_d8a9c86b-5fa3-4ae6-a735-fad05d44018e.jpg",
+        "url": "/webtoon/list?titleId=776092&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','9')",
+        "title": "닥터앤닥터 육아일기",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/732955/thumbnail/thumbnail_IMAG10_404a37ed-7552-41bb-8138-3ea97cc7bb03.jpg",
+        "url": "/webtoon/list?titleId=732955&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','10')",
+        "title": "소녀재판",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/743838/thumbnail/thumbnail_IMAG10_74885554-1f99-4d1c-b826-e81a677b907d.jpg",
+        "url": "/webtoon/list?titleId=743838&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','11')",
+        "title": "곱게 키웠더니, 짐승",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761104/thumbnail/thumbnail_IMAG10_20a0c862-dc88-459d-abeb-19971a17a0b8.jpg",
+        "url": "/webtoon/list?titleId=761104&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','12')",
+        "title": "천하제일인",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/751207/thumbnail/thumbnail_IMAG10_be8bb974-c5a1-414b-93e5-a7895c2b9059.jpg",
+        "url": "/webtoon/list?titleId=751207&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','13')",
+        "title": "테러대부활",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761565/thumbnail/thumbnail_IMAG10_6395d136-4553-405e-b496-a5fb7b50d69d.jpg",
+        "url": "/webtoon/list?titleId=761565&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','14')",
+        "title": "오로지 너를 이기고 싶어",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/730657/thumbnail/thumbnail_IMAG10_aef09814-f0ba-4a80-96e7-e2b855974738.jpg",
+        "url": "/webtoon/list?titleId=730657&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','15')",
+        "title": "경자 전성시대",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/769658/thumbnail/thumbnail_IMAG10_f7de8f44-8312-4382-a6ea-1bf399be0a28.jpg",
+        "url": "/webtoon/list?titleId=769658&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','16')",
+        "title": "나만 보여!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/763308/thumbnail/thumbnail_IMAG10_4e7b1c98-9a35-4f3d-a2d4-47e4632d97a7.jpg",
+        "url": "/webtoon/list?titleId=763308&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','17')",
+        "title": "혀로 만난 사이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775725/thumbnail/thumbnail_IMAG10_57da8587-636f-4881-9cc4-31b8d05b56de.jpg",
+        "url": "/webtoon/list?titleId=775725&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','18')",
+        "title": "살아남은 로맨스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/764129/thumbnail/thumbnail_IMAG10_a6037df8-d210-452e-a2db-edbbe1f9ac53.jpg",
+        "url": "/webtoon/list?titleId=764129&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','19')",
+        "title": "천치전능",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768473/thumbnail/thumbnail_IMAG10_0a3870f2-0340-4a96-8ebc-3ef86da64c42.jpg",
+        "url": "/webtoon/list?titleId=768473&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','20')",
+        "title": "내일",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/695796/thumbnail/thumbnail_IMAG10_45196bec-1bff-4b89-8c2d-bd182cea01a9.jpg",
+        "url": "/webtoon/list?titleId=695796&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','21')",
+        "title": "마법스크롤 상인 지오",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/655746/thumbnail/thumbnail_IMAG10_261e36e7-8e8f-4640-bcf8-31232c5279b4.jpg",
+        "url": "/webtoon/list?titleId=655746&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','22')",
+        "title": "별이삼샵",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/737628/thumbnail/thumbnail_IMAG10_f4a08d1f-b191-4646-be39-4a59555adfbe.jpg",
+        "url": "/webtoon/list?titleId=737628&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','23')",
+        "title": "판사 이한영",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759567/thumbnail/thumbnail_IMAG10_6cee56e9-d777-4c30-9500-503d6b7a879d.jpg",
+        "url": "/webtoon/list?titleId=759567&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','24')",
+        "title": "사실 마법이었던 거임",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/774865/thumbnail/thumbnail_IMAG10_11c817fc-2903-4859-af04-b4666e2101ff.jpg",
+        "url": "/webtoon/list?titleId=774865&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','25')",
+        "title": "구름이 피워낸 꽃",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/727476/thumbnail/thumbnail_IMAG10_06e0ab0b-ab95-461e-887c-318b5e876f68.jpg",
+        "url": "/webtoon/list?titleId=727476&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','26')",
+        "title": "벚꽃이 흩날릴 무렵",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755982/thumbnail/thumbnail_IMAG10_bb315d85-2a9c-4824-a67a-03f728b9c421.jpg",
+        "url": "/webtoon/list?titleId=755982&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','27')",
+        "title": "예쁜 사나이",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775657/thumbnail/thumbnail_IMAG10_5659470e-d602-4425-a419-f704f5736b19.jpg",
+        "url": "/webtoon/list?titleId=775657&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','28')",
+        "title": "AI가 세상을 지배한다면",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/755674/thumbnail/thumbnail_IMAG10_652574d2-7cf3-4b69-89bf-f32cf74d13c6.jpg",
+        "url": "/webtoon/list?titleId=755674&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','29')",
+        "title": "로어 올림푸스",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/750558/thumbnail/thumbnail_IMAG10_b958aaec-eff0-4cd7-b11b-3ad6237408e7.jpg",
+        "url": "/webtoon/list?titleId=750558&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','30')",
+        "title": "불순물",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771910/thumbnail/thumbnail_IMAG10_b92a9a99-17fb-4cc2-bb47-d33229a105c7.jpg",
+        "url": "/webtoon/list?titleId=771910&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','31')",
+        "title": "강남도깨비",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/733728/thumbnail/thumbnail_IMAG10_7a59a85d-9d48-4564-8c78-4c96a0be92d9.jpg",
+        "url": "/webtoon/list?titleId=733728&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','32')",
+        "title": "학교정벌",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/739097/thumbnail/thumbnail_IMAG10_11ac440f-add3-4120-a2e3-6bcf266f6074.jpg",
+        "url": "/webtoon/list?titleId=739097&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','33')",
+        "title": "짝사랑의 유서",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776096/thumbnail/thumbnail_IMAG10_08db5cff-39e5-45f7-8f1e-79f2dee347bc.jpg",
+        "url": "/webtoon/list?titleId=776096&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','34')",
+        "title": "생존로그",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773027/thumbnail/thumbnail_IMAG10_9ef56ca6-5521-44a7-b228-73dffd08c075.jpg",
+        "url": "/webtoon/list?titleId=773027&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','35')",
+        "title": "동생친구",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/767874/thumbnail/thumbnail_IMAG10_acf6aba7-07a4-4f69-9781-57ab77ef9b98.jpg",
+        "url": "/webtoon/list?titleId=767874&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','36')",
+        "title": "평행도시",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/730607/thumbnail/thumbnail_IMAG10_92b30f3a-66b8-40cc-9395-7472632437f5.jpg",
+        "url": "/webtoon/list?titleId=730607&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','37')",
+        "title": "아르세니아의 마법사",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/741458/thumbnail/thumbnail_IMAG10_4f4d207d-6c08-4393-8f44-e7e9c1d02618.jpg",
+        "url": "/webtoon/list?titleId=741458&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','38')",
+        "title": "취향 소개소",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777222/thumbnail/thumbnail_IMAG10_f12322d1-d81f-4fa8-8048-ae91581b040e.jpg",
+        "url": "/webtoon/list?titleId=777222&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','39')",
+        "title": "전설의 화석",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773473/thumbnail/thumbnail_IMAG10_5240b6b2-52a0-433b-ac9a-d56152107f66.jpg",
+        "url": "/webtoon/list?titleId=773473&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','40')",
+        "title": "거래하실래요?",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773524/thumbnail/thumbnail_IMAG10_960205b3-bd21-4841-a7e3-504df21cf6e0.jpg",
+        "url": "/webtoon/list?titleId=773524&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','41')",
+        "title": "결혼까지 망상했어!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761599/thumbnail/thumbnail_IMAG10_48192470-423d-4dab-9570-a091e90c6b3a.jpg",
+        "url": "/webtoon/list?titleId=761599&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','42')",
+        "title": "잉여특공대",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/740387/thumbnail/thumbnail_IMAG10_ba41faf0-0bb2-4330-bd38-120c1d29f373.jpg",
+        "url": "/webtoon/list?titleId=740387&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','43')",
+        "title": "황제에게 하트를 심어주세요",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/775318/thumbnail/thumbnail_IMAG10_ee055b37-4d75-45d1-9ddc-8f1bc5273582.jpg",
+        "url": "/webtoon/list?titleId=775318&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','44')",
+        "title": "사람은 고쳐 쓰는 게 아니야!",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758664/thumbnail/thumbnail_IMAG10_8efb6cc4-5076-483a-a81b-9c3407c5c557.jpg",
+        "url": "/webtoon/list?titleId=758664&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','45')",
+        "title": "다시 또 봄",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/777221/thumbnail/thumbnail_IMAG10_947a6406-875c-4713-a677-9e710d12f2ab.jpg",
+        "url": "/webtoon/list?titleId=777221&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','46')",
+        "title": "데빌샷",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/753842/thumbnail/thumbnail_IMAG10_e3670e7b-6bde-42d5-99f6-d971b30c6e3f.jpg",
+        "url": "/webtoon/list?titleId=753842&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','47')",
+        "title": "독신마법사 기숙아파트",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/776143/thumbnail/thumbnail_IMAG10_dda41811-4de4-444a-accc-87f446b0bfe6.jpg",
+        "url": "/webtoon/list?titleId=776143&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','48')",
+        "title": "굿 리스너",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771933/thumbnail/thumbnail_IMAG10_2e0a9893-d9be-404e-be7c-23152cbf462a.jpg",
+        "url": "/webtoon/list?titleId=771933&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','49')",
+        "title": "가짜인간",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/766504/thumbnail/thumbnail_IMAG10_c90c55a5-0214-4e72-b6eb-658e6227b935.jpg",
+        "url": "/webtoon/list?titleId=766504&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','50')",
+        "title": "조선여우스캔들",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758676/thumbnail/thumbnail_IMAG10_c128068c-407a-435a-bdf1-87774dfac235.jpg",
+        "url": "/webtoon/list?titleId=758676&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','51')",
+        "title": "라커, 오프너",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/761514/thumbnail/thumbnail_IMAG10_c1456ca9-9a5c-4089-a847-9103761ae35a.jpg",
+        "url": "/webtoon/list?titleId=761514&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','52')",
+        "title": "소녀 해미",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/745409/thumbnail/thumbnail_IMAG10_3757e849-e5f9-47eb-8d22-2c29524c10df.jpg",
+        "url": "/webtoon/list?titleId=745409&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','53')",
+        "title": "위험한 신입사원",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/729883/thumbnail/thumbnail_IMAG10_b0eeb3fc-b1c7-4b06-93ca-86055021647c.jpg",
+        "url": "/webtoon/list?titleId=729883&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','54')",
+        "title": "오늘 밤만 재워줘",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/759641/thumbnail/thumbnail_IMAG10_35d679ca-6833-4d49-85ec-51ba1840ea6b.jpg",
+        "url": "/webtoon/list?titleId=759641&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','55')",
+        "title": "호수의 인어",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/771719/thumbnail/thumbnail_IMAG10_364a1696-334e-453d-a7ed-f24580a755c9.jpg",
+        "url": "/webtoon/list?titleId=771719&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','56')",
+        "title": "제타",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/773067/thumbnail/thumbnail_IMAG10_230655d6-9f14-49ab-a4ce-51fe590136c4.jpg",
+        "url": "/webtoon/list?titleId=773067&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','57')",
+        "title": "푸른불꽃",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/768467/thumbnail/thumbnail_IMAG10_3690a0e9-7dee-4729-abf0-541040144679.jpg",
+        "url": "/webtoon/list?titleId=768467&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','58')",
+        "title": "데이즈",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/752462/thumbnail/thumbnail_IMAG10_491373a1-e80e-4ecc-bb3a-10a1fe1d1ebb.jpg",
+        "url": "/webtoon/list?titleId=752462&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','59')",
+        "title": "샤인 스타",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758665/thumbnail/thumbnail_IMAG10_477b3194-090a-45db-a203-ac808bc6e30d.jpg",
+        "url": "/webtoon/list?titleId=758665&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','60')",
+        "title": "호시탐탐",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/758145/thumbnail/thumbnail_IMAG10_d7071f33-c4f6-4048-962c-145745f2e436.jpg",
+        "url": "/webtoon/list?titleId=758145&weekday=sun"
+    },
+    {
+        "id": "nclk_v2(event,'thm*S.img','','61')",
+        "title": "합격시켜주세용",
+        "img": "https://shared-comic.pstatic.net/thumb/webtoon/728128/thumbnail/thumbnail_IMAG10_6349dc0e-4eae-4d78-b5ee-a302dc717677.jpg",
+        "url": "/webtoon/list?titleId=728128&weekday=sun"
+    }
+]
