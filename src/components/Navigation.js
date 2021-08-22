@@ -5,9 +5,7 @@ const Navigation = ({}) => (
     <nav>
         <div>
             <ul>
-                <li>
-                    <Link to = "/">MH Webtoon</Link>
-                </li>
+                <Link to = "/">MH Webtoon</Link>
                 <li>
                     <Link to = "/">홈</Link>
                 </li>
