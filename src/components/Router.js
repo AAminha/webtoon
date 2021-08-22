@@ -9,7 +9,7 @@ import Weekly from "routes/Weekly";
 import Navigation from "components/Navigation";
 import Auth from "routes/Auth";
 
-const AppRouter = ({ isLoggedIn, userObj, webtoons, banner }) => {
+const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
     return (
         <Router>
             {isLoggedIn && <Navigation userObj = { userObj } />}
@@ -39,7 +39,8 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner }) => {
                             />
                         </Route>
                         <Route exact path = "/event">
-                            <Event 
+                            <Event
+                                events = { events }
                             />
                         </Route>
                         <Route exact path = "/mypage">

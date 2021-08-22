@@ -1,3 +1,4 @@
+import { getByDisplayValue } from "@testing-library/react";
 import axios from "axios";
 import { authService } from "fbase";
 import React, { useEffect, useState } from "react";
@@ -8,12 +9,13 @@ function App() {
     const [userObj, setUserObj] = useState(null);
     const [webtoons, setWebtoons] = useState([]);
     const [banner, setBanner] = useState([]);
+    const [events, setEvents] = useState([]);
 
     useEffect(() => {
         getWebtoons();
         getBanner();
+        getEvents();
         authService.onAuthStateChanged((user) => {
-            // console.log(user);
             if (user) {
                 setUserObj(user)
             } else {
@@ -34,9 +36,17 @@ function App() {
     const getBanner = async () => {
         const {
             data : {list}
-        } = await axios.get("banner json 주소");
+        } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon_banner.json");
 
         setBanner (list);
+    }
+
+    const getEvents = async () => {
+        const {
+            data : {list}
+        } = await axios.get("이벤트 json 주소");
+
+        setEvents (list);
     }
 
     return (
@@ -47,6 +57,7 @@ function App() {
                     userObj = { userObj }
                     webtoons = { webtoons }
                     banner = { banner }
+                    events = { events }
                 />
             ) : (
                 "Initializing..."
