@@ -9,7 +9,7 @@ import Weekly from "routes/Weekly";
 import Navigation from "components/Navigation";
 import Auth from "routes/Auth";
 
-const AppRouter = ({ isLoggedIn, userObj }) => {
+const AppRouter = ({ isLoggedIn, userObj, webtoons, banner }) => {
     return (
         <Router>
             {isLoggedIn && <Navigation userObj = { userObj } />}
@@ -17,22 +17,36 @@ const AppRouter = ({ isLoggedIn, userObj }) => {
                 {isLoggedIn ? (
                     <div>
                         <Route exact path = "/">
-                            <Home useObj = {userObj} />
+                            <Home
+                                useObj = { userObj }
+                                webtoons = { webtoons }
+                                banner = { banner }
+                            />
                         </Route>
                         <Route exact path = "/weekly">
-                            <Weekly />
+                            <Weekly
+                                webtoons = { webtoons }
+                            />
                         </Route>
                         <Route exact path = "/finish">
-                            <Finish />
+                            <Finish
+                                webtoons = { webtoons }
+                            />
                         </Route>
                         <Route exact path = "/top20">
-                            <Top />
+                            <Top
+                                webtoons = { webtoons }
+                            />
                         </Route>
                         <Route exact path = "/event">
-                            <Event />
+                            <Event 
+                            />
                         </Route>
                         <Route exact path = "/mypage">
-                            <MyPage userObj = { userObj } />
+                            <MyPage
+                                webtoons = { webtoons }
+                                userObj = { userObj }
+                            />
                         </Route>
                     </div>
                 ) : (
