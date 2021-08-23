@@ -1,48 +1,47 @@
-import React from "react";
-import Webtoon from "components/Webtoon";
-import { Link } from "react-router-dom";
+import React, { useState } from "react";
 
 const Weekly = ({ webtoons }) => {
+    const [mon, setMon] = useState([]);
+    const [tue, setTue] = useState([]);
+    const [wed, setWed] = useState([]);
+    const [thu, setThu] = useState([]);
+    const [fri, setFri] = useState([]);
+    const [sat, setSat] = useState([]);
+    const [sun, setSun] = useState([]);
+
+    const today = new Date();
+    const day = today.getDay();
+
+    const webtoonSort = () => {
+        for (let i = 0; i < webtoons.legnth; i++) {
+            for (let j = 0; j < webtoons[i].length; j++) {
+                let token = webtoons[i].charAt(j);
+                
+                if (token === "월") {
+                    setMon(mon.push(webtoons[i]))
+                } else if (token === "화") {
+                    setTue(tue.push(webtoons[i]))
+                } else if (token === "수") {
+                    setWed(wed.push(webtoons[i]))
+                } else if (token === "목") {
+                    setThu(thu.push(webtoons[i]))
+                } else if (token === "금") {
+                    setFri(fri.push(webtoons[i]))
+                } else if (token === "토") {
+                    setSat(sat.push(webtoons[i]))
+                } else if (token === "일") {
+                    setSun(sun.push(webtoons[i]))
+                }
+            }
+        }
+        console.log(mon);
+    }
 
     return (
         <div>
             <div>현재 여기는 Weekly</div>
-            <nav>
-                <ul>
-                    <li>
-                        <Link to = "/weekly">홈</Link>
-                    </li>
-                    <li>
-                        <Link to = "/weekly/week">요일별</Link>
-                    </li>
-                    <li>
-                        <Link to = "/weekly/subCategory=115">소년</Link>
-                    </li>
-                    <li>
-                        <Link to = "/weekly/subCategory=116">드라마</Link>
-                    </li>
-                    <li>
-                        <Link to = "/weekly/subCategory=121">로맨스</Link>
-                    </li>
-                    <li>
-                        <Link to = "/weekly/subCategory=69">로판</Link>
-                    </li>
-                    <li>
-                        <Link to = "/weekly/subCategory=112">액션무협</Link>
-                    </li>
-                </ul>
-            </nav>
+            
             <div>
-                {webtoons.map((webtoon) =>(
-                    <Webtoon
-                        key = {webtoon.series_id}
-                        title = {webtoon.title}
-                        author = {webtoon.author}
-                        category = {webtoon.sub_category}
-                        pubperiod = {webtoon.pubperiod}
-                        image = {webtoon.image}
-                    />
-                ))}
             </div>
         </div>
     );

@@ -41,7 +41,7 @@ const AuthForm = () => {
     const toggleAccount = () => setNewAccount((prev) => !prev);
     return (
         <>
-            <form>
+            <form onSubmit = { onSubmit }>
                 <input
                     name = "email"
                     type = "email"

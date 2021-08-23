@@ -1,4 +1,3 @@
-import Events from "components/Events";
 import React from "react";
 
 const Event = ({ events }) => {
@@ -10,9 +9,9 @@ const Event = ({ events }) => {
             <span>{`추천 이벤트 (${eventCount})`}</span>
             <div>
                 {events.map((event) =>(
-                    <Events
-                        image = {event.image}
-                    />
+                    <div>
+                        <img src = { event.image } />
+                    </div>
                 ))}
             </div>
         </>

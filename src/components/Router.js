@@ -6,9 +6,11 @@ import Home from "routes/Home";
 import MyPage from "routes/MyPage";
 import Top from "routes/Top";
 import Weekly from "routes/Weekly";
-import Navigation from "components/Navigation";
+import Navigation from "components/Navigation/Navigation";
 import Auth from "routes/Auth";
-import Week from "./Week";
+import WeeklyNavigation from "./Navigation/WeeklyNav";
+import FinishNavigation from "./Navigation/FinishNav";
+import TopNavigation from "./Navigation/TopNav";
 
 const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
     return (
@@ -25,21 +27,19 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
                             />
                         </Route>
                         <Route exact path = "/weekly">
+                            <WeeklyNavigation />
                             <Weekly
                                 webtoons = { webtoons }
                             />
                         </Route>
-                        <Route exact path = "/weekly/week">
-                            <Week
-                                webtoons = { webtoons }
-                            />
-                        </Route>
                         <Route exact path = "/finish">
+                            <FinishNavigation />
                             <Finish
                                 webtoons = { webtoons }
                             />
                         </Route>
                         <Route exact path = "/top20">
+                            <TopNavigation />
                             <Top
                                 webtoons = { webtoons }
                             />

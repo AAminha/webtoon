@@ -9,6 +9,9 @@ const Week = ({ webtoons }) => {
     const [sat, setSat] = useState([]);
     const [sun, setSun] = useState([]);
 
+    const today = new Date();
+    const day = today.getDay();
+
     const webtoonSort = () => {
         for (let i = 0; i < webtoons.legnth; i++) {
             for (let j = 0; j < webtoons[i].length; j++) {
