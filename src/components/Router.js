@@ -8,6 +8,7 @@ import Top from "routes/Top";
 import Weekly from "routes/Weekly";
 import Navigation from "components/Navigation";
 import Auth from "routes/Auth";
+import Week from "./Week";
 
 const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
     return (
@@ -25,6 +26,11 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
                         </Route>
                         <Route exact path = "/weekly">
                             <Weekly
+                                webtoons = { webtoons }
+                            />
+                        </Route>
+                        <Route exact path = "/weekly/week">
+                            <Week
                                 webtoons = { webtoons }
                             />
                         </Route>

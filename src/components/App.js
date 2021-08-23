@@ -44,7 +44,7 @@ function App() {
     const getEvents = async () => {
         const {
             data : {list}
-        } = await axios.get("이벤트 json 주소");
+        } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/event.json");
 
         setEvents (list);
     }
