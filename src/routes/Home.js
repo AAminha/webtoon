@@ -1,17 +1,34 @@
 import React from "react";
 
-const Home = ({ userObj, webtoons, banner }) => {
+// + 이번주 웹툰 보이게 하자
+
+const Home = ({ userObj, webtoons, banner, events }) => {
+    const mainEvent = [];
+
+    const mainEventExtract = () => {
+        for (let i = 0; i < events.length; i++) {
+            if (events[i].display) {
+                mainEvent.push(events[i])
+            }
+        }
+    }
 
     return (
         <div>
+            {mainEventExtract()}
             <div>현재 여기는 Home</div>
             <div>
-                {webtoons.map((webtoon) =>(
+                {banner.map((banner) =>(
                     <div>
-                        <img src = { webtoon.image } />
-                        <h3>{ webtoon.title }</h3>
-                        <h5>{ webtoon.author }</h5>
+                        <img src = { banner.bg_img } />
+                        <div>{ banner.main_copy2 }</div>
+                        <div>{ banner.sub_copy2 }</div>
                     </div>
+                ))}
+            </div>
+            <div>
+                {mainEvent.map((event) => (
+                    <img src = { event.image } />
                 ))}
             </div>
         </div>

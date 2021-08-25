@@ -9,6 +9,8 @@ function App() {
     const [webtoons, setWebtoons] = useState([]);
     const [banner, setBanner] = useState([]);
     const [events, setEvents] = useState([]);
+    let today = new Date();
+    let day = today.getDay();
 
     useEffect(() => {
         getWebtoons();
@@ -30,34 +32,41 @@ function App() {
         } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon.json");
 
         setWebtoons (list);
+
+        webtoons.sort((a, b) => a.rank - b.rank);
+
+        console.log(webtoons);
     }
 
     const getBanner = async () => {
         const {
-            data : {list}
+            data: { list }
         } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon_banner.json");
 
-        setBanner (list);
+        setBanner(list);
     }
 
     const getEvents = async () => {
         const {
-            data : {list}
+            data: { list }
         } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/event.json");
 
-        setEvents (list);
+        setEvents(list);
     }
 
     return (
         <>
             {init ? (
-                <AppRouter
-                    isLoggedIn = { Boolean(userObj) }
-                    userObj = { userObj }
-                    webtoons = { webtoons }
-                    banner = { banner }
-                    events = { events }
-                />
+                <>
+                    <AppRouter
+                        isLoggedIn={Boolean(userObj)}
+                        userObj={userObj}
+                        webtoons={webtoons}
+                        banner={banner}
+                        events={events}
+                        day={day}
+                    />
+                </>
             ) : (
                 "Initializing..."
             )}

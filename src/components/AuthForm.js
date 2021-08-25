@@ -1,44 +1,35 @@
 import { authService } from "fbase";
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 const AuthForm = () => {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [error, setError] = useState("");
-    const [newAccount, setNewAccount] = useState("false");
 
     const onChange = (event) => {
         const {
-            target : { name, value }
+            target : { name, value },
         } = event;
         if (name === "email") {
             setEmail(value);
         } else if (name === "password") {
             setPassword(value);
-        }
-    }
-
+        }                           
+    };
     const onSubmit = async(event) => {
         event.preventDefault();
-        try {
-            let data;
-            if (newAccount) {
-                data = await authService.createUserWithEmailAndPassword(
+        try {     
+            const data = await authService.createUserWithEmailAndPassword(
                     email,
                     password
                 );
-            } else {
-                data = await authService.signInWithEmailAndPassword(
-                    email,
-                    password
-                );
-            }
             console.log(data);
         } catch (error) {
             setError(error.message);
         }
     };
-    const toggleAccount = () => setNewAccount((prev) => !prev);
+
     return (
         <>
             <form onSubmit = { onSubmit }>
@@ -58,13 +49,15 @@ const AuthForm = () => {
                     placeholder = "비밀번호"
                     required
                 />
+                <input
+                    className = "authInput authSubmit"
+                    type = "submit"
+                    value = "회원가입"
+                />
                 <span>
                     { error }
                 </span>
             </form>
-            <span onClick = { toggleAccount }>
-                {newAccount ? "로그인" : "회원가입"}
-            </span>
         </>
     );
 }

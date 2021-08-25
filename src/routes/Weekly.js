@@ -1,47 +1,64 @@
-import React, { useState } from "react";
+import Reactn from "react";
 
 const Weekly = ({ webtoons }) => {
-    const [mon, setMon] = useState([]);
-    const [tue, setTue] = useState([]);
-    const [wed, setWed] = useState([]);
-    const [thu, setThu] = useState([]);
-    const [fri, setFri] = useState([]);
-    const [sat, setSat] = useState([]);
-    const [sun, setSun] = useState([]);
+    const webtoon = [];
+    const mon = [];
+    const tue = [];
+    const wed = [];
+    const thu = [];
+    const fri = [];
+    const sat = [];
+    const sun = [];
+
+    const weeklyWebtoon = () => {
+        for (let i = 0; i < webtoons.length; i++) {
+            if (!(webtoons[i].finished))
+                webtoon.push(webtoons[i]);
+        }
+    }
 
     const today = new Date();
     const day = today.getDay();
 
-    const webtoonSort = () => {
-        for (let i = 0; i < webtoons.legnth; i++) {
-            for (let j = 0; j < webtoons[i].length; j++) {
-                let token = webtoons[i].charAt(j);
+    const webtoonWeekSort = () => {
+        weeklyWebtoon();
+
+        for (let i = 0; i < webtoon.length; i++) {
+            for (let j = 0; j < webtoon[i].pubperiod.length; j++) {
+                let token = webtoon[i].pubperiod.charAt(j);
                 
                 if (token === "월") {
-                    setMon(mon.push(webtoons[i]))
+                    mon.push(webtoon[i])
                 } else if (token === "화") {
-                    setTue(tue.push(webtoons[i]))
+                    tue.push(webtoon[i])
                 } else if (token === "수") {
-                    setWed(wed.push(webtoons[i]))
+                    wed.push(webtoon[i])
                 } else if (token === "목") {
-                    setThu(thu.push(webtoons[i]))
+                    thu.push(webtoon[i])
                 } else if (token === "금") {
-                    setFri(fri.push(webtoons[i]))
+                    fri.push(webtoon[i])
                 } else if (token === "토") {
-                    setSat(sat.push(webtoons[i]))
+                    sat.push(webtoon[i])
                 } else if (token === "일") {
-                    setSun(sun.push(webtoons[i]))
+                    sun.push(webtoon[i])
                 }
             }
         }
-        console.log(mon);
+        console.log(tue);
     }
 
     return (
         <div>
             <div>현재 여기는 Weekly</div>
-            
+            {webtoonWeekSort()}
             <div>
+                {tue.map((webtoon) =>(
+                    <div>
+                        <img src = { webtoon.land_thumb_img } />
+                        <div>{ webtoon.title }</div>
+                        <div>{ webtoon.sub_catergory}</div>
+                    </div>
+                ))}
             </div>
         </div>
     );

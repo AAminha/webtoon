@@ -15,21 +15,12 @@ const Top = ({ webtoons }) => {
         let romanceFantasy = [];
         let action = []; */
 
-    const compare = (key) => (a, b) => {
-        return a[key] > a[key] ? 1 : a[key] < b[key] ? -1 : 0;
-    };
-
-    const getWebtoonSort = (webtoon) => {
-        setWebtoonSort(webtoon.sort(compare("rank")));
-    };
-
     const webtoonExtract = () => {
         for (let i = 0; i < webtoons.length; i++) {     
             if (webtoons[i].finished === 0) {
                 weeklyWebtoon.push(webtoons[i])
             }
         }
-        getWebtoonSort(weeklyWebtoon);
         
         for (let i = 0; i < webtoonSort.length; i++) {
             if (webtoonSort[i].finished === 0) {

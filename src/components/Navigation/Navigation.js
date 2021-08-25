@@ -1,11 +1,13 @@
+import Button from "components/Button";
 import React from "react";
 import { Link } from "react-router-dom";
 
-const Navigation = () => (
+const Navigation = ({ isLoggedIn }) => (
     <nav>
         <div>
+            <Link to = "/">MH Webtoon</Link>
+            <Button isLoggedIn = {isLoggedIn} />
             <ul>
-                <Link to = "/">MH Webtoon</Link>
                 <li>
                     <Link to = "/">홈</Link>
                 </li>
@@ -22,7 +24,7 @@ const Navigation = () => (
                     <Link to = "/event">이벤트</Link>
                 </li>
                 <li>
-                    <Link to = "/mypage">마이 페이지</Link>
+                    <Link to = {isLoggedIn ? "/mypage" : "signin"}>마이 페이지</Link>
                 </li>
             </ul>
         </div>
