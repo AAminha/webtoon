@@ -1,11 +1,12 @@
 import { authService } from "fbase";
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useHistory } from "react-router-dom";
 
 const AuthForm = () => {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [error, setError] = useState("");
+    const history = useHistory();
 
     const onChange = (event) => {
         const {
@@ -29,6 +30,9 @@ const AuthForm = () => {
             setError(error.message);
         }
     };
+    const exit = () => {
+        history.push("/");
+    }
 
     return (
         <>
@@ -53,6 +57,7 @@ const AuthForm = () => {
                     className = "authInput authSubmit"
                     type = "submit"
                     value = "회원가입"
+                    onClick = {exit}
                 />
                 <span>
                     { error }

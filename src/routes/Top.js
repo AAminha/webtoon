@@ -1,4 +1,6 @@
+import Rank from "components/Rank";
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const Top = ({ webtoons }) => {
     const [webtoonSort, setWebtoonSort] = useState([]);
@@ -15,6 +17,18 @@ const Top = ({ webtoons }) => {
         let romanceFantasy = [];
         let action = []; */
 
+        /* useEffect(() => {
+            <
+                        isLoggedIn={Boolean(userObj)}
+                        userObj={userObj}
+                        webtoons={webtoons}
+                        banner={banner}
+                        events={events}
+                        day={day}
+                    />
+        }) */
+
+    // 연재 중인 웹툰 뽑아내기
     const webtoonExtract = () => {
         for (let i = 0; i < webtoons.length; i++) {     
             if (webtoons[i].finished === 0) {
@@ -38,14 +52,42 @@ const Top = ({ webtoons }) => {
             }
         };
     };
-
     webtoonExtract();
 
     return (
-        //webtoonExtract(),
+        <div>
         <div>현재 여기는 TOP 20</div>
+        {TopNavigation ({boy, drama, romance, romanceFantasy, action})}
+        </div>
        
     )
 } 
+
+const TopNavigation = ({boy, drama, romance, romanceFantasy, action}) => (
+    <nav>
+        <div>
+            <ul>
+                <li>
+                    <Link to = "/top20">전체</Link>
+                </li>                 
+                <li>
+                   <Link to = "/top20/subCateogry=115">소년</Link>
+                </li>
+                <li>
+                    <Link to = "/top20/subCategory=116">드라마<Rank webtoons = {drama}/></Link>
+                </li>
+                <li>
+                    <Link to = "/top20/subCategory=121">로맨스</Link>
+                </li>
+                <li>
+                    <Link to = "/top20/subCategory=69">로판</Link>
+                </li>
+                <li>
+                    <Link to = "/top20/subCategory=112">액션무협</Link>
+                </li>                
+            </ul>
+        </div>
+    </nav>
+);
 
 export default Top;

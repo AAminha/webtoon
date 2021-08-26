@@ -43,11 +43,11 @@ const Auth = ({isLoggedIn}) => {
             provider = new firebaseInstance.auth.GithubAuthProvider();
         }
         await authService.signInWithPopup(provider);
+        exit();
     };
 
     const exit = () => {
-        if (isLoggedIn)
-            history.push("/");
+        history.push("/");
     }
 
     return (
@@ -86,10 +86,10 @@ const Auth = ({isLoggedIn}) => {
                 </div>
             </>
             <div>
-                <button onClick={onSocialClick, exit} name="google">
+                <button onClick={onSocialClick} name="google">
                     구글 로그인
                 </button>
-                <button onClick={onSocialClick, exit} name="github">
+                <button onClick={onSocialClick} name="github">
                     깃허브 로그인
                 </button>
             </div>

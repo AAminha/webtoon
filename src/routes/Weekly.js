@@ -1,6 +1,9 @@
 import Reactn from "react";
+import { useLocation, useParams } from "react-router-dom";
 
 const Weekly = ({ webtoons }) => {
+    const location = useLocation();
+    const params = useParams();
     const webtoon = [];
     const mon = [];
     const tue = [];
@@ -50,6 +53,7 @@ const Weekly = ({ webtoons }) => {
     return (
         <div>
             <div>현재 여기는 Weekly</div>
+            <div>{params}</div>
             {webtoonWeekSort()}
             <div>
                 {tue.map((webtoon) =>(

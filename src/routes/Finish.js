@@ -20,12 +20,12 @@ const Finish = ({ webtoons }) => {
             {webtoonFinished()}
             <div>{`완결작 (${finishCount})`}</div>
             <div>
-                {webtoon.map((webtoon) =>(
-                    <div>
-                        <img src = { webtoon.thumb_img } />
-                        <div>{ webtoon.title }</div>
-                        <div>{ webtoon.sub_catergory}</div>
-                    </div>
+                {webtoon.map((webtoon) => (
+                    <a href={webtoon.url}>
+                        <img src={webtoon.land_thumb_img} />
+                        <div>{webtoon.title}</div>
+                        <div>{webtoon.sub_catergory}</div>
+                    </a>
                 ))}
             </div>
         </div>
