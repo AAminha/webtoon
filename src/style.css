@@ -1,0 +1,14 @@
+.main_container {
+    display:flex;
+    flex:1;
+}
+
+.event_count {
+    font-size: 15pt;
+
+}
+
+.event {
+    max-width: 100px;
+    max-height: 100px;
+}

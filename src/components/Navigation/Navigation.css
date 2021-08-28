@@ -1,0 +1,82 @@
+.main {
+    background-color: fuchsia;
+    flex: 1;
+    padding-top: 10px;
+    /* width : 500px;
+    margin : 0 auto;
+    margin-top : 4rem;
+    border-radius: 5px; 
+    align-items: center;*/
+    
+}
+
+.main_layout {
+    background-color: green;
+    display: flex;
+    align-items: flex-end;
+    width: 750px;
+    height: 70px;
+    margin: 0 auto;         /*모든 요소들을 가운데로 정렬*/
+    margin-bottom: 20px;
+    
+}
+
+.main_logo {
+    width: auto;
+    height: auto;
+    max-height: 200px;
+    max-width: 200px;
+    padding-right: 200px;
+}
+
+.logBtns {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.logBtn {
+    cursor: pointer;
+    background-color: white;
+    color: rgb(119, 118, 118);
+    font-weight: bolder;
+    font-size: 13pt;
+    border: none;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+.main_nav {
+    display: flex;
+    background-color: gold;
+    padding: 7px;
+    list-style: none;
+    font-size: 15pt;
+    width: 750px;
+    justify-content	: space-around;
+    margin: 0 auto;
+    color: black;
+}
+
+/* .nav {
+    padding-right: 35px;
+    padding-left: 35px;
+} */
+
+/*Search.js*/
+
+
+.search_bar {
+    border: 1px solid rgb(189, 189, 189);
+    height: 30px;
+    border-radius: 20px;
+    width: 200px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.search_icon {
+    position: relative;
+    top: 11px;
+    right: 40px;
+}

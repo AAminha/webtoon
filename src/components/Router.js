@@ -14,6 +14,7 @@ import AuthForm from "./AuthForm";
 import TopNavigation from "./Navigation/TopNav";
 //import WeeklyRank from "./Rank";
 import Rank from "./Rank";
+import SearchWebtoon from "./SearchWebtoon";
 
 const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
     return (
@@ -21,6 +22,7 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
             <Navigation
                 userObj={userObj}
                 isLoggedIn={isLoggedIn}
+                webtoons={webtoons}
             />
             <Switch>
                 <Route exact path="/">
@@ -77,6 +79,10 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
                 </Route>
                 <Route exact path="/top20/subCategory=115">
                     <Rank />
+                </Route>
+                <Route path="/search?word=:word">
+                    <SearchWebtoon
+                        webtoons={webtoons} />
                 </Route>
 
             </Switch>
