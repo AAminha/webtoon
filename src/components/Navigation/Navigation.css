@@ -1,17 +1,12 @@
-.main {
-    background-color: fuchsia;
-    flex: 1;
+.mainNav {
+    background-color: white;
     padding-top: 10px;
-    /* width : 500px;
-    margin : 0 auto;
-    margin-top : 4rem;
-    border-radius: 5px; 
-    align-items: center;*/
-    
+    box-shadow : 0px 3px 6px rgba(0,0,0,0.16);   
+    margin-bottom: 20px;
+    position: sticky;
 }
 
-.main_layout {
-    background-color: green;
+.mainNav_container {
     display: flex;
     align-items: flex-end;
     width: 750px;
@@ -30,8 +25,9 @@
 }
 
 .logBtns {
-    max-width: 100px;
-    max-height: 100px;
+    width: 100px;
+    margin-bottom: 17px;
+    
 }
 
 .logBtn {
@@ -41,14 +37,13 @@
     font-weight: bolder;
     font-size: 13pt;
     border: none;
+    width: 90px;
     height: 30px;
-    margin-bottom: 15px;
 }
 
 .main_nav {
     display: flex;
-    background-color: gold;
-    padding: 7px;
+    padding: 5px;
     list-style: none;
     font-size: 15pt;
     width: 750px;
@@ -57,26 +52,35 @@
     color: black;
 }
 
-/* .nav {
-    padding-right: 35px;
-    padding-left: 35px;
-} */
+.nav {
+    cursor: pointer;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: 600;
 
-/*Search.js*/
+}
 
+.active {
+    border-bottom: 3px solid rgb(255, 208, 0);
+}
+
+.search {
+    display: flex;
+}
 
 .search_bar {
     border: 1px solid rgb(189, 189, 189);
     height: 30px;
     border-radius: 20px;
-    width: 200px;
-    padding-left: 10px;
+    width: 215px;
+    padding-left: 13px;
     margin-bottom: 15px;
     font-size: 15px;
 }
 
 .search_icon {
     position: relative;
-    top: 11px;
-    right: 40px;
+    top: 3px;
+    right: 38px;
 }

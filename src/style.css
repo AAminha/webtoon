@@ -1,14 +1,145 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 660px;
+    background-color: white;
+    height: auto;
+    padding: 40px;  /*내부 여백*/
+    margin: 20px;   /*외부 여백*/
+    margin: 0 auto;
+}
+
 .main_container {
     display:flex;
     flex:1;
 }
 
-.event_count {
-    font-size: 15pt;
+/*Auth.js*/
 
+
+.log_container {
+    margin: 0 auto;
+    background-color: rgb(247, 239, 174);
+    width: 400px;
+    height: 140px;
+    padding: 30px;
+    padding-top: 80px;
+    padding-bottom: 120px;
+    margin-top: 20px;
 }
 
+.log_form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.input_form {
+    padding: 8px;
+    padding-left: 13px;
+    border-radius: 10px;
+    border: 1px solid rgb(189, 189, 189);
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.authError {
+    display: flex;
+    color: rgb(255, 97, 70);
+    font-weight: 500;
+    font-size: 14px;
+    margin: 2px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.submitBtn {
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 8px;
+    border: 1px solid rgb(189, 189, 189);
+    background-color: rgb(255, 221, 27);
+    margin-bottom: 15px;
+}
+
+.authSubmitBtn {
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 8px;
+    border: 1px solid rgb(189, 189, 189);
+    background-color: white;
+}
+
+.socialBtns {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: rgb(247, 239, 174);
+    width: 400px;
+    height: 60px;
+    padding: 30px;
+    padding-top: 0px;
+}
+
+.socialBtn {
+    cursor: pointer;
+    margin: 10px;
+    width: 170px;
+    height: 35px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid rgb(189, 189, 189);
+    background-color: white;
+}
+
+/* AuthForm.js */
+.sign_container {
+    margin: 0 auto;
+    background-color: rgb(247, 239, 174);
+    width: 400px;
+    height: 140px;
+    padding: 30px;
+    padding-top: 80px;
+    padding-bottom: 120px;
+    margin-top: 20px;
+}
+
+.sign_form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Event.js */
 .event {
-    max-width: 100px;
-    max-height: 100px;
+    padding-left: 45px;
+    padding-right: 35px;
+    padding-bottom: 30px;
+}
+
+.event_count {
+    font-size: 15pt;
+    margin-bottom: 20px;
+    
+}
+
+.event_images {
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.event_image {
+    width: auto;
+    height: auto;
+    max-height: 160px;
+    border-radius: 7px;
+}
+
+.check {
+    margin-right: 10px;
+    margin-bottom: 10px;
 }

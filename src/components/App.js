@@ -26,6 +26,12 @@ function App() {
         })
     }, []);
 
+    /* const doing = () => {
+        getWebtoons();
+        getBanner();
+        getEvents();
+    }
+ */
     const getWebtoons = async () => {
         const {
             data : {list}
@@ -34,9 +40,7 @@ function App() {
         setWebtoons (list);
 
         webtoons.sort((a, b) => a.rank - b.rank);
-
-        console.log(webtoons);
-    }
+    };
 
     const getBanner = async () => {
         const {
@@ -44,7 +48,7 @@ function App() {
         } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon_banner.json");
 
         setBanner(list);
-    }
+    };
 
     const getEvents = async () => {
         const {
@@ -52,10 +56,11 @@ function App() {
         } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/event.json");
 
         setEvents(list);
-    }
+    };
 
     return (
         <>
+        {console.log(Boolean(userObj))}
             {init ? (
                 <>
                     <AppRouter
@@ -72,6 +77,6 @@ function App() {
             )}
         </>
     );
-}
+};
 
 export default App;

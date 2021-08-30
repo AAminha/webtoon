@@ -5,14 +5,14 @@ const Event = ({ events }) => {
     const eventCount = events.length;
 
     return (
-        <div className="main_container">
-            <span className="event_count">
+        <div className="main event">
+            <div className="event_count">
                 {`추천 이벤트 (${eventCount})`}
-                </span>
-            <div className="event">
+            </div>
+            <div className="event_images">
                 {events.map((event) =>(
-                    <div>
-                        <img src = { event.image } />
+                    <div className = "check">
+                        <img className="event_image" src = { event.image } />
                     </div>
                 ))}
             </div>

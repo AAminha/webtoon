@@ -1,6 +1,7 @@
 import Slider from "components/Slider";
 import Slider2 from "components/Slider2";
 import React from "react";
+import "style.css"
 
 // + 이번주 웹툰 보이게 하자
 
@@ -16,9 +17,8 @@ const Home = ({ userObj, webtoons, banner, events, isLoggedIn }) => {
     }
 
     return (
-        <div>
+        <div className="main">
             {mainEventExtract()}
-            <div>현재 여기는 Home</div>
             {/* <Slider banner = {banner} /> */}
             <Slider2 banner = {banner} />
             <div>

@@ -15,6 +15,7 @@ import TopNavigation from "./Navigation/TopNav";
 //import WeeklyRank from "./Rank";
 import Rank from "./Rank";
 import SearchWebtoon from "./SearchWebtoon";
+import { useState } from "react/cjs/react.development";
 
 const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
     return (
@@ -25,7 +26,7 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
                 webtoons={webtoons}
             />
             <Switch>
-                <Route exact path="/">
+                <Route exact path="/" >
                     <Home
                         useObj={userObj}
                         webtoons={webtoons}
@@ -47,21 +48,25 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
                         </Switch> */}
                 </Route>
                 <Route exact path="/finish">
+                
                     <Finish
                         webtoons={webtoons}
                     />
                 </Route>
                 <Route exact path="/top20">
+                
                     <Top
                         webtoons={webtoons}
                     />
                 </Route>
                 <Route exact path="/event">
+                
                     <Event
                         events={events}
                     />
                 </Route>
                 <Route exact path="/mypage">
+                
                     <MyPage
                         webtoons={webtoons}
                         userObj={userObj}

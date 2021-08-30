@@ -1,6 +1,7 @@
 import { authService } from "fbase";
 import React, { useState } from "react";
 import { Link, useHistory } from "react-router-dom";
+import "style.css"
 
 const AuthForm = () => {
     const [email, setEmail] = useState("");
@@ -10,60 +11,68 @@ const AuthForm = () => {
 
     const onChange = (event) => {
         const {
-            target : { name, value },
+            target: { name, value },
         } = event;
         if (name === "email") {
             setEmail(value);
         } else if (name === "password") {
             setPassword(value);
-        }                           
+        }
     };
-    const onSubmit = async(event) => {
+    const onSubmit = async (event) => {
         event.preventDefault();
-        try {     
+        try {
             const data = await authService.createUserWithEmailAndPassword(
-                    email,
-                    password
-                );
+                email,
+                password
+            );
             console.log(data);
         } catch (error) {
             setError(error.message);
         }
     };
     const exit = () => {
-        history.push("/");
+        authService.onAuthStateChanged((user) => {
+            if (user) {
+                history.push("/");
+            }
+        })
+
+        console.log(Boolean(authService.onAuthStateChanged))
     }
 
     return (
-        <>
-            <form onSubmit = { onSubmit }>
-                <input
-                    name = "email"
-                    type = "email"
-                    value = { email }
-                    onChange = { onChange }
-                    placeholder = "이메일"
-                    required
-                />
-                <input
-                    name = "password"
-                    type = "password"
-                    value = { password }
-                    onChange = { onChange }
-                    placeholder = "비밀번호"
-                    required
-                />
-                <input
-                    className = "authInput authSubmit"
-                    type = "submit"
-                    value = "회원가입"
-                    onClick = {exit}
-                />
-                <span>
-                    { error }
-                </span>
-            </form>
-        </>
+        <div className="main">
+            <div className="sign_container">
+                <form className="sign_form" onSubmit={onSubmit}>
+                    <input className="input_form"
+                        name="email"
+                        type="email"
+                        value={email}
+                        onChange={onChange}
+                        placeholder="이메일"
+                        required
+                    />
+                    <input className="input_form"
+                        name="password"
+                        type="password"
+                        value={password}
+                        onChange={onChange}
+                        placeholder="비밀번호"
+                        required
+                    />
+                    <span className="authError">
+                        {error}
+                    </span>
+                    <input
+                        className="submitBtn"
+                        type="submit"
+                        value="회원가입"
+                        onClick={exit}
+                    />
+                </form>
+            </div>
+        </div>
     );
 }
 

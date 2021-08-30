@@ -1,154 +1,44 @@
 {
     "list": [
         {
-            "uid": 52827,
-            "title": "피비의 비애 컬렉션",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=3NuHD/hy41KYG03t/YOd5IOm0EZVZ8STTMekN2k",
-            "display": 1
-        },
-        {
-            "uid": 52812,
-            "title": "악녀는 오늘도 즐겁다",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=cYcPov/hzb7uNMGk5/V1muDVSGbDuvNDrqqsi1W0",
-            "display": 1
-        },
-        {
-            "uid": 52811,
-            "title": "악녀 메이커",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=waCbW/hzb7xDKcgo/WCdQXrsnYXraBk1QKaLTOK",
-            "display": 1
-        },
-        {
-            "uid": 52753,
-            "title": "왕따게임",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=MLIPd/hy41F388zs/TENMJhNIY3XrYY5Dx99TG1",
-            "display": 1
-        },
-        {
-            "uid": 52745,
-            "title": "운영자의 권한으로",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=bQnx61/hzb7yile4j/12Fe4suCOUDUg6AB3aN0kK",
-            "display": 1
-        },
-        {
-            "uid": 52744,
-            "title": "꽃이 지더라도",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=tGDtj/hzb7xcFkeF/UtgGhYrfBe5KrTmv2BYmM1",
-            "display": 1
-        },
-        {
-            "uid": 52743,
-            "title": "풍운전신",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=k03PI/hzb7wx3L4N/w1kHtdl5h6cFY6Gymu1p11",
-            "display": 1
-        },
-        {
-            "uid": 52742,
-            "title": "대사형",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=bAkv7o/hzacbJEbm9/cHsz3Y9iGxSlqHbVB4o2G0",
-            "display": 1
-        },
-        {
-            "uid": 52706,
-            "title": "마블 전기: 파괴의 신의 탄생",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=hp8ph/hy41PFHncT/qDE9xqBJ2PFIon9PEtlj6k",
-            "display": 0
-        },
-        {
-            "uid": 52684,
-            "title": "우연한 친구",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=cVWMjL/hzace0Fq8u/V1qekR8kgFWR4HAJ4X1pjK",
-            "display": 0
-        },
-        {
-            "uid": 52679,
-            "title": "호위무사",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=vMRgt/hy41M9221I/CZHBVDOs0hvAgScciRnls0",
-            "display": 0
-        },
-        {
-            "uid": 52646,
-            "title": "남편이 미모를 숨김",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=tljnA/hzacgjRCFs/hlpR7a43Ecbb8cHKdbKS30",
-            "display": 0
-        },
-        {
-            "uid": 52642,
-            "title": "경성빵집",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=JS8s1/hy41K5sCA8/S6KiCQEt8hyZjWrFCdUllk",
-            "display": 0
-        },
-        {
-            "uid": 52630,
-            "title": "이세계의 지존 플레이어",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=k2I2D/hzacc9BLpt/os0ygs8kgMIBABKgkG4ctK",
-            "display": 0
-        },
-        {
             "uid": 52561,
             "title": "뮈엘라의 수사관",
             "image": "https://dn-img-page.kakao.com/download/resource?kid=b4UBDf/hy41NgN9wr/mP4m4RpnG9ZvV1sMjmSH21",
-            "display": 0
-        },
-        {
-            "uid": 52558,
-            "title": "다정다감",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=ihFby/hzacdm8joK/Pf4PIwKo0rV4ieFUkFsqV1",
-            "display": 0
-        },
-        {
-            "uid": 52555,
-            "title": "올드뉴비 김춘식",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=db529g/hzacdUYg5w/tHvV8pSDLIJpVrfHMXw7U0",
-            "display": 0
-        },
-        {
-            "uid": 52507,
-            "title": "못난이 공녀가 되었습니다",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=fbSAt/hy41IGxzhf/fQFV8zh1ABuqWoDWAMAHjk",
-            "display": 0
-        },
-        {
-            "uid": 52506,
-            "title": "귀신 보는 공작부인",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=bg4Lal/hzacgjQX72/d9KIvSfIjNod7zAEBUbVFK",
-            "display": 0
-        },
-        {
-            "uid": 52505,
-            "title": "스머프 월드",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=t4a2l/hzacbQoicv/7ko6wRKZZKu8EStIpeoH61",
-            "display": 0
+            "display": 1
         },
         {
             "uid": 52504,
             "title": "크레이지 가드너",
             "image": "https://dn-img-page.kakao.com/download/resource?kid=V11wc/hy41HnlvvW/X6HBIzCJikBLGeDXVFBMZ0",
+            "display": 1
+        },
+        {
+            "uid": 52991,
+            "title": "애월의 꿈",
+            "image": "2nDAt/hzb7vMIj2I/GAM677y6KgnnbsbyCMQVx1",
+            "scheme": "kakaopage://exec?goto_theme/uid=25701",
+            "display": 1
+        },
+        {
+            "uid": 53141,
+            "title": "대마법사의 딸 & 비켜요, 엔딩은 내가 정합니다",
+            "image": "o8cw4/hzacb3Yw4p/K0GcFVAXzlMso3RyM8SgRK",
+            "scheme": "kakaopage://exec?goto_theme/uid=25729",
             "display": 0
         },
         {
-            "uid": 52435,
-            "title": "방과 후, 사랑했다",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=i02eJ/hy41G9QNZq/E4pM1ucELVPaRc2b9hW8x0",
+            "uid": 52990,
+            "title": "포갓레인저",
+            "image": "lRuXz/hzb7tVFeXL/CKH8nDIXkHVwXkXjlqLQk1",
+            "scheme": "kakaopage://exec?goto_theme/uid=25700",
             "display": 0
         },
         {
-            "uid": 52408,
-            "title": "원 스텝 프롬 헬",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=cfbPaZ/hy41PyTTpZ/zIOjb2idHHu6r29HQk8mx0",
+            "uid": 52942,
+            "title": "아는 척 하지마",
+            "image": "ckK4eh/hy41PyXnqp/wZmA2ukjnDcwR83lAFJkL0",
+            "scheme": "kakaopage://exec?goto_theme/uid=25687",
             "display": 0
         },
-        {
-            "uid": 52352,
-            "title": "바라카몬",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=i5W6O/hzacbQmYVl/ljhHH9Kf3CNSFFaBr02uV0",
-            "display": 0
-        },
-        {
-            "uid": 52361,
-            "title": "살인귀의 아이를 낳았다",
-            "image": "https://dn-img-page.kakao.com/download/resource?kid=tEQPq/hy41F36VnI/TU1wKt18hP9h9O0PYe065k",
-            "display": 0
-        }
     ]
 }
