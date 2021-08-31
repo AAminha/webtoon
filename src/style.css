@@ -1,3 +1,4 @@
+
 .main {
     display: flex;
     flex-direction: column;
@@ -96,6 +97,7 @@
 }
 
 /* AuthForm.js */
+
 .sign_container {
     margin: 0 auto;
     background-color: rgb(247, 239, 174);
@@ -115,6 +117,7 @@
 }
 
 /* Event.js */
+
 .event {
     padding-left: 45px;
     padding-right: 35px;
@@ -142,4 +145,103 @@
 .check {
     margin-right: 10px;
     margin-bottom: 10px;
+}
+
+.week {
+    margin-top : 15px;
+}
+
+/* Weekly.js */
+.weekly {
+    margin-top: 10px;
+}
+
+.weekly_genre {
+    display: flex;
+    text-decoration-line: none;
+}
+
+.weekly_genre_info {
+    flex-direction: column;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 11pt;
+}
+
+.weekly_genre_img {
+    width: auto;
+    max-width: 150px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.weekly_genre_main {
+    color: black;
+    font-size: 12pt;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.weekly_genre {
+    font-size: 11pt;
+    color: rgb(119, 118, 118);
+    padding-bottom: 5px;
+    width: auto;
+    max-width: 550px;
+}
+
+.user_icon {
+    padding-right: 3px;
+    margin-top: 3px;
+}
+
+.cap {
+    font-weight: 600;
+    font-size: 12pt;
+    margin-bottom: 15px;
+}
+
+.sub {
+    margin-bottom: 20px;
+}
+
+/* Finish.js */
+
+.finish_count {
+    font-size: 14pt;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.finish {
+    display: flex;
+    text-decoration-line: none;
+}
+
+.finish_img {
+    width: auto;
+    max-width: 300px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.finish_info {
+    color:rgb(119, 118, 118);
+    flex-direction: column;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 11pt;
+}
+
+.finish_main {
+    color: black;
+    font-size: 12pt;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.finish_sub {
+    display: flex;
+    text-decoration-line: none;
+    padding-top: 30px;
 }

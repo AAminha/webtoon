@@ -1,6 +1,7 @@
 import axios from "axios";
 import { authService } from "fbase";
 import React, { useEffect, useState } from "react";
+import WeeklyRouter from "routes/Weekly";
 import AppRouter from "./Router";
 
 function App() {
@@ -9,8 +10,6 @@ function App() {
     const [webtoons, setWebtoons] = useState([]);
     const [banner, setBanner] = useState([]);
     const [events, setEvents] = useState([]);
-    let today = new Date();
-    let day = today.getDay();
 
     useEffect(() => {
         getWebtoons();
@@ -26,20 +25,13 @@ function App() {
         })
     }, []);
 
-    /* const doing = () => {
-        getWebtoons();
-        getBanner();
-        getEvents();
-    }
- */
     const getWebtoons = async () => {
         const {
             data : {list}
         } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon.json");
 
+        //setWebtoons (list.sort((a, b) => a.rank - b.rank));
         setWebtoons (list);
-
-        webtoons.sort((a, b) => a.rank - b.rank);
     };
 
     const getBanner = async () => {
@@ -60,7 +52,6 @@ function App() {
 
     return (
         <>
-        {console.log(Boolean(userObj))}
             {init ? (
                 <>
                     <AppRouter
@@ -69,7 +60,9 @@ function App() {
                         webtoons={webtoons}
                         banner={banner}
                         events={events}
-                        day={day}
+                    />
+                    <WeeklyRouter
+                        webtoons={webtoons}
                     />
                 </>
             ) : (

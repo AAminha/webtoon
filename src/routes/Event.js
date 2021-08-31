@@ -12,7 +12,7 @@ const Event = ({ events }) => {
             <div className="event_images">
                 {events.map((event) =>(
                     <div className = "check">
-                        <img className="event_image" src = { event.image } />
+                        <img className="event_image" src = { `https://dn-img-page.kakao.com/download/resource?kid=${event.image}` } />
                     </div>
                 ))}
             </div>

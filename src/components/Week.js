@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "style.css";
 
 const Week = ({ webtoons }) => {
     const [mon, setMon] = useState([]);
@@ -38,11 +39,14 @@ const Week = ({ webtoons }) => {
     }
 
     return (
-        <div>
+        <div className="main week">
+        {/* <div>
             <img src = { mon.image } />
             <h3>{mon.title}</h3>
             <h5>{mon.author}</h5>
 
+        </div> */}
+        {console.log("여기까지 왔다니")}
         </div>
     )
 };

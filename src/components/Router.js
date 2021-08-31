@@ -15,9 +15,10 @@ import TopNavigation from "./Navigation/TopNav";
 //import WeeklyRank from "./Rank";
 import Rank from "./Rank";
 import SearchWebtoon from "./SearchWebtoon";
-import { useState } from "react/cjs/react.development";
+import WeeklyRouter from "routes/Weekly";
+//import { useState } from "react/cjs/react.development";
 
-const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
+const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
     return (
         <Router>
             <Navigation
@@ -32,41 +33,30 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
                         webtoons={webtoons}
                         banner={banner}
                         events={events}
-                        day={day}
                         isLoggedIn={isLoggedIn}
                     />
                 </Route>
-                <Route exact path="/weekly/:weekday">
-                    <Weekly
+                <Route exact path="/weekly">
+                    <WeeklyRouter
                         webtoons={webtoons}
                     />
-                    <WeeklyNavigation />
-                    {/* <Switch>
-                            <Route exact path="/weekly/week">
-
-                            </Route>
-                        </Switch> */}
                 </Route>
                 <Route exact path="/finish">
-                
                     <Finish
                         webtoons={webtoons}
                     />
                 </Route>
                 <Route exact path="/top20">
-                
                     <Top
                         webtoons={webtoons}
                     />
                 </Route>
                 <Route exact path="/event">
-                
                     <Event
                         events={events}
                     />
                 </Route>
                 <Route exact path="/mypage">
-                
                     <MyPage
                         webtoons={webtoons}
                         userObj={userObj}
@@ -95,40 +85,4 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events, day }) => {
     )
 };
 
-/* const TopWebtoonRouter = ({ boyWt, dramaWt, romanceWt, romanceFantasyWt, actionWt }) => {
-    return (
-        <Router>
-            <TopNavigation />
-            <Switch>
-                <Route exact path="/top20/subCategory=115">
-                    <Rank
-                        webtoons={boyWt}
-                    />
-                </Route>
-                <Route exact path="/top20/subCategory=115">
-                    <Rank
-                        webtoons={dramaWt}
-                    />
-                </Route>
-                <Route exact path="/top20/subCategory=121">
-                    <Rank
-                        webtoons={romanceWt}
-                    />
-                </Route>
-                <Route exact path="/top20/subCategory=69">
-                    <Rank
-                        webtoons={romanceFantasyWt}
-                    />
-                </Route>
-                <Route exact path="/top20/subCategory=112">
-                    <Rank
-                        webtoons={actionWt}
-                    />
-                </Route>
-            </Switch>
-        </Router>
-    )
-} */
-
 export default AppRouter;
-//export TopWebtoonRouter;

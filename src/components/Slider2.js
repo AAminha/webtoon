@@ -9,7 +9,7 @@ export default class Slider2 extends Component  {
 
     getBanner() {
         this.setState(() => {
-            return ( this.state.display_banner = this.props.banner.filter((element) => element.diplay === 1))
+            return ( this.state.display_banner = this.props.banner.filter((element) => element.display === 1))
         })
     }
     render() {
