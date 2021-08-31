@@ -4,19 +4,13 @@ import Event from "routes/Event";
 import Finish from "routes/Finish";
 import Home from "routes/Home";
 import MyPage from "routes/MyPage";
-import Top from "routes/Top";
-import Weekly from "routes/Weekly";
 import Navigation from "components/Navigation/Navigation";
-import WeeklyNavigation from "./Navigation/WeeklyNav";
-//import TopNavigation from "./Navigation/TopNav";
 import Auth from "routes/Auth";
-import AuthForm from "./AuthForm";
-import TopNavigation from "./Navigation/TopNav";
-//import WeeklyRank from "./Rank";
-import Rank from "./Rank";
-import SearchWebtoon from "./SearchWebtoon";
+import AuthForm from "../AuthForm";
+import Rank from "../Rank";
+import SearchWebtoon from "../SearchWebtoon";
 import WeeklyRouter from "routes/Weekly";
-//import { useState } from "react/cjs/react.development";
+import TopRouter from "routes/Top";
 
 const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
     return (
@@ -47,7 +41,7 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
                     />
                 </Route>
                 <Route exact path="/top20">
-                    <Top
+                    <TopRouter
                         webtoons={webtoons}
                     />
                 </Route>

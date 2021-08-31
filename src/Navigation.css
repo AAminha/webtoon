@@ -99,13 +99,9 @@
     
 }
 
-.w_nav {
+.wy_nav {
     padding: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
     font-weight: 600;
-}
-
-.w_active {
-    color: black;
 }
