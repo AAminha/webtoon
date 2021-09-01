@@ -1,0 +1,54 @@
+/* SearchWebtoon.js */
+.search_container {
+    display: flex; /*위에 padding이 더 있는 건 이것 때문*/
+    flex-direction: column;
+    width: 660px;
+    background-color: white;
+    height: auto;
+    padding: 40px;
+    margin: 0 auto;
+    
+}
+
+.search_count {
+    margin-top: 40px;
+}
+
+/* Result ... .js */
+.search_info {
+    text-decoration-line: none;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.search_image {
+    height: auto;
+    max-width: 120px;
+    border-radius: 10px;
+}
+
+.search_info_main {
+    color: black;
+    margin-left: 10px;
+}
+
+.search_info_title {
+    margin-bottom: 10px;
+}
+
+.search_info_sub {
+    color: rgb(119, 118, 118);
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+.user_icon {
+    padding-right: 3px;
+    margin-top: 3px;
+}
+
+.search_info_day {
+    color: rgb(119, 118, 118);
+    font-weight: 600;
+}

@@ -2,8 +2,8 @@ import { faGithub, faGoogle } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { authService, firebaseInstance } from "fbase";
 import React, { useState } from "react";
-import { Link, useHistory } from "react-router-dom";
-import "style.css"
+import { useHistory } from "react-router-dom";
+import "components/css/Auth.css";
 
 const Auth = () => {
     const [email, setEmail] = useState("");
@@ -64,8 +64,8 @@ const Auth = () => {
     }
 
     return (
-        <div className="main">
-            <div className="log_container">
+        <div className="log_container">
+            <div className="log_layout">
                 <form className="log_form" onSubmit={onSubmit}>
                     <input
                         className="input_form"
@@ -85,17 +85,17 @@ const Auth = () => {
                         placeholder="비밀번호"
                         required
                     />
-                    <span className = "authError">
+                    <span className = "auth_Error">
                         {error}
                     </span>
                     <input
-                        className="submitBtn"
+                        className="auth_Btn"
                         type="submit"
                         value="로그인"
                         onClick={exit}
                     />
                     <input
-                        className="authSubmitBtn"
+                        className="go_sign_Btn"
                         type="submit"
                         style={{ textDecoration: "none", color: "black" }} value="회원가입"
                         onClick={onAuth}
@@ -103,11 +103,11 @@ const Auth = () => {
                 </form>
             </div>
 
-            <div className="socialBtns">
-                <button className="socialBtn" onClick={onSocialClick} name="google">
+            <div className="social_Btns">
+                <button className="social_Btn" onClick={onSocialClick} name="google">
                 <FontAwesomeIcon icon={faGoogle} /> 구글 로그인
                 </button>
-                <button className="socialBtn" onClick={onSocialClick} name="github">
+                <button className="social_Btn" onClick={onSocialClick} name="github">
                 <FontAwesomeIcon icon={faGithub} /> 깃허브 로그인
                 </button>
             </div>

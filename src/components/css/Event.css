@@ -1,0 +1,22 @@
+.event_container {
+    display: flex;
+    flex-direction: column;
+    width: 660px;
+    background-color: white;
+    min-height: 450px;
+    padding: 40px;
+    margin: 0 auto;
+}
+
+.event_images {
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.event_image {
+    width: auto;
+    max-height: 160px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}

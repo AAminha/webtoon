@@ -1,7 +1,7 @@
 import { authService } from "fbase";
 import React, { useState } from "react";
 import { Link, useHistory } from "react-router-dom";
-import "style.css"
+import "components/css/Auth.css"
 
 const AuthForm = () => {
     const [email, setEmail] = useState("");
@@ -42,8 +42,8 @@ const AuthForm = () => {
     }
 
     return (
-        <div className="main">
-            <div className="sign_container">
+        <div className="sign_container">
+            <div className="sign_layout">
                 <form className="sign_form" onSubmit={onSubmit}>
                     <input className="input_form"
                         name="email"
@@ -61,11 +61,11 @@ const AuthForm = () => {
                         placeholder="비밀번호"
                         required
                     />
-                    <span className="authError">
+                    <span className="auth_Error">
                         {error}
                     </span>
                     <input
-                        className="submitBtn"
+                        className="auth_Btn"
                         type="submit"
                         value="회원가입"
                         onClick={exit}

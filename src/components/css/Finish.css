@@ -1,0 +1,43 @@
+.finish_container {
+    display: flex;
+    flex-direction: column;
+    width: 660px;
+    background-color: white;
+    min-height: 450px;
+    padding: 40px;
+    margin: 0 auto;
+}
+
+.finish_info {
+    text-decoration-line: none;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.finish_image {
+    height: auto;
+    max-width: 300px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.finish_info_main {
+    color: black;
+    margin-left: 10px;
+}
+
+.finish_info_title {
+    font-size: 15pt;
+}
+
+.finish_info_caption {
+    color: rgb(119, 118, 118);
+    font-size: 14pt;
+}
+
+.finish_info_sub {
+    color: rgb(119, 118, 118);
+    font-weight: 600;
+    margin-top: 60px;
+}

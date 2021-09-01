@@ -15,7 +15,8 @@
             "os": "C",
             "content_type": "IMG",
             "item_order": 0,
-            "read_count": 983354
+            "read_count": 983354,
+            "display": 1
         },
         {
             "uid": 5418,
@@ -32,7 +33,8 @@
             "os": "C",
             "content_type": "IMG",
             "item_order": 1,
-            "read_count": 477338
+            "read_count": 477338,
+            "display": 1
         },
         {
             "uid": 9034,
@@ -49,7 +51,8 @@
             "os": "C",
             "content_type": "IMG",
             "item_order": 3,
-            "read_count": 408538
+            "read_count": 408538,
+            "display": 1
         },
         {
             "uid": 22288,
@@ -66,7 +69,8 @@
             "os": "C",
             "content_type": "IMG",
             "item_order": 4,
-            "read_count": 647646
+            "read_count": 647646,
+            "display": 1
         }
     ]
 }

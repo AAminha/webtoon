@@ -1,6 +1,7 @@
 import axios from "axios";
 import { authService } from "fbase";
 import React, { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 import WeeklyRouter from "routes/Weekly";
 import AppRouter from "./Router";
 
@@ -30,7 +31,6 @@ function App() {
             data : {list}
         } = await axios.get("https://raw.githubusercontent.com/AAminha/webtoon/master/public/dummy/webtoon.json");
 
-        //setWebtoons (list.sort((a, b) => a.rank - b.rank));
         setWebtoons (list);
     };
 

@@ -1,21 +1,18 @@
-/* Navigation.css */
-
-.mainNav {
-    box-sizing: border-box;
+/* Navigation.js */
+.main_design {
     background-color: white;
     padding-top: 10px;
     box-shadow : 0px 3px 6px rgba(0,0,0,0.1);   
     margin-bottom: 20px;
 }
 
-.mainNav_container {
+.main_design_container {
     margin: 0 auto;
     display: flex;
     align-items: flex-end;
     width: 750px;
     height: 70px;
     margin-bottom: 30px;
-    
 }
 
 .main_logo {
@@ -24,13 +21,13 @@
     max-height: 200px;
     max-width: 200px;
 }
-.logBtns {
+
+.main_logBtns {
     width: 100px;
-    margin-bottom: 17px;
-    
+    margin-bottom: 12px;
 }
 
-.logBtn {
+.main_logBtn {
     cursor: pointer;
     background-color: white;
     color: rgb(119, 118, 118);
@@ -47,7 +44,7 @@
     list-style: none;
     font-size: 15pt;
     width: 750px;
-    justify-content	: space-around;
+    justify-content: space-around;
     margin: 0 auto;
 }
 
@@ -64,7 +61,7 @@
     border-bottom: 3px solid rgb(255, 208, 0);
 }
 
-.search {
+.search_bar_input {
     display: flex;
     padding-left: 200px;
 }
@@ -75,7 +72,8 @@
     border-radius: 20px;
     width: 215px;
     padding-left: 13px;
-    margin-bottom: 15px;
+    padding-top: 5px;
+    margin-bottom: 10px;
     font-size: 15px;
 }
 
@@ -85,23 +83,36 @@
     right: 38px;
 }
 
-/* Weekly */
-
-.weeklyNav {
+/* Weekly Navigation*/
+.weekly_nav {
     display: flex;
     background-color: white;
-    padding: 5px;
     list-style: none;
     font-size: 15pt;
-    width: 730px;
-    justify-content	: space-around;
+    font-weight: 600;
+    justify-content: space-around;
+    width: 660px;
+    padding: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin: 0 auto;
+    margin-bottom: 10px;
     
 }
 
-.wy_nav {
-    padding: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+/* Week Navigation */
+.week_nav {
+    margin-bottom: 0px;
+}
+
+.w_nav {
+    padding: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     font-weight: 600;
+}
+
+.act {
+    background-color: rgb(255, 208, 0);
+    border-radius: 30px;
 }

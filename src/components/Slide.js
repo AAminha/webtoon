@@ -1,12 +1,12 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from 'styled-components';
 
-export default function Slide({img}) {
-    return (
-        <IMG src = {img} />
-    )
+export default function Slide({ img }) {
+  return <IMG src={img} />;
 }
-
 const IMG = styled.img`
-  width: 100%;
+  width: 80vh;
+  height: 70vh;
+  width: 500px;
+  height: 250px;
 `;

@@ -1,0 +1,66 @@
+.main_container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    min-height: 450px;
+    padding: 40px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.top_preview {
+    margin-bottom: 50px;
+}
+
+.top_preview_form {
+    display: flex;
+}
+
+.top_title {
+    width: 200px;
+    padding-right: 440px;
+}
+
+.more {
+    padding-top: 5px;
+}
+
+.top_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/* -------------------------- */
+.subRank_info {
+    text-decoration-line: none;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.subRank_image {
+    height: 130px;
+    max-width: 130px;
+    border-radius: 10px;
+}
+
+.subRank_info_main {
+    color: black;
+}
+
+.subRank_info_title {
+    font-weight: 600;
+    margin: 0px;
+    width: 120px;
+}
+
+.subRank_info_reader {
+    margin: 0px;
+    margin-bottom : 20px;
+    color: rgb(155, 155, 155);
+    font-weight:500;
+}
