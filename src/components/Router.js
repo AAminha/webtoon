@@ -32,11 +32,6 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
                             isLoggedIn={isLoggedIn}
                         />
                     </Route>
-                    <Route exact path="/weekly">
-                        <WeeklyRouter
-                            webtoons={webtoons}
-                        />
-                    </Route>
                     <Route exact path="/finish">
                         <Finish
                             webtoons={webtoons}

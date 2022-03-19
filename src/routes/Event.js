@@ -15,7 +15,7 @@ const Event = ({ events }) => {
                     <div className = "">
                         <ResultEvent
                             key={event.uid}
-                            image={`https://dn-img-page.kakao.com/download/resource?kid=${event.image}`}
+                            image={event.image}
                         />
                     </div>
                 ))}

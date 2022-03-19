@@ -1,0 +1,95 @@
+.container {
+  width: 660px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.event {
+  height: 340px;
+}
+
+.banner {
+  height: 480px;
+}
+
+.sliderContainer {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.event_img {
+  width: 660px;
+}
+
+.banner_img {
+  width: 660px;
+}
+
+.webtoon_link {
+  text-decoration: none;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: -91px;
+  color: white;
+  background-color: rgba(83, 83, 83, 0.411);
+  padding: 8px 0px 8px 30px;
+}
+
+.webtoon_title {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.description {
+  font-size: 20px;
+  padding-top: 5px;
+}
+
+.btns {
+  text-align: center;
+}
+
+.btn_banner {
+  position: relative;
+  top: -360px;
+  background-color: rgba(97, 97, 97, 0.411);
+  color: white;
+  border-radius: 30px;
+  border: 3px solid rgba(255, 255, 255, 0.486);
+  cursor: pointer;
+}
+
+.btn_event {
+  position: relative;
+  top: -200px;
+  background-color: rgba(97, 97, 97, 0.411);
+  color: white;
+  border-radius: 30px;
+  border: 3px solid rgba(255, 255, 255, 0.486);
+  cursor: pointer;
+}
+
+.left {
+  margin: 0px 280px 0px 0px;
+  padding: 3px 9px 6px 6px;
+}
+
+.right {
+  margin: 0px 0px 0px 280px;
+  padding: 3px 6px 6px 9px;
+}
+
+.btn_event:hover {
+  background-color: rgb(255, 208, 0);
+  color: #fff;
+}
+
+.btn_banner:hover {
+  background-color: rgb(255, 208, 0);
+  color: #fff;
+}

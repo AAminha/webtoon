@@ -11,20 +11,16 @@
     margin: 0 auto;
 }
 
-.top_preview {
-    margin-bottom: 50px;
-}
-
 .top_preview_form {
     display: flex;
 }
 
 .top_title {
     width: 200px;
-    padding-right: 440px;
 }
 
 .more {
+    float: right;
     padding-top: 5px;
 }
 

@@ -35,8 +35,6 @@ const WeekWebtoon = ({ webtoons, path }) => {
         }
     }
 
-    console.log(weekWebtoon);
-
     return (
         <div className="main_container">
             <h2 className="weekly_count">

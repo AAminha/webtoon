@@ -5,12 +5,11 @@ const TotalRank = ({webtoons}) => {
 
     console.log("totalRank 도착")
 
-    return (
+    /*return (
         <div>
             {webtoons.map((webtoon) => (
                 <ResultTop
                     key={webtoon.series_id}
-                    /* rank={++rank} */
                     url={webtoon.url}
                     image={webtoon.thumb_img}
                     title={webtoon.title}
@@ -21,6 +20,11 @@ const TotalRank = ({webtoons}) => {
                 />
             ))}
         </div>
+    )
+    */
+
+    return (
+        <div>안녕</div>
     )
 }
 

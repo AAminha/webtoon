@@ -34,7 +34,7 @@ const Navigation = ({ isLoggedIn, webtoons }) => {
                         <img className="main_logo" src={process.env.PUBLIC_URL + "/main logo.png"} />
                     </Link>
                     <Search webtoons={webtoons} />
-                    <div class="main_logBtns">
+                    <div className="main_logBtns">
                         {isLoggedIn ? (
                             <button className="main_logBtn" onClick={onClickLogOut}>로그아웃</button>
                         ) : (

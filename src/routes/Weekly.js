@@ -42,7 +42,7 @@ const WeekPath = ({ webtoons }) => {
     const { day } = useParams();
     
     switch (day) {
-        case "mon": { return (<WeekWebtoon webtoons={webtoons} path={day} />);  }
+        case "mon": { return (<WeekWebtoon webtoons={webtoons} path={day} />); }
         case "tue": { return (<WeekWebtoon webtoons={webtoons} path={day} />); }
         case "wed": { return (<WeekWebtoon webtoons={webtoons} path={day} />); }
         case "thu": { return (<WeekWebtoon webtoons={webtoons} path={day} />); }
