@@ -1,7 +1,7 @@
 import axios from "axios";
 import { authService } from "fbase";
 import React, { useEffect, useState } from "react";
-import { useLocation } from "react-router-dom";
+import TopRouter from "routes/Top";
 import WeeklyRouter from "routes/Weekly";
 import AppRouter from "./Router";
 
@@ -62,6 +62,10 @@ function App() {
                         events={events}
                     />
                     <WeeklyRouter
+                        webtoons={webtoons}
+                    />
+                    <TopRouter
+                        isLoggedIn={Boolean(userObj)}
                         webtoons={webtoons}
                     />
                 </>

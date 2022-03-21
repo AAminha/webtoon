@@ -1,6 +1,6 @@
 import { authService } from "fbase";
 import React, { useState } from "react";
-import { Link, useHistory } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 import "components/css/Auth.css"
 
 const AuthForm = () => {

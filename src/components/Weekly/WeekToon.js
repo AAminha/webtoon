@@ -1,7 +1,5 @@
 import React from "react";
 import "components/css/Navigation.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faUser } from "@fortawesome/free-solid-svg-icons";
 import ResultWebtoon from "./ResultWebtoon";
 
 const WeekWebtoon = ({ webtoons, path }) => {

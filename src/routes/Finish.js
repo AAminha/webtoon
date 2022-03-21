@@ -1,8 +1,4 @@
-import { faUser } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { render } from "@testing-library/react";
-import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import React from "react";
 import "components/css/Finish.css"
 import ResultFinish from "components/ResultFinish";
 

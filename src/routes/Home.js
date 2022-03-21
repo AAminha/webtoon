@@ -1,4 +1,3 @@
-//import Slide from "components/Slide";
 import EventSlider from "components/Slider/EventSlider";
 import BannerSlider from "components/Slider/BannerSlider";
 import React from "react";

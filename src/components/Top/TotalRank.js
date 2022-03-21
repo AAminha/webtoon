@@ -1,14 +1,14 @@
 import React from "react";
 import ResultTop from "./ResultTop";
+import "components/css/Top.css"
 
-const TotalRank = ({webtoons}) => {
+const TotalRank = ({ isLoggedIn, webtoons }) => {
 
-    console.log("totalRank 도착")
-
-    /*return (
-        <div>
+    return (
+        <div className="main_container">
             {webtoons.map((webtoon) => (
                 <ResultTop
+                    isLoggedIn={isLoggedIn}
                     key={webtoon.series_id}
                     url={webtoon.url}
                     image={webtoon.thumb_img}
@@ -17,14 +17,10 @@ const TotalRank = ({webtoons}) => {
                     category={webtoon.sub_category_title}
                     author={webtoon.author}
                     weekday={webtoon.pubperiod}
+                    rank={webtoon.rank}
                 />
             ))}
         </div>
-    )
-    */
-
-    return (
-        <div>안녕</div>
     )
 }
 

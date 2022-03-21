@@ -1,24 +1,17 @@
-import TopRank from "components/Top/TopRank";
 import TopSubRank from "components/Top/TopSubRank";
-import TotalRank from "components/Top/TotalRank";
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Link, HashRouter as Router, Route, Switch, useParams } from "react-router-dom";
 import "components/css/Top.css";
 
 const MainTop = ({ webtoons }) => {
-  return(
-    <div>항</div>
-  )
-  /*
-
   return (
     <div className="main_container">
       <div className="top_preview">
         <div className="top_preview_form">
-          <h2 className="top_title">전체 TOP</h2>
-          <h3 className="more">
-            <Link to="/top/subCategory=1000" style={{ textDecoration: "none", color: "#777676" }}>더보기</Link>
-          </h3>
+          <h2 className="top_title">전체 TOP 5</h2>
+          <Link to="/top/subCategory=1000" style={{ textDecoration: "none", color: "#777676" }}>
+            <h3 className="top_more">더보기</h3>
+          </Link>
         </div>
         <div className="top_container">
           {webtoons.slice(0, 5).map((webtoon) => (
@@ -35,10 +28,10 @@ const MainTop = ({ webtoons }) => {
       <hr color = "#bdbdbd" width="100%" size="2px" />
       <div className="top_preview">
         <div className="top_preview_form">
-          <h2 className="top_title">소년 TOP</h2>
-          <h3 className="more">
-            <Link to="/top/subCategory=115" style={{ textDecoration: "none", color: "#777676" }}>더보기</Link>
-          </h3>
+          <h2 className="top_title">소년 TOP 5</h2>
+          <Link to="/top/subCategory=115" style={{ textDecoration: "none", color: "#777676" }}>
+            <h3 className="top_more">더보기</h3>
+          </Link>
         </div>
         <div className="top_container">
           {webtoons
@@ -58,8 +51,8 @@ const MainTop = ({ webtoons }) => {
       <hr color = "#bdbdbd" width="100%" size="2px" />
       <div className="top_preview">
         <div className="top_preview_form">
-          <h2 className="top_title">드라마 TOP</h2>
-          <h3 className="more">
+          <h2 className="top_title">드라마 TOP 5</h2>
+          <h3 className="top_more">
             <Link to="/top/subCategory=116" style={{ textDecoration: "none", color: "#777676" }}>더보기</Link>
           </h3>
         </div>
@@ -81,8 +74,8 @@ const MainTop = ({ webtoons }) => {
       <hr color = "#bdbdbd" width="100%" size="2px" />
       <div className="top_preview">
         <div className="top_preview_form">
-          <h2 className="top_title">로맨스 TOP</h2>
-          <h3 className="more">
+          <h2 className="top_title">로맨스 TOP 5</h2>
+          <h3 className="top_more">
             <Link to="/top/subCategory=121" style={{ textDecoration: "none", color: "#777676" }}>더보기</Link>
           </h3>
         </div>
@@ -104,8 +97,8 @@ const MainTop = ({ webtoons }) => {
       <hr color = "#bdbdbd" width="100%" size="2px" />
       <div className="top_preview">
         <div className="top_preview_form">
-          <h2 className="top_title">로판 TOP</h2>
-          <h3 className="more">
+          <h2 className="top_title">로판 TOP 5</h2>
+          <h3 className="top_more">
             <Link to="/top/subCategory=69" style={{ textDecoration: "none", color: "#777676" }}>더보기</Link>
           </h3>
         </div>
@@ -127,8 +120,8 @@ const MainTop = ({ webtoons }) => {
       <hr color = "#bdbdbd" width="100%" size="2px" />
       <div className="top_preview">
         <div className="top_preview_form">
-          <h2 className="top_title">액션무협 Top</h2>
-          <h3 className="more">
+          <h2 className="top_title">액션무협 Top 5</h2>
+          <h3 className="top_more">
             <Link to="/top/subCategory=112" style={{ textDecoration: "none", color: "#777676" }}>더보기</Link>
           </h3>
         </div>
@@ -148,7 +141,7 @@ const MainTop = ({ webtoons }) => {
         </div>
       </div>
     </div>
-  )*/
+  )
 }
 
 export default MainTop;

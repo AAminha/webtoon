@@ -1,8 +1,5 @@
 import React from "react";
 import "components/css/Weekly.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faUser } from "@fortawesome/free-solid-svg-icons";
-import { useLocation } from "react-router-dom";
 import ResultWebtoon from "./ResultWebtoon";
 
 const WeeklyWebtoon = ({ webtoons }) => {

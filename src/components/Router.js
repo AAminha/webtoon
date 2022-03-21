@@ -8,9 +8,6 @@ import Navigation from "components/Navigation";
 import Auth from "routes/Auth";
 import AuthForm from "./AuthForm";
 import SearchWebtoon from "./Search/SearchWebtoon";
-import WeeklyRouter from "routes/Weekly";
-import TopRouter from "routes/Top";
-//import SearchRouter from "./SearchWebtoon";
 
 const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
 
@@ -34,11 +31,6 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
                     </Route>
                     <Route exact path="/finish">
                         <Finish
-                            webtoons={webtoons}
-                        />
-                    </Route>
-                    <Route exact path="/top">
-                        <TopRouter
                             webtoons={webtoons}
                         />
                     </Route>

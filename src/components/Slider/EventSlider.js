@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from 'react';
-import styled from 'styled-components';
 import "components/css/Slider.css";
 
 // 전체 슬라이드 개수 (총3개. 배열로 계산)
@@ -9,6 +8,7 @@ export default function EventSlider({info}) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const slideRef = useRef(null);
   const TOTAL_SLIDES = display_event.length;
+
 
   // Next 버튼 클릭 시
   const NextSlide = () => {

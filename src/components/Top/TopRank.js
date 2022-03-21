@@ -1,17 +1,16 @@
 import React from "react";
 import ResultTop from "./ResultTop";
+import "components/css/Top.css"
 
-const TopRank = ({ webtoons, category }) => {
+const TopRank = ({ isLoggedIn, webtoons, category }) => {
     const sort_webtoons = webtoons.filter((element) => element.sub_category === category);
 
-    console.log("TopRank 등장")
-
     return (
-        <div>
+        <div className="main_container">
             {sort_webtoons.map((webtoon) => (
                 <ResultTop
+                    isLoggedIn={isLoggedIn}
                     key={webtoon.series_id}
-                    /* rank={++rank} */
                     url={webtoon.url}
                     image={webtoon.thumb_img}
                     title={webtoon.title}
@@ -19,6 +18,7 @@ const TopRank = ({ webtoons, category }) => {
                     category={webtoon.sub_category_title}
                     author={webtoon.author}
                     weekday={webtoon.pubperiod}
+                    rank={webtoon.sub_rank}
                 />
             ))}
         </div>
