@@ -41,7 +41,6 @@ const AppRouter = ({ isLoggedIn, userObj, webtoons, banner, events }) => {
                     </Route>
                     <Route exact path="/mypage">
                         <MyPage
-                            webtoons={webtoons}
                             userObj={userObj}
                         />
                     </Route>

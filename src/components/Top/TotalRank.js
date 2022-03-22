@@ -2,14 +2,16 @@ import React from "react";
 import ResultTop from "./ResultTop";
 import "components/css/Top.css"
 
-const TotalRank = ({ isLoggedIn, webtoons }) => {
+const TotalRank = ({ userObj, webtoons }) => {
 
     return (
         <div className="main_container">
+            {console.log(webtoons)}
             {webtoons.map((webtoon) => (
                 <ResultTop
-                    isLoggedIn={isLoggedIn}
                     key={webtoon.series_id}
+                    userObj={userObj}
+                    id={webtoon.series_id}
                     url={webtoon.url}
                     image={webtoon.thumb_img}
                     title={webtoon.title}
@@ -18,6 +20,7 @@ const TotalRank = ({ isLoggedIn, webtoons }) => {
                     author={webtoon.author}
                     weekday={webtoon.pubperiod}
                     rank={webtoon.rank}
+                    
                 />
             ))}
         </div>

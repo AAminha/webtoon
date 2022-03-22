@@ -4,27 +4,57 @@ import React from "react";
 import "components/css/Top.css"
 import { useState } from "react";
 import { useHistory } from "react-router-dom";
+import { dbService } from "fbase";
 
-const ResultTop = ({ isLoggedIn, rank, url, image, title, reader, category, author, weekday }) => {
+const ResultTop = ({ userObj, id, rank, url, image, title, reader, category, author, weekday }) => {
     const history = useHistory();
-    const [fav, setFav] = useState(false);
+    const [favorite, setFavorite] = useState(false);
 
-    function onClickFav() {
-        setFav(!fav);
+    const onClickFav = async () => {
+        var res;
+        setFavorite(!favorite);
+        if (!favorite) {
+            console.log("데이터 넣기 실행완료")
+            await dbService.collection("webtoon")
+            .get().then((querySnapshot) => {
+                res = false;
+                querySnapshot.forEach((doc) => {
+                    if(doc.data().webtoonId === id) {
+                        res = true;
+                    }
+                })
+                if(!res) {
+                    dbService.collection("webtoon").add({
+                        userId: userObj.uid,
+                        webtoonId: id,
+                        url: url,
+                        image: image,
+                        title: title,
+                        reader: reader,
+                        category: category,
+                        author: author,
+                        weekday: weekday
+                    })
+                }
+            })
+        } else {
+            console.log("데이터 제거 실행완료");
+            dbService.collection('webtoon').where("webtoonId", "==", id)
+            .get().then((querySnapshot) => {
+                querySnapshot.forEach((doc) => {
+                    dbService.doc(`webtoon/${doc.id}`).delete();
+                });
+            })
+        }
     }
 
     const onClick = () => {
-        if (isLoggedIn) {
-            history.push("/mypage")
-        } else {
-            const check = window.confirm("로그인 후 즐겨찾기를 설정하실 수 있습니다.\n로그인 페이지로 이동하시겠습니까?");
-
-            if (check) {
-                history.push("/auth");
-            } else {
-            }
+        const check = window.confirm("로그인 후 즐겨찾기를 설정하실 수 있습니다.\n로그인 페이지로 이동하시겠습니까?");
+        if (check) {
+            history.push("/auth");
         }
     }
+
 
     return (
         <>
@@ -43,8 +73,8 @@ const ResultTop = ({ isLoggedIn, rank, url, image, title, reader, category, auth
                     </div>
                 </div>
             </a>
-            <div className="favorites" onClick={isLoggedIn ? onClickFav : onClick}>
-                {fav ? <div>💛</div> : <div>🤍</div>}
+            <div className="favorites" onClick={Boolean(userObj) ? onClickFav : onClick}>
+                {favorite ? <div>💛</div> : <div>🤍</div>}
             </div>
         </div>
         </>
