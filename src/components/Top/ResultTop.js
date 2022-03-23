@@ -40,7 +40,9 @@ const ResultTop = ({ userObj, id, rank, url, image, title, reader, category, aut
             dbService.collection('webtoon').where("webtoonId", "==", id)
             .get().then((querySnapshot) => {
                 querySnapshot.forEach((doc) => {
-                    dbService.doc(`webtoon/${doc.id}`).delete();
+                    if(doc.data().userId === userObj.uid) {
+                        dbService.doc(`webtoon/${doc.id}`).delete();
+                    }
                 });
             })
         }

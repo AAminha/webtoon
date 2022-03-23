@@ -20,28 +20,30 @@ const MyPage = ({ userObj }) => {
 		await dbService.collection("webtoon")
 		.get().then((querySnapshot) => {
 			querySnapshot.forEach((doc) => {
-				newArr.push({
-					key : doc.data().webtoonId,
-					url : doc.data().url,
-					image: doc.data().image,
-					title: doc.data().title, 
-					reader: doc.data().reader, 
-					category: doc.data().category, 
-					author: doc.data().author, 
-					weekday: doc.data().weekday
-				});
-				setMyWebtoon(newArr);
-				// 아래 코드는 의미없는 코드.. 원인을 모르겠음.
-				setTest(test.concat({
-					key : doc.data().webtoonId,
-					url : doc.data().url,
-					image: doc.data().image,
-					title: doc.data().title, 
-					reader: doc.data().reader, 
-					category: doc.data().category, 
-					author: doc.data().author, 
-					weekday: doc.data().weekday
-				}))
+				if(doc.data().userId === userObj.uid) {
+					newArr.push({
+						key : doc.data().webtoonId,
+						url : doc.data().url,
+						image: doc.data().image,
+						title: doc.data().title, 
+						reader: doc.data().reader, 
+						category: doc.data().category, 
+						author: doc.data().author, 
+						weekday: doc.data().weekday
+					});
+					setMyWebtoon(newArr);
+					// 아래 코드는 의미없는 코드.. 원인을 모르겠음.
+					setTest(test.concat({
+						key : doc.data().webtoonId,
+						url : doc.data().url,
+						image: doc.data().image,
+						title: doc.data().title, 
+						reader: doc.data().reader, 
+						category: doc.data().category, 
+						author: doc.data().author, 
+						weekday: doc.data().weekday
+					}))
+				}
 			})
 		})
 	}
