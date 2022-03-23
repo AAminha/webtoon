@@ -28,23 +28,23 @@ const Navigation = ({ isLoggedIn, webtoons }) => {
 
     return (
         <nav>
-            <div className="main_design">
-                <div className="main_design_container">
+            <div className="nav_container">
+                <div className="nav_header">
                     <Link to="/">
-                        <img className="main_logo" src={process.env.PUBLIC_URL + "/main logo.png"} />
+                        <img className="nav_logo" src={process.env.PUBLIC_URL + "/main logo.png"} />
                     </Link>
                     <Search webtoons={webtoons} />
-                    <div className="main_logBtns">
+                    <div className="nav_logBtns">
                         {isLoggedIn ? (
-                            <button className="main_logBtn" onClick={onClickLogOut}>로그아웃</button>
+                            <button className="nav_logBtn" onClick={onClickLogOut}>로그아웃</button>
                         ) : (
                             <Link to="/auth">
-                                <button className="main_logBtn" type="button">로그인</button>
+                                <button className="nav_logBtn" type="button">로그인</button>
                             </Link>
                         )}
                     </div>
                 </div>
-                <ul className="main_nav">
+                <ul className="nav_mainNav">
                     <li className={(useLocation().pathname === "/") ? "nav active" : "nav"}>
                         <Link to="/" style={{ textDecoration: "none", color: "black" }}>
                             홈

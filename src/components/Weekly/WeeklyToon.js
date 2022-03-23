@@ -21,9 +21,7 @@ const WeeklyWebtoon = ({ webtoons }) => {
     }
 
     return (
-        <>
-        {/* <div>안녕</div> */}
-        <div className="main_container">
+        <div className="weekly_main_container">
             <h2 className="weekly_count">
                 {`전체 (${weeklyWebtoonCount})`}
             </h2>
@@ -42,7 +40,6 @@ const WeeklyWebtoon = ({ webtoons }) => {
                 }
             </div>
         </div>
-        </>
     )
 };
 

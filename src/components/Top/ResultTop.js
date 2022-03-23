@@ -14,7 +14,6 @@ const ResultTop = ({ userObj, id, rank, url, image, title, reader, category, aut
         var res;
         setFavorite(!favorite);
         if (!favorite) {
-            console.log("데이터 넣기 실행완료")
             await dbService.collection("webtoon")
             .get().then((querySnapshot) => {
                 res = false;
@@ -38,7 +37,6 @@ const ResultTop = ({ userObj, id, rank, url, image, title, reader, category, aut
                 }
             })
         } else {
-            console.log("데이터 제거 실행완료");
             dbService.collection('webtoon').where("webtoonId", "==", id)
             .get().then((querySnapshot) => {
                 querySnapshot.forEach((doc) => {
@@ -59,7 +57,7 @@ const ResultTop = ({ userObj, id, rank, url, image, title, reader, category, aut
     return (
         <>
         <div className="rank">{rank}위</div>
-        <div className="container">
+        <div className="top_sub_container">
             <a className="top_info" href={url}>
                 <img className="top_image" src={image} />
                 <div className="top_info_main">

@@ -1,13 +1,12 @@
 import React from "react";
 import ResultTop from "./ResultTop";
-import { dbService } from "fbase";
 import "components/css/Top.css"
 
 const TopRank = ({ userObj, webtoons, category }) => {
     const sort_webtoons = webtoons.filter((element) => element.sub_category === category);
 
     return (
-        <div className="main_container">
+        <div className="top_main_container">
             {sort_webtoons.map((webtoon) => (
                 <ResultTop
                     key={webtoon.series_id}

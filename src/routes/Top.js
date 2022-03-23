@@ -3,7 +3,6 @@ import TotalRank from "components/Top/TotalRank";
 import React from "react";
 import MainTop from "components/Top/MainTop";
 import { HashRouter as Router, Route, Switch, useParams } from "react-router-dom";
-import "components/css/Top.css";
 
 const TopRouter = ({ userObj, webtoons }) => {
     return (

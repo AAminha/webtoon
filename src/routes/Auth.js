@@ -29,7 +29,6 @@ const Auth = () => {
                 email,
                 password
             );
-            console.log(data);
         } catch (error) {
             setError(error.message);
         }
@@ -59,13 +58,11 @@ const Auth = () => {
                 history.push("/");
             }
         })
-
-        console.log(Boolean(authService.onAuthStateChanged))
     }
 
     return (
-        <div className="log_container">
-            <div className="log_layout">
+        <div className="auth_container">
+            <div className="auth_layout">
                 <form className="log_form" onSubmit={onSubmit}>
                     <input
                         className="input_form"
@@ -89,13 +86,13 @@ const Auth = () => {
                         {error}
                     </span>
                     <input
-                        className="auth_Btn"
+                        className="auth_btn"
                         type="submit"
                         value="로그인"
                         onClick={exit}
                     />
                     <input
-                        className="go_sign_Btn"
+                        className="go_sign_btn"
                         type="submit"
                         style={{ textDecoration: "none", color: "black" }} value="회원가입"
                         onClick={onAuth}
@@ -103,11 +100,11 @@ const Auth = () => {
                 </form>
             </div>
 
-            <div className="social_Btns">
-                <button className="social_Btn" onClick={onSocialClick} name="google">
+            <div className="social_btns">
+                <button className="social_btn" onClick={onSocialClick} name="google">
                 <FontAwesomeIcon icon={faGoogle} /> 구글 로그인
                 </button>
-                <button className="social_Btn" onClick={onSocialClick} name="github">
+                <button className="social_btn" onClick={onSocialClick} name="github">
                 <FontAwesomeIcon icon={faGithub} /> 깃허브 로그인
                 </button>
             </div>

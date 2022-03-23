@@ -16,9 +16,6 @@ const SearchWebtoon = ({ webtoons }) => {
 
         searchTitle = webtoons.filter((element) => (element.title.replace(/(\s*)/g, "").includes(searchTerm)))
         searchAuthor = webtoons.filter((element) => (element.author.replace(/(\s*)/g, "").includes(searchTerm)))
-
-        console.log(searchTitle);
-        console.log(searchAuthor);
     }
 
     return (

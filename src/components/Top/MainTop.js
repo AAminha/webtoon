@@ -5,7 +5,7 @@ import "components/css/Top.css";
 
 const MainTop = ({ webtoons }) => {
   return (
-    <div className="main_container">
+    <div className="top_main_container">
       <div className="top_preview">
         <div className="top_preview_form">
           <h2 className="top_title">전체 TOP 5</h2>

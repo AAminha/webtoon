@@ -50,24 +50,6 @@ function App() {
         setEvents(list);
     };
 
-    var toon=[];
-    function push() {
-        webtoons.map((webtoon) => {
-            toon.push({
-                series_id: webtoon.series_id,
-                title: webtoon.title,
-                read_count: webtoon.read_count,
-                author: webtoon.author,
-                thumb_img: webtoon.thumb_img,
-                url: webtoon.url,
-                pubperiod: webtoon.pubperiod,
-                rank: webtoon.rank,
-                fav: false
-            })
-        })
-        {console.log(toon)}
-    }
-
     return (
         <>
             {init ? (

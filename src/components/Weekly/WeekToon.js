@@ -1,5 +1,5 @@
 import React from "react";
-import "components/css/Navigation.css";
+import "components/css/Weekly.css";
 import ResultWebtoon from "./ResultWebtoon";
 
 const WeekWebtoon = ({ webtoons, path }) => {
@@ -34,7 +34,7 @@ const WeekWebtoon = ({ webtoons, path }) => {
     }
 
     return (
-        <div className="main_container">
+        <div className="weekly_main_container">
             <h2 className="weekly_count">
                 {`전체 (${weekWebtoonCount})`}
             </h2>

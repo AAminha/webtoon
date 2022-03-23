@@ -5,7 +5,7 @@ import "components/css/Finish.css";
 
 const ResultFinish = ({ url, image, caption, title, reader, category, author }) => {
     return (
-        <a className="finish_info" href={url}>
+        <a className="finish_info_container" href={url}>
             <img className="finish_image" src={image} />
             <div className="finish_info_main">
                 <h3 className="finish_info_title">

@@ -26,7 +26,6 @@ const AuthForm = () => {
                 email,
                 password
             );
-            console.log(data);
         } catch (error) {
             setError(error.message);
         }
@@ -37,8 +36,6 @@ const AuthForm = () => {
                 history.push("/");
             }
         })
-
-        console.log(Boolean(authService.onAuthStateChanged))
     }
 
     return (

@@ -1,5 +1,5 @@
 /* 전체 */
-.main_container {
+.weekly_main_container {
     display: flex;
     flex-direction: column;
     background-color: white;
@@ -46,51 +46,3 @@
     color: rgb(155, 155, 155);
     font-weight:500;
 }
-
-
-/* .weekly_genre_info {
-    display: flex;
-    text-decoration-line: none;
-}
-
-.list {
-    padding-bottom: 5px;
-    font-size: 10pt;
-    color: rgb(119, 118, 118);
-    padding-bottom: 5px;
-    width: auto;
-    max-width: 550px;
-    background-color: bisque;
-}
-
-.img {
-    height: auto;
-    max-width: 24%;
-    margin-bottom: 10px;
-    border-radius: 10px;
-}
-
-.main {
-    flex-direction: column;
-    padding-left: 10px;
-    padding-top: 10px;
-    font-size: 11pt;
-    color:rgb(119, 118, 118);
-}
-
-.title {
-    color: black;
-    font-size: 12pt;
-    font-weight: 600;
-    padding-bottom: 3px;
-}
-
-.cap {
-    font-weight: 600;
-    font-size: 11pt;
-    margin-bottom: 15px;
-}
-
-.sub {
-    margin-bottom: 10px;
-} */

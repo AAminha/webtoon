@@ -1,3 +1,5 @@
+/* Home.js */
+
 .home_container {
     display: flex;
     flex-direction: column;
@@ -8,29 +10,28 @@
     margin-bottom: 20px;
 }
 
+.home_main_title {
+    display: flex;
+    flex-direction: row;
+}
 
-.weekly_container {
+.home_title {
+    margin-left: 20px;
+    width: 300px;
+}
+
+.home_weekly_container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 
-.main_title {
-    display: flex;
-    flex-direction: row;
-}
-
-.title {
-    margin-left: 20px;
-    width: 300px;
-}
-
-.more {
+.home_more {
     margin-left: 255px;
     color: #777676;
 }
 
-.more:hover {
+.home_more:hover {
     color: black;
 }

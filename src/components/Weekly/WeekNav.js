@@ -3,8 +3,6 @@ import { Link, useLocation } from "react-router-dom";
 import "components/css/Navigation.css";
 
 const WeekNavigation = () => {
-    const todayNum = new Date().getDay();
-
     return (
         <nav>
             <div>

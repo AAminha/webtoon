@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Route, Switch, useParams } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Event from "routes/Event";
 import Finish from "routes/Finish";
 import Home from "routes/Home";

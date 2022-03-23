@@ -8,7 +8,7 @@
     margin: 0 auto;
 }
 
-.finish_info {
+.finish_info_container {
     text-decoration-line: none;
     display: flex;
     flex-direction: row;

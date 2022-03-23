@@ -9,13 +9,13 @@ import "components/css/MyPage.css";
 const MyPage = ({ userObj }) => {
 	const history = useHistory();
 	const [myWebtoon, setMyWebtoon] = useState([]);
-	const [test, setTest] = useState([]);	
+	const [test, setTest] = useState([]);
+	var newArr=[];
 	
 	useEffect(()=>{
 		onCreate();
 	},[])
 
-	var newArr=[];
 	const onCreate = async() => {
 		await dbService.collection("webtoon")
 		.get().then((querySnapshot) => {
@@ -55,21 +55,19 @@ const MyPage = ({ userObj }) => {
 
 	return (
 		<>
-    <div className="main_container">
+    <div className="mypage_container">
 	    <div className="account_title">로그인한 계정</div>
 			<div className="account_container">
 				<img className="account_img" src={userObj._delegate.photoURL} />
 				<div className="account_info">
 					<div className="account_des">이름 : {userObj._delegate.displayName}</div>
 					<div className="account_des">메일 : {userObj._delegate.email}</div>
-					<button className="logBtn" onClick={onClickLogOut}>로그아웃</button>
+					<button className="account_logBtn" onClick={onClickLogOut}>로그아웃</button>
 				</div>
 			</div>
     </div>
-		<div className="main_container">
+		<div className="mypage_container">
 			<div className="fav_title">즐겨찾기한 웹툰</div>
-			{console.log("완성된 myWebtoon")}
-			{console.log(myWebtoon)}
 			{myWebtoon.map((webtoon) => (
 				<FavWebtoon
 					key={webtoon.key}
@@ -86,7 +84,7 @@ const FavWebtoon = ({webtoon}) => {
 	return(
 		<>
 			<div className="container">
-        <a className="fav_info" href={webtoon.url}>
+        <a className="fav_info_container" href={webtoon.url}>
           <img className="fav_image" src={webtoon.image} />
           <div className="fav_info_main">
             <h2 className="fav_info_title">{webtoon.title}</h2>

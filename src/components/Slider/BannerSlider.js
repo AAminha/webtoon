@@ -30,19 +30,19 @@ export default function BannerSlider({info}) {
   }, [currentSlide]);
 
   return (
-    <div className="container banner">
-      <div className="sliderContainer" ref={slideRef}>
+    <div className="slide_main_container banner">
+      <div className="slide_container" ref={slideRef}>
         {display_event.map((element) => (
-          <a className="webtoon_link" href={element.url} key={element.uid}>
-            <img className="banner_img" src={element.image}/>
-            <div className="info">
-              <div className="webtoon_title">{element.main_copy2}</div>
-              <div className="description">{element.sub_copy2}</div>
+          <a className="slide_webtoon_link" href={element.url} key={element.uid}>
+            <img className="slide_banner_img" src={element.image}/>
+            <div className="slide_info">
+              <div className="slide_webtoon_title">{element.main_copy2}</div>
+              <div className="slide_description">{element.sub_copy2}</div>
             </div>
           </a>
         ))}
       </div>
-      <div className="btns">
+      <div className="slide_btns">
         <button className="btn_banner left" onClick={PrevSlide}>◀</button>
         <button className="btn_banner right" onClick={NextSlide}>▶</button>
       </div>

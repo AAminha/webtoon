@@ -33,13 +33,13 @@ export default function EventSlider({info}) {
     slideRef.current.style.transform = `translateX(-${currentSlide}00%)`; // 백틱을 사용하여 슬라이드로 이동하는 에니메이션을 만듭니다.
   }, [currentSlide]);
   return (
-    <div className="container event">
-      <div className="sliderContainer" ref={slideRef}>
+    <div className="slide_main_container event">
+      <div className="slide_container" ref={slideRef}>
         {display_event.map((element) => (
-          <img className="event_img" src={element.image} key={element.uid}/>
+          <img className="slide_event_img" src={element.image} key={element.uid}/>
         ))}
       </div>
-      <div className="btns">
+      <div className="slide_btns">
         <button className="btn_event left" onClick={PrevSlide}>◀</button>
         <button className="btn_event right" onClick={NextSlide}>▶</button>
       </div>

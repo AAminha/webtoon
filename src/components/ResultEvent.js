@@ -1,4 +1,5 @@
 import React from "react";
+import "components/css/Event.css"
 
 const ResultEvent = ({image}) => {
     return (

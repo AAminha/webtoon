@@ -10,18 +10,18 @@ const Home = ({ webtoons, banner, events }) => {
     return (
         <div>
             <div className="home_container">
-                <h2 className="title">추천 웹툰</h2>
+                <h2 className="home_title">추천 웹툰</h2>
                 <BannerSlider info={banner} />
             </div>
             <div className="home_container">
-                <div className="main_title">
-                    <h2 className="title">메인 이벤트</h2>
-                    <Link to="/event" style={{ textDecoration: "none"}}><h4 className="more">더보기 (More)</h4></Link>
+                <div className="home_main_title">
+                    <h2 className="home_title">메인 이벤트</h2>
+                    <Link to="/event" style={{ textDecoration: "none"}}><h4 className="home_more">더보기 (More)</h4></Link>
                 </div>
                 <EventSlider info={events} />
             </div>
             <div className="home_container">
-                <h2 className="title">오늘의 웹툰</h2>
+                <h2 className="home_title">오늘의 웹툰</h2>
                 <TodayWebtoon webtoons={webtoons}/>
             </div>
         </div>
@@ -66,8 +66,7 @@ const TodayWebtoon = ({ webtoons }) => {
     }
 
     return (
-        <div className="weekly_container">
-            {console.log(weekWebtoon)}
+        <div className="home_weekly_container">
             {weekWebtoon.map((webtoon) => (
                 <ResultWebtoon
                     key={webtoon.series_id}

@@ -23,7 +23,7 @@ const WeeklyGenre = ({ webtoons, category }) => {
     }
 
     return (
-        <div className="main_container">
+        <div className="weekly_main_container">
             <h2 className="weekly_count">
                 {`전체 (${weeklyWebtoonCount})`}
             </h2>

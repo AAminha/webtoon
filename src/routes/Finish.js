@@ -8,7 +8,7 @@ const Finish = ({ webtoons }) => {
 
     return (
         <div className="finish_container">
-            <h2 className="finish_count">
+            <h2>
                 {`완결작 전체  (${finishCount}작품)`}
             </h2>
             <div>

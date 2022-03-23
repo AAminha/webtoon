@@ -5,8 +5,7 @@ import "components/css/Top.css"
 const TotalRank = ({ userObj, webtoons }) => {
 
     return (
-        <div className="main_container">
-            {console.log(webtoons)}
+        <div className="top_main_container">
             {webtoons.map((webtoon) => (
                 <ResultTop
                     key={webtoon.series_id}
